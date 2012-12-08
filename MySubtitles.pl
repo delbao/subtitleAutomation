@@ -29,9 +29,9 @@ my %scales =  ( 'h' => 3600000,
 # store names of a list of all files in a variable
 #my $sub_dir = shift @ARGV;
 
-my $sub_dir = "d:/complete";
+#my $sub_dir = "d:/complete";
 #my $sub_dir ="e:/subtest/out";
-#my $sub_dir = "e:/TV";
+my $sub_dir = "z:/";
 
 # rename directory name if special char in it, glob will fail on these chars
 #if($sub_dir =~ /[\[\]]/){
@@ -71,7 +71,7 @@ my @delay_files=<$sub_dir*.delay>;
 print "glob pattern is $sub_dir*.delay\n" if ($debug);
 
 # empty array have false boolean value
-unless(@delay_sub){
+unless(@delay_files){
     print "no delay files exists!\n" if ($debug);
 }
    
@@ -200,7 +200,8 @@ foreach $eng_sub (@eng_sub_files) {
     # my @chn_sub=glob $subname.".chn*.srt";
     # $cmd='\''.$subname.".chn*.srt".'\'';
 
-    my @chn_sub=<$subname.chn*.srt>;
+    # - comment out not to process chinese character
+    #my @chn_sub=<$subname.chn*.srt>;
 
     my $flag = 0;
     my $thrshld= 30000;
