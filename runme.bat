@@ -1,2 +1,2 @@
-perl mysubtitles.pl -d
+perl mysubtitles.pl -d -v -s
 pause
