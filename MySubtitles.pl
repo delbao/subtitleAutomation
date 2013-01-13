@@ -313,13 +313,15 @@ sub conv_lrc{
 	    # in WIN32, the line end is \r\n
 	    $text =~ s/\[br\]/"\r\n"/g;
 	    
+	    # remove <i> and </i>
+	    $text =~ s/<(i|\/i)>//g;
 	    
-	    # 5 sec subtitle merge
-	    if($previous == 0 || ($min * "60" + $sec) - $previous > 3) {
+	    # 10 sec subtitle merge
+	    if($previous == 0 || ($min * "60" + $sec) - $previous > 10) {
 		$previous = $min * "60" + $sec;
 		print OUTFILE "[$starttime]$text\r\n";
 	    }
-	    else {
+	    else { # merge those less than 10
 		print OUTFILE "$text\r\n";
 	    }
 	} else {
