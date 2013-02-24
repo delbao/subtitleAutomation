@@ -13,17 +13,18 @@ use Encode;
 
 use Getopt::Std qw(getopts);
 
-getopts('dvsp:i:', \%opts);
+getopts('dsvp:i:', \%opts);
 my $debug=$opts{d};
+my $doSubtitle=$opts{s};
 my $delete=$opts{v};
-my $debug=$opts{s};
+
 # store names of a list of all files in a variable
 #my $sub_dir = shift @ARGV;
 #my $sub_dir = "d:/complete";
 #my $sub_dir ="e:/subtest/out";
 #my $sub_dir = "z:/TV";
 my $sub_dir=$opts{p};
-my $sub_interval{i};
+my $sub_interval=$opts{i};
 
 #time scale
 my %scales =  ( 'h' => 3600000,
@@ -194,7 +195,7 @@ closedir DH;
 # @param the sub file to be delayed
 # @param the delay in ms
 
-sub subsync{  Thus, e
+sub subsync{
     if(open DELAY_SUB, $_[0]){
 	open TEMP, ">$_[0]".'.temp';
 
