@@ -1,2 +1,1 @@
-perl mysubtitles.pl -d -v
-pause
+perl mysubtitles.pl -d -v -p "z:/TV"

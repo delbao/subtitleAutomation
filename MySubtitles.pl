@@ -13,32 +13,24 @@ use Encode;
 
 use Getopt::Std qw(getopts);
 
-getopts('dvs');
+getopts('dvsp:i:', \%opts);
+my $debug=$opts{d};
+my $delete=$opts{v};
+my $debug=$opts{s};
+# store names of a list of all files in a variable
+#my $sub_dir = shift @ARGV;
+#my $sub_dir = "d:/complete";
+#my $sub_dir ="e:/subtest/out";
+#my $sub_dir = "z:/TV";
+my $sub_dir=$opts{p};
+my $sub_interval{i};
 
-if($opt_d){
-    $debug = 1;
-}
-
-if($opt_v){
-    $delete = 1;
-}
-
-if($opt_s){
-    $doSubtitle = 1;
-}
 #time scale
 my %scales =  ( 'h' => 3600000,
 		'm' => 60000,
 		's' => 1000,
 		'u' => 0,
     );
-
-# store names of a list of all files in a variable
-#my $sub_dir = shift @ARGV;
-
-#my $sub_dir = "d:/complete";
-#my $sub_dir ="e:/subtest/out";
-my $sub_dir = "z:/TV";
 
 # rename directory name if special char in it, glob will fail on these chars
 unless($sub_dir =~ /\/$/){
@@ -202,7 +194,7 @@ closedir DH;
 # @param the sub file to be delayed
 # @param the delay in ms
 
-sub subsync{
+sub subsync{  Thus, e
     if(open DELAY_SUB, $_[0]){
 	open TEMP, ">$_[0]".'.temp';
 
@@ -316,12 +308,12 @@ sub conv_lrc{
 	    # remove <i> and </i>
 	    $text =~ s/<(i|\/i)>//g;
 	    
-	    # 10 sec subtitle merge
-	    if($previous == 0 || ($min * "60" + $sec) - $previous > 10) {
+	    # $sub_interval sec subtitle merge
+	    if($previous == 0 || ($min * "60" + $sec) - $previous > $sub_interval) {
 		$previous = $min * "60" + $sec;
 		print OUTFILE "[$starttime]$text\r\n";
 	    }
-	    else { # merge those less than 10
+	    else { # merge those less than $sub_interval 
 		print OUTFILE "$text\r\n";
 	    }
 	} else {
