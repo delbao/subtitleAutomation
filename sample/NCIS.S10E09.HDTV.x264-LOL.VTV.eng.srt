@@ -1,0 +1,4622 @@
+﻿1
+00:00:04,298 --> 00:00:06,365
+♪
+
+2
+00:00:06,367 --> 00:00:09,318
+(brakes squeaking)
+
+3
+00:00:13,039 --> 00:00:15,207
+(flame crackles)
+
+4
+00:00:27,738 --> 00:00:28,855
+Here's your change, sir.
+
+5
+00:00:28,857 --> 00:00:30,189
+Thank you.
+
+6
+00:00:30,191 --> 00:00:31,741
+And your food.
+Thank you.
+
+7
+00:00:31,743 --> 00:00:33,192
+Thank you.
+
+8
+00:00:37,698 --> 00:00:40,232
+Mmm... Mmm...
+
+9
+00:00:45,238 --> 00:00:46,506
+(door closes)
+
+10
+00:00:54,431 --> 00:00:56,716
+(gunshots)
+
+11
+00:00:57,885 --> 00:00:58,968
+(gunfire)
+
+12
+00:00:58,970 --> 00:01:00,920
+(grunts)
+
+13
+00:01:02,439 --> 00:01:04,002
+(pants)
+
+14
+00:01:04,003 --> 00:01:08,003
+<font color=#00FF00>♪ NCIS 10x09 ♪</font>
+<font color=#00FFFF>Devil's Trifecta</font>
+Original air date on December 11, 2012
+
+15
+00:01:08,028 --> 00:01:13,028
+== sync, corrected by <font color=#00Ff00>elderman</font> ==
+
+16
+00:01:13,053 --> 00:01:33,692
+♪
+
+17
+00:01:38,628 --> 00:01:40,647
+DiNozzo.
+
+18
+00:01:40,649 --> 00:01:41,742
+TONY: We'll take it
+from here, boss.
+
+19
+00:01:41,743 --> 00:01:44,460
+Sketch and
+shoot, McGee.
+
+20
+00:01:44,462 --> 00:01:46,963
+Relax. I told you
+I was okay.
+
+21
+00:01:46,965 --> 00:01:49,165
+(siren chirps)
+
+22
+00:01:50,133 --> 00:01:53,369
+FORNELL: Rough day
+at the office.
+
+23
+00:01:53,371 --> 00:01:55,221
+I was too tired to take it off.
+
+24
+00:01:55,223 --> 00:01:57,139
+Not too tired to shoot back.
+
+25
+00:01:57,141 --> 00:01:58,758
+He ruined
+my favorite jacket.
+
+26
+00:01:58,760 --> 00:02:00,209
+I'd have shot my own mother.
+
+27
+00:02:04,348 --> 00:02:06,515
+Thanks for coming.
+
+28
+00:02:10,553 --> 00:02:12,521
+Didn't have a choice.
+
+29
+00:02:12,523 --> 00:02:15,241
+Shooter was Navy.
+
+30
+00:02:16,443 --> 00:02:18,560
+McGEE:
+<i>Meet Navy Seaman</i>
+
+31
+00:02:18,562 --> 00:02:19,912
+Tyler Brown.
+
+32
+00:02:19,914 --> 00:02:20,946
+22 years old.
+
+33
+00:02:20,948 --> 00:02:22,331
+Just returned from
+his first deployment
+
+34
+00:02:22,333 --> 00:02:24,367
+on the U.S.S.
+<i>Enterprise.</i>
+
+35
+00:02:24,369 --> 00:02:25,668
+ZIVA:
+His TDY was mess duty,
+
+36
+00:02:25,670 --> 00:02:27,620
+pending his next assignment,
+and that is all we have.
+
+37
+00:02:27,622 --> 00:02:29,205
+You recognize him, Tobias?
+
+38
+00:02:29,207 --> 00:02:30,423
+Never seen him before
+in my life.
+
+39
+00:02:30,425 --> 00:02:31,707
+ZIVA: Well, he must
+have known you.
+
+40
+00:02:31,709 --> 00:02:33,009
+You receive
+any threats lately?
+
+41
+00:02:33,011 --> 00:02:34,293
+Just from
+my ex-wife.
+
+42
+00:02:34,295 --> 00:02:36,262
+But then, she lives
+on my bad side.
+
+43
+00:02:36,264 --> 00:02:38,014
+DUCKY: Six shots,
+right through the chest.
+
+44
+00:02:38,016 --> 00:02:40,266
+Nice shooting.
+Remind me not to get
+
+45
+00:02:40,268 --> 00:02:41,517
+on your bad side.
+
+46
+00:02:41,519 --> 00:02:43,469
+Jethro, I think
+we can safely say
+
+47
+00:02:43,471 --> 00:02:45,388
+that cause of death was...
+
+48
+00:02:45,390 --> 00:02:47,189
+One pissed-off FBI agent.
+
+49
+00:02:47,191 --> 00:02:48,858
+Can you think of anyone
+you might have antagonized?
+
+50
+00:02:48,860 --> 00:02:50,026
+Is there anyone
+I haven't?
+
+51
+00:02:50,028 --> 00:02:52,395
+I put 30 guys behind bars
+in the past year.
+
+52
+00:02:52,397 --> 00:02:53,762
+12 of them are out already.
+
+53
+00:02:53,764 --> 00:02:54,780
+Gonna need a list.
+
+54
+00:02:54,782 --> 00:02:56,265
+I know the drill.
+
+55
+00:02:56,267 --> 00:02:58,284
+My gut tells me you're
+barking up the wrong tree.
+
+56
+00:02:58,286 --> 00:03:00,102
+You see the shooter's car?
+I'll bet you ten bucks
+
+57
+00:03:00,104 --> 00:03:02,988
+he's hopped up,
+looking for some easy cash.
+
+58
+00:03:02,990 --> 00:03:04,907
+The constriction
+in his pupils might suggest
+
+59
+00:03:04,909 --> 00:03:07,076
+that he was
+on some sort of stimulant.
+
+60
+00:03:07,078 --> 00:03:09,211
+There you go.
+Carjacking.
+
+61
+00:03:09,213 --> 00:03:11,130
+I was a target of opportunity.
+
+62
+00:03:11,132 --> 00:03:12,948
+TONY: I think you were
+a little more than that.
+
+63
+00:03:12,950 --> 00:03:14,917
+Found this in
+the shooter's car.
+
+64
+00:03:17,120 --> 00:03:19,055
+ZIVA: You were not
+a target of opportunity.
+
+65
+00:03:19,357 --> 00:03:21,390
+You were targeted.
+
+66
+00:03:22,892 --> 00:03:25,594
+That's my
+license plate.
+
+67
+00:03:26,863 --> 00:03:28,230
+♪
+
+68
+00:03:28,232 --> 00:03:30,032
+MAN:
+Is this a bar?
+
+69
+00:03:30,034 --> 00:03:31,567
+What's a guy got to do
+
+70
+00:03:31,569 --> 00:03:33,235
+to get a drink
+around here, huh?
+
+71
+00:03:33,237 --> 00:03:35,788
+Sober up. It's not even noon,
+and you're hammered.
+
+72
+00:03:35,790 --> 00:03:37,873
+My parents are Hungarian,
+all right?
+
+73
+00:03:37,875 --> 00:03:39,124
+It's aft...
+
+74
+00:03:39,126 --> 00:03:40,876
+After 8:00 in the Motherland.
+
+75
+00:03:40,878 --> 00:03:43,162
+BARTENDER: I know.
+Now, behave yourself.
+
+76
+00:03:43,164 --> 00:03:46,799
+I got to talk
+to these two guys from NCIS.
+
+77
+00:03:48,084 --> 00:03:50,085
+Look around--
+you think you're the first
+
+78
+00:03:50,087 --> 00:03:51,637
+Navy cops I ever seen?
+
+79
+00:03:51,639 --> 00:03:53,589
+FBI. <i>He's</i> NCIS.
+
+80
+00:03:53,591 --> 00:03:55,974
+You know this guy?
+Yeah.
+
+81
+00:03:55,976 --> 00:03:57,176
+He moonlights here
+when he's off duty.
+
+82
+00:03:57,178 --> 00:03:58,460
+Is he in some kind of trouble?
+
+83
+00:03:58,462 --> 00:03:59,461
+He's dead.
+
+84
+00:03:59,463 --> 00:04:02,264
+That's trouble.
+You don't seem
+
+85
+00:04:02,266 --> 00:04:03,649
+too broken up about it.
+
+86
+00:04:03,651 --> 00:04:05,017
+You gonna tell me what happened?
+
+87
+00:04:05,019 --> 00:04:07,519
+Seaman Brown tried to
+shoot me; I shot back.
+
+88
+00:04:07,521 --> 00:04:09,137
+GIBBS:
+He a bartender?
+
+89
+00:04:09,139 --> 00:04:10,239
+Bouncer.
+
+90
+00:04:10,241 --> 00:04:12,107
+BARTENDER:
+Best I had.
+
+91
+00:04:12,109 --> 00:04:14,076
+Didn't mind kicking ass
+when needed.
+
+92
+00:04:14,078 --> 00:04:16,912
+(laughs): Didn't mind?
+The guy got off on it.
+
+93
+00:04:16,914 --> 00:04:18,864
+That's enough
+out of you.
+
+94
+00:04:18,866 --> 00:04:20,115
+No.
+
+95
+00:04:20,117 --> 00:04:21,316
+How about a little more?
+
+96
+00:04:21,318 --> 00:04:22,751
+You care to elaborate?
+
+97
+00:04:22,753 --> 00:04:26,154
+(clattering) Hey, don't believe
+a word he says.
+
+98
+00:04:26,156 --> 00:04:28,657
+All he does is annoy
+my customers all day long.
+
+99
+00:04:28,659 --> 00:04:30,259
+WOMAN: Al!
+I'll be back in two.
+
+100
+00:04:30,261 --> 00:04:32,628
+(chuckles):
+Okay.
+
+101
+00:04:32,630 --> 00:04:35,047
+Hey. Talk.
+Huh? Oh.
+
+102
+00:04:35,049 --> 00:04:37,049
+Like I said...
+
+103
+00:04:37,051 --> 00:04:38,884
+jerk-o-matic.
+
+104
+00:04:38,886 --> 00:04:40,436
+And you didn't
+get it from me,
+
+105
+00:04:40,438 --> 00:04:43,021
+but I think he was dealing
+speed on the side.
+
+106
+00:04:43,023 --> 00:04:44,022
+You ever see it?
+
+107
+00:04:44,024 --> 00:04:46,141
+Well, no, but, uh...
+
+108
+00:04:46,143 --> 00:04:48,310
+I hear things.
+
+109
+00:04:49,195 --> 00:04:51,012
+Don't go anywhere.
+
+110
+00:04:51,014 --> 00:04:53,649
+♪
+
+111
+00:04:53,651 --> 00:04:55,784
+What are you thinking?
+
+112
+00:04:55,786 --> 00:04:58,620
+Ducky did say he thought
+the kid was on something.
+
+113
+00:04:58,622 --> 00:05:00,689
+I think we wait
+for the blood work.
+
+114
+00:05:00,691 --> 00:05:02,357
+Then we run it down.
+
+115
+00:05:09,165 --> 00:05:11,032
+That's funny,
+
+116
+00:05:11,034 --> 00:05:12,251
+she looks just like
+our ex-wife.
+
+117
+00:05:12,253 --> 00:05:15,254
+Well, this is
+a coincidence,
+
+118
+00:05:15,256 --> 00:05:18,590
+the three of us running
+into each other, like this.
+
+119
+00:05:19,425 --> 00:05:21,877
+Oh, I doubt that.
+
+120
+00:05:33,630 --> 00:05:34,964
+What are you doing here?
+
+121
+00:05:34,966 --> 00:05:36,599
+That's none of your business.
+Excuse me.
+
+122
+00:05:37,250 --> 00:05:38,834
+(laughs)
+
+123
+00:05:38,836 --> 00:05:39,902
+Okay.
+
+124
+00:05:39,904 --> 00:05:41,604
+I'm working.
+
+125
+00:05:41,606 --> 00:05:43,539
+That what you call
+pushing papers all day?
+
+126
+00:05:43,541 --> 00:05:46,642
+I am an auditor,
+not a paper pusher.
+
+127
+00:05:46,644 --> 00:05:47,943
+After Emily
+graduated eighth grade,
+
+128
+00:05:47,945 --> 00:05:49,678
+I went back to the IRS.
+Fitting, isn't it?
+
+129
+00:05:49,680 --> 00:05:52,014
+A cheater going
+after tax cheats.
+
+130
+00:05:52,016 --> 00:05:53,348
+Are you still
+going on about that?
+
+131
+00:05:53,350 --> 00:05:54,533
+It's ancient history.
+
+132
+00:05:54,535 --> 00:05:56,585
+So, what are you doing here?
+What else? An audit.
+
+133
+00:05:56,587 --> 00:05:59,071
+There were some discrepancies
+with the bar's tax return.
+
+134
+00:05:59,073 --> 00:06:00,206
+So you're gonna pretend
+
+135
+00:06:00,208 --> 00:06:01,690
+you don't know anything
+about what happened?
+
+136
+00:06:01,692 --> 00:06:03,025
+What happened?
+
+137
+00:06:03,027 --> 00:06:04,794
+Diane! I was...
+
+138
+00:06:04,796 --> 00:06:05,995
+Shh...
+
+139
+00:06:05,997 --> 00:06:07,513
+"Shh"?
+
+140
+00:06:07,515 --> 00:06:09,014
+Shh!
+
+141
+00:06:09,016 --> 00:06:10,800
+You two spring a leak
+or something?
+
+142
+00:06:10,802 --> 00:06:12,218
+BARTENDER:
+Oh.
+
+143
+00:06:12,220 --> 00:06:13,552
+I thought you'd left.
+
+144
+00:06:13,554 --> 00:06:15,421
+We just have a couple more
+questions for both of you.
+
+145
+00:06:15,423 --> 00:06:20,226
+Okay. Just remember that our
+conversation is... confidential.
+
+146
+00:06:20,228 --> 00:06:22,144
+Of course, Mrs. Fornell.
+
+147
+00:06:22,929 --> 00:06:24,830
+Mrs.--
+Fornell?
+
+148
+00:06:24,832 --> 00:06:26,482
+But I spoke with the owner--
+he appreciates the offer,
+
+149
+00:06:26,484 --> 00:06:28,484
+but he's not interested
+in selling his bar.
+
+150
+00:06:28,486 --> 00:06:29,819
+Selling...
+The bar?
+
+151
+00:06:29,821 --> 00:06:31,687
+FORNELL:
+Didn't she say "audit"?
+
+152
+00:06:31,689 --> 00:06:32,688
+Yeah.
+
+153
+00:06:32,690 --> 00:06:34,940
+Do you know what
+"confidential" means?
+
+154
+00:06:34,942 --> 00:06:37,827
+Do you know what
+"obstruction of justice" means?
+
+155
+00:06:41,248 --> 00:06:42,731
+We got her settled
+in Interrogation.
+
+156
+00:06:42,733 --> 00:06:44,283
+Good thing I had
+my tetanus shot.
+
+157
+00:06:44,285 --> 00:06:46,035
+I almost lost a hand.
+Uh,
+
+158
+00:06:46,037 --> 00:06:48,087
+she was quite, uh, vocal
+about her displeasure.
+
+159
+00:06:48,089 --> 00:06:49,905
+Perhaps, uh,
+the conference room...
+
+160
+00:06:49,907 --> 00:06:53,342
+would have been a more
+suitable place to question her.
+
+161
+00:06:53,344 --> 00:06:55,845
+Oh... they stick
+together, don't they?
+
+162
+00:06:55,847 --> 00:06:57,296
+I tried
+small talk, but...
+
+163
+00:06:57,298 --> 00:06:58,413
+she wouldn't say
+a word.
+
+164
+00:06:58,415 --> 00:06:59,648
+No. She needs
+to cool off first.
+
+165
+00:06:59,673 --> 00:07:01,053
+You really
+gonna hit your ex-wife
+
+166
+00:07:01,055 --> 00:07:02,936
+with an obstruction
+of justice charge?
+
+167
+00:07:02,937 --> 00:07:04,553
+Yes. The manager said
+she was interested
+
+168
+00:07:04,555 --> 00:07:06,388
+in buying the bar;
+she never mentioned anything
+
+169
+00:07:06,390 --> 00:07:07,857
+about any audit.
+Which means she lied
+
+170
+00:07:07,859 --> 00:07:09,258
+to a federal agent.
+He also said
+
+171
+00:07:09,260 --> 00:07:11,694
+she introduced herself
+as Diane <i>Fornell.</i>
+
+172
+00:07:11,696 --> 00:07:13,562
+Which means
+she's using an alias.
+
+173
+00:07:13,564 --> 00:07:17,366
+Actually, she's using two.
+Look what I found in her purse.
+
+174
+00:07:19,769 --> 00:07:22,404
+McGEE: And please, don't ever
+make me spend time alone
+
+175
+00:07:22,406 --> 00:07:23,372
+with her again, ever.
+
+176
+00:07:23,374 --> 00:07:25,791
+She sucked you in, too.
+
+177
+00:07:25,793 --> 00:07:27,877
+FORNELL: But what's the game?
+I didn't know then.
+
+178
+00:07:27,879 --> 00:07:29,328
+I sure as hell
+don't know now.
+
+179
+00:07:29,330 --> 00:07:31,080
+Her presence at the bar
+where Seaman Brown worked
+
+180
+00:07:31,082 --> 00:07:32,769
+might have simply
+been a coincidence.
+
+181
+00:07:32,794 --> 00:07:34,050
+No way. And enough
+
+182
+00:07:34,051 --> 00:07:35,801
+with the girl power.
+More likely
+
+183
+00:07:35,803 --> 00:07:37,419
+she finally hired
+that hit man
+
+184
+00:07:37,421 --> 00:07:40,455
+she's been talking about
+for years, to take me out.
+
+185
+00:07:41,391 --> 00:07:43,959
+(laughs):
+No!
+
+186
+00:07:43,961 --> 00:07:45,627
+No.
+
+187
+00:07:48,014 --> 00:07:49,231
+But we should put
+a pin in that.
+
+188
+00:07:49,233 --> 00:07:51,233
+Seaman Brown-- what
+do we know about him?
+
+189
+00:07:51,235 --> 00:07:53,686
+Background confirms what
+the annoying drunk guy told you.
+
+190
+00:07:53,688 --> 00:07:55,187
+Brown wasn't exactly model Navy.
+
+191
+00:07:55,189 --> 00:07:57,239
+He was reprimanded several times
+for fighting with his shipmates
+
+192
+00:07:57,241 --> 00:07:58,357
+and for being
+late for duty.
+
+193
+00:07:58,359 --> 00:07:59,858
+TONY:
+He was actually in the process
+
+194
+00:07:59,860 --> 00:08:01,110
+of getting
+a bad-conduct discharge.
+
+195
+00:08:01,112 --> 00:08:02,778
+But we didn't find a
+thing in his background
+
+196
+00:08:02,780 --> 00:08:04,113
+that connects him
+to Agent Fornell.
+
+197
+00:08:04,115 --> 00:08:06,315
+Other than the fact
+that my ex-wife showed up
+
+198
+00:08:06,317 --> 00:08:07,700
+at his workplace today.
+
+199
+00:08:07,702 --> 00:08:09,484
+No putting it off
+any longer.
+
+200
+00:08:09,486 --> 00:08:11,486
+Interrogation time.
+
+201
+00:08:11,488 --> 00:08:13,122
+I can't wait to see this.
+
+202
+00:08:13,124 --> 00:08:14,173
+Don't worry about it.
+
+203
+00:08:14,175 --> 00:08:16,926
+You're gonna have
+a front-row seat.
+
+204
+00:08:17,928 --> 00:08:19,345
+How dare you!
+
+205
+00:08:19,347 --> 00:08:21,663
+Questioning me like
+some common criminal!
+
+206
+00:08:21,665 --> 00:08:23,432
+(groans) Who do you
+think you are?
+
+207
+00:08:23,434 --> 00:08:24,800
+When I get
+through with you,
+
+208
+00:08:24,802 --> 00:08:26,168
+Agent Coif...
+
+209
+00:08:26,170 --> 00:08:27,219
+you're gonna be wishing
+
+210
+00:08:27,221 --> 00:08:29,054
+your parents hadn't
+even been born.
+
+211
+00:08:29,056 --> 00:08:30,406
+Coif?
+And you two!
+
+212
+00:08:30,408 --> 00:08:31,774
+(scoffs)
+
+213
+00:08:31,776 --> 00:08:34,476
+What, are you too afraid to come
+in here and face me yourselves?
+
+214
+00:08:34,478 --> 00:08:36,228
+I won't dignify that
+with a response!
+
+215
+00:08:36,230 --> 00:08:37,646
+You just did.
+
+216
+00:08:37,648 --> 00:08:39,448
+TONY: Okay, I don't want
+to be here, either.
+
+217
+00:08:39,450 --> 00:08:40,566
+Will you please sit down!
+
+218
+00:08:40,568 --> 00:08:43,185
+(whispers): Will you
+please just sit down?
+
+219
+00:08:46,623 --> 00:08:47,990
+(sighs)
+
+220
+00:08:47,992 --> 00:08:50,209
+(low grunt)
+
+221
+00:08:50,211 --> 00:08:51,877
+DIANE:
+I have already told you,
+
+222
+00:08:51,879 --> 00:08:53,796
+I don't know
+Seaman Brown.
+
+223
+00:08:53,798 --> 00:08:55,080
+She's lying--
+her lip curled.
+
+224
+00:08:55,082 --> 00:08:56,966
+I saw it.
+TONY: You also told
+
+225
+00:08:56,968 --> 00:08:59,485
+Agent Gibbs and Fornell you
+were at the bar for a tax audit,
+
+226
+00:08:59,487 --> 00:09:01,036
+but you told the bar manager
+
+227
+00:09:01,038 --> 00:09:02,972
+you were interested
+in buying the place.
+
+228
+00:09:02,974 --> 00:09:04,974
+It is a woman's prerogative
+to change her mind.
+
+229
+00:09:04,976 --> 00:09:07,376
+Is it a woman's prerogative
+to carry two fake I.D.'s?
+
+230
+00:09:07,378 --> 00:09:09,144
+You went through my purse?
+
+231
+00:09:09,863 --> 00:09:10,980
+No.
+
+232
+00:09:10,982 --> 00:09:12,147
+McGee did.
+
+233
+00:09:12,149 --> 00:09:13,899
+Now, uh...
+
+234
+00:09:13,901 --> 00:09:15,768
+does your husband
+know that your...
+
+235
+00:09:15,770 --> 00:09:18,187
+walking around town
+posing as Mrs. Fornell?
+
+236
+00:09:18,189 --> 00:09:19,822
+Victor is in Turks and Caicos
+
+237
+00:09:19,824 --> 00:09:21,586
+at a destination wedding
+with my daughter.
+
+238
+00:09:21,611 --> 00:09:22,525
+What's the matter,
+
+239
+00:09:22,526 --> 00:09:24,610
+you didn't get invited?
+Yes, I was invited.
+
+240
+00:09:24,612 --> 00:09:26,728
+I just needed a little...
+
+241
+00:09:26,730 --> 00:09:28,747
+time to myself.
+Stop it!
+
+242
+00:09:28,749 --> 00:09:29,748
+You two!
+
+243
+00:09:29,750 --> 00:09:30,783
+I can hear you smirking
+
+244
+00:09:30,785 --> 00:09:32,868
+from in here.
+Listen, you tell Agent...
+
+245
+00:09:32,870 --> 00:09:34,370
+uh, McGee
+
+246
+00:09:34,372 --> 00:09:36,505
+that when I catch
+your frickin' scrawny ass...
+
+247
+00:09:36,507 --> 00:09:39,074
+Gibbs, the interrogation
+is ov...
+
+248
+00:09:42,012 --> 00:09:45,347
+Right. Should've
+seen that one coming.
+
+249
+00:09:45,349 --> 00:09:48,967
+Gibbs...
+the interrogation is over.
+
+250
+00:09:49,886 --> 00:09:51,253
+Why?
+
+251
+00:09:51,255 --> 00:09:53,722
+DIANE:
+Well, it took you long enough!
+
+252
+00:09:56,393 --> 00:09:58,593
+I'll bet she's a panther
+in the sack.
+
+253
+00:09:59,429 --> 00:10:01,363
+Yes, sir.
+
+254
+00:10:01,365 --> 00:10:02,448
+I understand, sir.
+
+255
+00:10:02,450 --> 00:10:03,532
+Thank <i>you,</i> sir.
+
+256
+00:10:03,534 --> 00:10:05,367
+Idiot.
+
+257
+00:10:05,369 --> 00:10:06,368
+Satisfied?
+
+258
+00:10:06,370 --> 00:10:07,536
+I'm satisfied
+I'm cleared to talk.
+
+259
+00:10:07,538 --> 00:10:08,537
+I am unsatisfied
+
+260
+00:10:08,539 --> 00:10:10,122
+that now I have
+to talk to <i>them.</i>
+
+261
+00:10:10,124 --> 00:10:11,457
+"Cleared"?
+Mrs. Sterling
+
+262
+00:10:11,459 --> 00:10:13,158
+was telling you the truth,
+as least partly.
+
+263
+00:10:13,160 --> 00:10:14,793
+She did go
+back to work
+
+264
+00:10:14,795 --> 00:10:16,962
+for the IRS,
+just not as an auditor.
+
+265
+00:10:16,964 --> 00:10:19,965
+She's been promoted
+to a GS-11 position
+
+266
+00:10:19,967 --> 00:10:21,050
+in Enforcement.
+
+267
+00:10:21,052 --> 00:10:22,584
+Which means...
+
+268
+00:10:22,586 --> 00:10:26,422
+It means that you two aren't
+the only ones with a badge.
+
+269
+00:10:28,124 --> 00:10:29,508
+Wow.
+
+270
+00:10:29,510 --> 00:10:32,144
+My breakfast burrito
+is about to say "hello."
+
+271
+00:10:32,146 --> 00:10:34,430
+The IRS Deputy Commissioner
+called when he heard
+
+272
+00:10:34,432 --> 00:10:36,631
+that we had...
+one of their agents.
+
+273
+00:10:36,633 --> 00:10:38,467
+Agents?
+Wow.
+
+274
+00:10:38,469 --> 00:10:39,852
+"And the Lord wept."
+DIANE: Yes, agent.
+
+275
+00:10:39,854 --> 00:10:43,272
+And I was undercover when
+you two bumbled into the bar.
+
+276
+00:10:43,274 --> 00:10:44,440
+Undercover on what?
+
+277
+00:10:44,442 --> 00:10:46,408
+Big tax-fraud case.
+
+278
+00:10:46,410 --> 00:10:47,860
+Somebody's stealing
+identities,
+
+279
+00:10:47,862 --> 00:10:49,328
+filing fake returns
+and making off
+
+280
+00:10:49,330 --> 00:10:51,163
+with a boatload
+in fraudulent refund checks.
+
+281
+00:10:51,165 --> 00:10:53,365
+Costs the IRS
+billions each year.
+
+282
+00:10:53,367 --> 00:10:55,451
+We have traced several
+identity thefts to the bar.
+
+283
+00:10:55,453 --> 00:10:57,586
+My plan <i>was</i>
+to I.D. the thief
+
+284
+00:10:57,588 --> 00:10:59,254
+and follow him back
+to the ringleader.
+
+285
+00:10:59,256 --> 00:11:01,623
+I was posing as a buyer
+so I could interview
+
+286
+00:11:01,625 --> 00:11:02,925
+the employees on the DL.
+
+287
+00:11:02,927 --> 00:11:04,543
+You were posing as Mrs. Fornell.
+
+288
+00:11:04,545 --> 00:11:06,261
+Budget cuts.
+
+289
+00:11:06,263 --> 00:11:07,546
+A fake I.D.
+is expensive.
+
+290
+00:11:07,548 --> 00:11:09,214
+I was improvising.
+Improvising?!
+
+291
+00:11:09,216 --> 00:11:11,333
+Your improvising
+almost got me killed!
+
+292
+00:11:11,335 --> 00:11:14,503
+You must have ruffled
+the wrong feathers, Agent <i>Fornell.</i>
+
+293
+00:11:14,505 --> 00:11:15,687
+And those feathers
+thought I was
+
+294
+00:11:15,689 --> 00:11:17,301
+part of your op
+and put a hit out on me!
+
+295
+00:11:17,326 --> 00:11:19,175
+Sorry?
+
+296
+00:11:19,176 --> 00:11:21,477
+Sorry?!
+VANCE: All right, calm down.
+
+297
+00:11:21,479 --> 00:11:24,029
+If there was a hit put out on you,
+it means Agent Sterling
+
+298
+00:11:24,031 --> 00:11:27,232
+is getting close, which also
+means she's in danger, too.
+
+299
+00:11:27,234 --> 00:11:29,109
+I want to see your files.
+(laughs): No way!
+
+300
+00:11:29,111 --> 00:11:29,817
+It wasn't a request.
+
+301
+00:11:29,842 --> 00:11:31,571
+Oh, I'm so sorry,
+let me rephrase that. Go...
+
+302
+00:11:31,572 --> 00:11:33,622
+VANCE:
+I said calm down.
+
+303
+00:11:33,624 --> 00:11:35,073
+Everyone.
+
+304
+00:11:35,075 --> 00:11:36,959
+You'll have plenty of time
+to review her files.
+
+305
+00:11:36,961 --> 00:11:39,962
+Since this case now spans
+three federal agencies,
+
+306
+00:11:39,964 --> 00:11:42,114
+your bosses and
+I have decided
+
+307
+00:11:42,116 --> 00:11:45,467
+that the three of you will be
+working on this case together.
+
+308
+00:11:59,472 --> 00:12:00,739
+(whispers):
+Here she comes.
+
+309
+00:12:00,741 --> 00:12:03,192
+Here I go.
+Gibbs told us to stay put.
+
+310
+00:12:03,194 --> 00:12:04,860
+FORNELL: Better you should run
+for the hills.
+
+311
+00:12:04,862 --> 00:12:07,129
+You know, I am not any happier
+about this than you are,
+
+312
+00:12:07,131 --> 00:12:08,997
+so can we please make it
+as painless as possible.
+
+313
+00:12:08,999 --> 00:12:10,916
+So says the Queen of Pain.
+
+314
+00:12:10,918 --> 00:12:13,886
+What is going on?
+New assignment.
+
+315
+00:12:13,888 --> 00:12:15,521
+Special Agent... Sterling
+
+316
+00:12:15,523 --> 00:12:17,122
+will you bring
+you up to speed.
+
+317
+00:12:17,124 --> 00:12:19,958
+TONY (laughing):
+What...
+
+318
+00:12:19,960 --> 00:12:22,211
+Oh, that's-that's...
+very cool.
+
+319
+00:12:23,379 --> 00:12:25,848
+DIANE: Chucky, would you
+pull up the IRS mainframe,
+
+320
+00:12:25,850 --> 00:12:30,219
+directory: dsterling;
+password: Tobias cheap.
+
+321
+00:12:32,088 --> 00:12:34,473
+As I told Frick and Frack already,
+somebody is running
+
+322
+00:12:34,475 --> 00:12:37,092
+a major fraud operation
+against the IRS,
+
+323
+00:12:37,094 --> 00:12:38,310
+stealing hundreds of identities,
+
+324
+00:12:38,312 --> 00:12:40,395
+submitting thousands
+in fake tax returns.
+
+325
+00:12:40,397 --> 00:12:41,930
+DIANE: We've traced
+the identity thefts...
+
+326
+00:12:41,932 --> 00:12:43,866
+To the Navy bar where Gibbs
+and Fornell bumped into you?
+
+327
+00:12:43,868 --> 00:12:46,101
+And you think someone there was
+lifting driver's license info.
+
+328
+00:12:46,103 --> 00:12:47,286
+McGEE:
+Probably Seaman Brown.
+
+329
+00:12:47,288 --> 00:12:48,654
+As a bouncer,
+he would've checked
+
+330
+00:12:48,656 --> 00:12:51,206
+every I.D. that
+came through the door.
+
+331
+00:12:51,208 --> 00:12:53,075
+You must be very proud, Jethro.
+
+332
+00:12:53,993 --> 00:12:55,761
+Clearly Brown
+is not the mastermind behind
+
+333
+00:12:55,763 --> 00:12:57,796
+this operation-- he doesn't
+have the accounting chops.
+
+334
+00:12:57,798 --> 00:12:59,748
+We're looking for somebody else.
+Did you run down
+
+335
+00:12:59,750 --> 00:13:01,166
+the addresses of
+the fake tax returns?
+
+336
+00:13:01,168 --> 00:13:03,051
+Yeah, all P.O. boxes,
+all dead ends.
+
+337
+00:13:03,053 --> 00:13:04,803
+They keep rotating them out
+for new ones.
+
+338
+00:13:04,805 --> 00:13:06,638
+Where are the perps
+cashing the refund checks?
+
+339
+00:13:06,640 --> 00:13:09,291
+Well, various storefronts
+on the opposite side of town.
+
+340
+00:13:09,293 --> 00:13:10,976
+I've already run down
+a whole bunch,
+
+341
+00:13:10,978 --> 00:13:12,344
+but I got a bunch more.
+
+342
+00:13:12,346 --> 00:13:13,645
+You thinking what I'm thinking?
+GIBBS: Yeah.
+
+343
+00:13:13,647 --> 00:13:16,014
+Gibbs and I are gonna
+double-check the P.O. boxes,
+
+344
+00:13:16,016 --> 00:13:17,482
+just in case you
+missed something.
+
+345
+00:13:17,484 --> 00:13:20,652
+And me?
+GIBBS: Check-cashing outlets.
+
+346
+00:13:20,654 --> 00:13:23,238
+Opposite side of town.
+
+347
+00:13:25,308 --> 00:13:26,942
+I'll be with you
+in a minute.
+
+348
+00:13:26,944 --> 00:13:29,477
+This is not even close to
+the "opposite side of town."
+
+349
+00:13:29,479 --> 00:13:32,998
+No, but I knew if I said that,
+the boys would want to split up.
+
+350
+00:13:33,000 --> 00:13:36,585
+I'm not taking a break from my
+husband just to spend it with my exes.
+
+351
+00:13:36,587 --> 00:13:38,003
+A break?
+
+352
+00:13:38,005 --> 00:13:40,038
+Are you and Victor
+having difficulties?
+
+353
+00:13:40,040 --> 00:13:42,875
+(sighing):
+Victor, no.
+
+354
+00:13:42,877 --> 00:13:44,760
+Me, yes.
+
+355
+00:13:44,762 --> 00:13:46,628
+I...
+Did not mean to intrude.
+
+356
+00:13:46,630 --> 00:13:48,496
+Now, don't get me
+wrong-- Victor,
+
+357
+00:13:48,498 --> 00:13:51,800
+he's a good man and he's...
+he's a great role model for Emily,
+
+358
+00:13:51,802 --> 00:13:53,602
+but I just...
+
+359
+00:13:53,604 --> 00:13:55,187
+I don't know.
+
+360
+00:13:55,189 --> 00:13:58,557
+I'm starting to wonder if I made
+a mistake getting married again.
+
+361
+00:14:00,310 --> 00:14:02,010
+How so?
+Well, I...
+
+362
+00:14:02,012 --> 00:14:05,864
+I settled down so... early, and
+I just went from marriage to marriage,
+
+363
+00:14:05,866 --> 00:14:07,719
+you know, and I never
+went out and acted crazy,
+
+364
+00:14:07,744 --> 00:14:09,452
+like all my friends.
+
+365
+00:14:09,453 --> 00:14:11,536
+Mm. And now you wish to...
+
+366
+00:14:11,538 --> 00:14:13,121
+act... crazy?
+
+367
+00:14:13,123 --> 00:14:15,324
+Yeah.
+
+368
+00:14:15,326 --> 00:14:18,360
+I want to go out and
+do something wild.
+
+369
+00:14:18,362 --> 00:14:20,862
+Just let loose for once.
+
+370
+00:14:20,864 --> 00:14:22,047
+Huh.
+
+371
+00:14:22,049 --> 00:14:23,999
+That's hard to do
+if you're married.
+
+372
+00:14:25,034 --> 00:14:26,368
+To Victor.
+
+373
+00:14:26,370 --> 00:14:27,886
+MAN: Look, guy,
+I'm gonna need
+
+374
+00:14:27,888 --> 00:14:30,005
+some kind of I.D., okay?
+
+375
+00:14:30,007 --> 00:14:31,556
+Next.
+
+376
+00:14:31,558 --> 00:14:34,009
+Or working for the IRS.
+Hm.
+
+377
+00:14:34,877 --> 00:14:37,396
+Agent Sterling, IRS,
+
+378
+00:14:37,398 --> 00:14:38,847
+Criminal Investigations
+Division.
+
+379
+00:14:38,849 --> 00:14:40,482
+Agent David, NCIS.
+
+380
+00:14:40,484 --> 00:14:42,150
+I'm not getting
+a check-cashing vibe.
+
+381
+00:14:42,152 --> 00:14:43,268
+We're gonna need
+some information.
+
+382
+00:14:43,270 --> 00:14:44,319
+ZIVA: These are
+fraudulently
+
+383
+00:14:44,321 --> 00:14:45,604
+obtained IRS refund checks.
+
+384
+00:14:45,606 --> 00:14:47,940
+They were cashed here--
+we need to know by whom.
+
+385
+00:14:47,942 --> 00:14:50,742
+Fraudulently obtained?
+Hey, that's not my fault.
+
+386
+00:14:50,744 --> 00:14:52,110
+Well, as the owner,
+it's your responsibility
+
+387
+00:14:52,112 --> 00:14:54,079
+to help us find out
+whose fault it is.
+
+388
+00:14:54,081 --> 00:14:56,281
+All right. If it's
+one thing I'm good at,
+
+389
+00:14:56,283 --> 00:14:57,899
+is throwing people
+under the bus.
+
+390
+00:14:57,901 --> 00:14:59,668
+Uh...
+
+391
+00:14:59,670 --> 00:15:02,237
+yeah, I recognize
+the billing code.
+
+392
+00:15:02,239 --> 00:15:03,789
+Oliver Lambert.
+
+393
+00:15:03,791 --> 00:15:05,757
+An accountant who
+comes here once a week,
+
+394
+00:15:05,759 --> 00:15:07,509
+cashes checks for his clients.
+
+395
+00:15:07,511 --> 00:15:09,011
+Do you have his contact info?
+Yeah.
+
+396
+00:15:09,013 --> 00:15:10,512
+I have his contact info,
+
+397
+00:15:10,514 --> 00:15:12,414
+records of transactions,
+
+398
+00:15:12,416 --> 00:15:14,633
+I've even got the guy's
+<i>shayna punim</i>
+
+399
+00:15:14,635 --> 00:15:16,218
+on video, if you'd like.
+
+400
+00:15:16,220 --> 00:15:18,971
+Just give me a sec.
+
+401
+00:15:20,256 --> 00:15:23,025
+ABBY: Just like the man said--
+once a week, like clockwork,
+
+402
+00:15:23,027 --> 00:15:26,028
+Lambert cashes about a dozen
+refund checks and then splits.
+
+403
+00:15:26,030 --> 00:15:27,863
+Looks like we've
+got our mastermind.
+
+404
+00:15:27,865 --> 00:15:29,564
+An accountant should
+certainly have the chops
+
+405
+00:15:29,566 --> 00:15:31,366
+to scam the IRS.
+
+406
+00:15:31,368 --> 00:15:33,201
+He and Seaman Brown must've
+been working together.
+
+407
+00:15:33,203 --> 00:15:34,736
+No word on Lambert's BOLO, boss.
+
+408
+00:15:34,738 --> 00:15:36,538
+He wasn't at his
+home or office,
+
+409
+00:15:36,540 --> 00:15:38,957
+and his cell phone is off,
+but we did get his computer.
+
+410
+00:15:38,959 --> 00:15:40,993
+ABBY: Have you checked race tracks?
+'Cause I notice
+
+411
+00:15:40,995 --> 00:15:44,046
+every single time Lambert
+shows up, he has the same
+
+412
+00:15:44,048 --> 00:15:45,964
+piece of paper folded up
+in his back pocket.
+
+413
+00:15:45,966 --> 00:15:47,082
+It's a betting sheet.
+
+414
+00:15:47,084 --> 00:15:49,784
+He likes the horses.
+I'll expand the BOLO,
+
+415
+00:15:49,786 --> 00:15:52,337
+but I don't think he's hanging around--
+he just emptied his bank account.
+
+416
+00:15:52,339 --> 00:15:53,006
+Nah, he's running.
+
+417
+00:15:53,031 --> 00:15:54,924
+Must have found out
+the Feds are after him.
+
+418
+00:15:54,925 --> 00:15:56,491
+I'm guessing
+he already knew.
+
+419
+00:15:56,493 --> 00:15:59,144
+He's probably the one who tried
+to have you killed, remember?
+
+420
+00:15:59,146 --> 00:16:03,015
+Speaking of which, Diane is
+probably on his hit list, too.
+
+421
+00:16:03,017 --> 00:16:04,933
+It's getting late.
+With Lambert on the loose,
+
+422
+00:16:04,935 --> 00:16:06,234
+she should probably...
+
+423
+00:16:06,236 --> 00:16:08,487
+sleep at your house tonight.
+I'll talk to you later.
+
+424
+00:16:08,489 --> 00:16:10,489
+No, you're right,
+she shouldn't be alone,
+
+425
+00:16:10,491 --> 00:16:11,973
+but since you
+married her last,
+
+426
+00:16:11,975 --> 00:16:13,191
+I think that
+means your place.
+
+427
+00:16:13,193 --> 00:16:14,609
+ABBY:
+This is gonna be good.
+
+428
+00:16:14,611 --> 00:16:16,461
+FORNELL:
+I've got no clean sheets.
+
+429
+00:16:16,463 --> 00:16:19,314
+My heater's broken.
+I've got toxic black mold in my kitchen.
+
+430
+00:16:19,316 --> 00:16:20,832
+I'll let these two
+figure it out,
+
+431
+00:16:20,834 --> 00:16:23,418
+since I know the one place
+she's definitely <i>not</i> staying.
+
+432
+00:16:33,129 --> 00:16:34,713
+(sighs)
+
+433
+00:16:34,715 --> 00:16:36,431
+Oh, this is
+ridiculous.
+
+434
+00:16:36,433 --> 00:16:38,383
+Why can't I just
+stay at my place?
+
+435
+00:16:38,385 --> 00:16:40,268
+They can post an agent
+outside my door.
+
+436
+00:16:40,270 --> 00:16:43,188
+'Cause the best way to protect you is
+to make you hard to find.
+
+437
+00:16:43,190 --> 00:16:44,523
+Well, then trust me,
+we're good,
+
+438
+00:16:44,548 --> 00:16:46,025
+because no one's
+gonna come looking for me
+
+439
+00:16:46,026 --> 00:16:47,442
+this close to
+where you shower.
+
+440
+00:16:47,444 --> 00:16:49,778
+Look, I'll take the couch;
+you can have the bed.
+
+441
+00:16:49,780 --> 00:16:51,863
+I would rather stand;
+I'll take the couch.
+
+442
+00:16:51,865 --> 00:16:53,198
+Whatever.
+
+443
+00:16:53,200 --> 00:16:56,351
+(sighs) You don't have to be
+so rude about it.
+
+444
+00:16:57,186 --> 00:16:59,321
+Me? Being rude?
+
+445
+00:16:59,323 --> 00:17:00,989
+This coming from the woman
+who spent
+
+446
+00:17:00,991 --> 00:17:03,208
+the entire car ride over here
+telling me I had
+
+447
+00:17:03,210 --> 00:17:04,859
+the worst possible haircut
+for my face.
+
+448
+00:17:04,861 --> 00:17:06,861
+I was trying to be helpful.
+Oh, were you also being helpful
+
+449
+00:17:06,863 --> 00:17:08,696
+when you told me my elbows
+weren't pointy enough?
+
+450
+00:17:08,698 --> 00:17:09,798
+What does that even mean?
+
+451
+00:17:09,800 --> 00:17:11,249
+Cut me slack, Chucky.
+
+452
+00:17:11,251 --> 00:17:13,468
+(groans) I almost had
+my daughter's father killed,
+
+453
+00:17:13,470 --> 00:17:16,204
+my husband wants to leave me,
+and now I find out
+
+454
+00:17:16,206 --> 00:17:17,872
+my own life might be in danger?
+
+455
+00:17:17,874 --> 00:17:20,892
+The rumor I heard was, you
+were thinking of leaving Victor.
+
+456
+00:17:20,894 --> 00:17:24,179
+It's none of your business;
+I don't want to talk about it.
+
+457
+00:17:24,181 --> 00:17:25,666
+Trust me, fine by me.
+
+458
+00:17:25,691 --> 00:17:27,984
+Oh, the thing is that Victor,
+he used to tell me
+
+459
+00:17:27,985 --> 00:17:30,352
+every day I was the most
+beautiful woman in the world,
+
+460
+00:17:30,354 --> 00:17:33,989
+and now he...
+doesn't say that anymore.
+
+461
+00:17:33,991 --> 00:17:36,274
+So has <i>he</i> changed...
+
+462
+00:17:36,276 --> 00:17:39,161
+or have I?
+
+463
+00:17:39,163 --> 00:17:41,363
+What do you think?
+
+464
+00:17:42,565 --> 00:17:44,249
+Excuse me?
+
+465
+00:17:44,251 --> 00:17:47,068
+Well, it's a simple question.
+
+466
+00:17:47,070 --> 00:17:49,488
+You're an attractive man--
+I-I want to know,
+
+467
+00:17:49,490 --> 00:17:52,407
+do you find me attractive?
+
+468
+00:17:53,593 --> 00:17:55,093
+Um...
+
+469
+00:17:55,095 --> 00:17:56,845
+you mean physically, or...?
+I mean, when it
+
+470
+00:17:56,847 --> 00:17:59,264
+came to Jethro, you know,
+who could blame me for that?
+
+471
+00:17:59,266 --> 00:18:00,882
+And he was still in love
+with his dead wife,
+
+472
+00:18:00,884 --> 00:18:03,718
+and I was just another
+in a string of failed marriages,
+
+473
+00:18:03,720 --> 00:18:05,520
+but then Tobias and...
+
+474
+00:18:05,522 --> 00:18:07,606
+and now maybe Victor...
+
+475
+00:18:07,608 --> 00:18:11,026
+You're worried something
+might be wrong with you?
+
+476
+00:18:11,028 --> 00:18:13,328
+Yeah.
+
+477
+00:18:17,933 --> 00:18:20,902
+Look, you're... attractive.
+
+478
+00:18:22,605 --> 00:18:24,406
+At least on the outside.
+
+479
+00:18:25,274 --> 00:18:26,658
+(scoffs quietly)
+
+480
+00:18:26,660 --> 00:18:28,577
+I'll take it.
+
+481
+00:18:28,579 --> 00:18:30,045
+(relieved sigh)
+I'm sorry.
+
+482
+00:18:30,047 --> 00:18:32,080
+I didn't mean to unload
+on you like that.
+
+483
+00:18:32,082 --> 00:18:33,965
+(sighs):
+I just... you know,
+
+484
+00:18:33,967 --> 00:18:36,751
+I guess I...
+what I really need...
+
+485
+00:18:36,753 --> 00:18:38,453
+To be alone?
+No.
+
+486
+00:18:38,455 --> 00:18:40,305
+Yeah, well,
+
+487
+00:18:40,307 --> 00:18:42,224
+believe it or not, I...
+
+488
+00:18:42,226 --> 00:18:44,342
+I think I just need a hug.
+
+489
+00:18:48,898 --> 00:18:50,932
+I'm not hugging you.
+
+490
+00:18:50,934 --> 00:18:53,435
+Why not?
+Uh, it's not gonna happen.
+
+491
+00:18:53,437 --> 00:18:55,158
+You come over here and hug me
+right now, damn it!
+
+492
+00:18:55,183 --> 00:18:55,938
+No way.
+
+493
+00:18:55,939 --> 00:18:57,522
+What kind of man are you?
+
+494
+00:18:57,524 --> 00:18:59,407
+Here you have
+a depressed,
+
+495
+00:18:59,409 --> 00:19:01,643
+miserable coworker
+standing right in front of you,
+
+496
+00:19:01,645 --> 00:19:03,912
+you can't even give her
+a simple hug?
+
+497
+00:19:05,114 --> 00:19:06,698
+(sighs)
+
+498
+00:19:06,700 --> 00:19:09,868
+Your parents failed.
+
+499
+00:19:18,044 --> 00:19:20,095
+(quiet sigh)
+
+500
+00:19:31,307 --> 00:19:32,774
+(sobs)
+
+501
+00:19:34,944 --> 00:19:36,811
+(Diane sobbing quietly)
+
+502
+00:19:40,650 --> 00:19:43,201
+(birds chirping)
+
+503
+00:19:47,406 --> 00:19:50,064
+(horn honking in distance)
+
+504
+00:19:50,065 --> 00:19:51,644
+(door opens)
+
+505
+00:19:51,669 --> 00:19:53,715
+FORNELL: Hey, Gibbs,
+what's taking so long?
+
+506
+00:19:54,281 --> 00:19:55,497
+Come on, people!
+
+507
+00:19:55,499 --> 00:19:58,133
+Chop, chop!
+
+508
+00:19:58,135 --> 00:20:00,868
+Holy Fourth of July
+weenie roast!
+
+509
+00:20:00,870 --> 00:20:02,203
+What the hell am I looking at?!
+
+510
+00:20:02,205 --> 00:20:05,724
+(moaning softly)
+
+511
+00:20:05,726 --> 00:20:07,559
+Mm?
+
+512
+00:20:07,561 --> 00:20:10,211
+Whoa! Boss, this is
+not what it looks like.
+
+513
+00:20:10,213 --> 00:20:12,314
+What does it look like?
+DIANE: W-We were talking
+
+514
+00:20:12,316 --> 00:20:14,432
+and, you know,
+we fell asleep on the couch.
+
+515
+00:20:14,434 --> 00:20:16,268
+Intertwined like
+horny rabbits!
+
+516
+00:20:16,270 --> 00:20:18,886
+What's it to you?
+So what if something happened?
+
+517
+00:20:18,888 --> 00:20:21,273
+No, no, nothing happened.
+<i>We're</i> not married anymore.
+
+518
+00:20:21,275 --> 00:20:23,057
+No, but <i>you</i> are!
+Why are you...
+
+519
+00:20:23,059 --> 00:20:25,160
+GIBBS:
+Enough! We need to all
+
+520
+00:20:25,162 --> 00:20:27,195
+put a pin in it.
+
+521
+00:20:28,164 --> 00:20:31,032
+Abby's got a lead
+on an accountant.
+
+522
+00:20:42,878 --> 00:20:46,047
+Hey, boss. Abby found an e-mail
+on the accountant's PC
+
+523
+00:20:46,049 --> 00:20:49,083
+about an overdue payment
+on this rental house.
+
+524
+00:20:49,085 --> 00:20:50,719
+That's the search warrant.
+
+525
+00:20:50,721 --> 00:20:52,103
+Where's Agent Sterling?
+
+526
+00:20:52,105 --> 00:20:55,807
+We thought it was best for the op for
+her to take a shower.
+
+527
+00:20:55,809 --> 00:20:58,276
+I mean head back to
+NCIS to assist Abby.
+
+528
+00:20:58,278 --> 00:20:59,644
+I told you,
+nothing happened.
+
+529
+00:20:59,646 --> 00:21:01,980
+Rental house?
+Yeah, Lambert went out of his way
+
+530
+00:21:01,982 --> 00:21:03,865
+to hide his connection
+to the place.
+
+531
+00:21:03,867 --> 00:21:05,450
+FORNELL:So, let's see
+what's inside.
+
+532
+00:21:05,452 --> 00:21:06,618
+McGee...
+
+533
+00:21:06,620 --> 00:21:08,903
+you and I
+take the back.
+
+534
+00:21:08,905 --> 00:21:11,706
+No. I'll go with you.
+
+535
+00:21:13,275 --> 00:21:15,243
+What was that all about?
+
+536
+00:21:15,245 --> 00:21:17,746
+I don't want to talk about it.
+Come on, spill it.
+
+537
+00:21:17,748 --> 00:21:19,497
+(knocking)
+
+538
+00:21:19,499 --> 00:21:22,634
+NCIS! Open up, we got
+a search warrant!
+
+539
+00:21:22,636 --> 00:21:24,502
+And an agent
+keeping secrets!
+
+540
+00:21:24,504 --> 00:21:26,621
+Shut up and open it, Tony.
+Relax, McGee.
+
+541
+00:21:40,186 --> 00:21:42,687
+(low groan)
+
+542
+00:21:42,689 --> 00:21:46,107
+Whew! It's colder in here
+than it is outside.
+
+543
+00:21:54,367 --> 00:21:56,785
+Fishy.
+(chuckles)
+
+544
+00:22:01,624 --> 00:22:03,925
+Right. Of course.
+
+545
+00:22:04,710 --> 00:22:06,261
+The accountant
+was renting a home
+
+546
+00:22:06,263 --> 00:22:07,846
+for his frozen fish collection.
+
+547
+00:22:11,333 --> 00:22:13,501
+There's nobody home.
+
+548
+00:22:14,103 --> 00:22:16,304
+Nobody living,
+at least.
+
+549
+00:22:22,278 --> 00:22:24,129
+FORNELL:
+Is that the drunk guy
+
+550
+00:22:24,131 --> 00:22:26,347
+from the bar?
+
+551
+00:22:38,340 --> 00:22:41,025
+Okay... if you don't
+tell me what happened
+
+552
+00:22:41,027 --> 00:22:41,788
+between you and Diane,
+
+553
+00:22:41,813 --> 00:22:43,299
+then I'm just gonna have
+to believe the rumors.
+
+554
+00:22:44,080 --> 00:22:46,964
+Tony, how many times do I have
+to tell you? Nothing happened.
+
+555
+00:22:46,966 --> 00:22:48,633
+Wait. What rumors?
+The kind
+
+556
+00:22:48,635 --> 00:22:50,384
+that would make
+a grown man blush, McGee.
+
+557
+00:22:50,386 --> 00:22:52,703
+Even our latest victim
+turned a slight shade of pink
+
+558
+00:22:52,705 --> 00:22:53,754
+when he heard one.
+
+559
+00:22:53,756 --> 00:22:55,205
+And he's <i>dead.</i>
+Oh, please
+
+560
+00:22:55,207 --> 00:22:57,058
+don't tell me everyone here
+is talking about this.
+
+561
+00:22:57,060 --> 00:22:58,876
+We're working an IRS fraud case.
+
+562
+00:22:58,878 --> 00:23:01,062
+You sleeping <i>alone</i>
+is more interesting.
+
+563
+00:23:01,064 --> 00:23:02,914
+Much less you sleeping with...
+I didn't.
+
+564
+00:23:02,916 --> 00:23:05,066
+<i>We</i> didn't.
+Look, we found
+
+565
+00:23:05,068 --> 00:23:06,851
+a house filled with nothing
+but frozen fish.
+
+566
+00:23:06,853 --> 00:23:08,402
+That's not more
+interesting to you?
+
+567
+00:23:09,220 --> 00:23:10,988
+No.
+Diane and I
+
+568
+00:23:10,990 --> 00:23:12,676
+feel asleep on the couch,
+talking, that's all.
+
+569
+00:23:12,677 --> 00:23:15,428
+Well, given Agent Gibb's and
+Fornell's propensity for violence,
+
+570
+00:23:15,867 --> 00:23:18,484
+that's the story I would
+stick to if I were you.
+
+571
+00:23:18,486 --> 00:23:20,703
+DUCKY:
+All right, much as I find
+
+572
+00:23:20,705 --> 00:23:23,706
+your sexual escapades riveting,
+
+573
+00:23:23,708 --> 00:23:25,875
+the story that I'm
+really interested in
+
+574
+00:23:25,877 --> 00:23:27,626
+belongs to
+this man.
+
+575
+00:23:27,628 --> 00:23:30,463
+Go ahead, McCasanova,
+change the subject.
+
+576
+00:23:30,465 --> 00:23:33,049
+His name is Viggo Kiln.
+
+577
+00:23:33,051 --> 00:23:35,601
+From what we can tell from the
+files found at his home, he was
+
+578
+00:23:35,603 --> 00:23:37,053
+working with Seaman Brown
+and the accountant.
+
+579
+00:23:37,055 --> 00:23:39,171
+TONY: Viggo provided
+the assist, playing
+
+580
+00:23:39,173 --> 00:23:40,973
+the lovable barfly
+chatting people up,
+
+581
+00:23:40,975 --> 00:23:42,558
+getting the details
+about their lives
+
+582
+00:23:42,560 --> 00:23:44,477
+so that they could steal
+their identities.
+
+583
+00:23:44,479 --> 00:23:46,362
+Once the accountant
+had enough info,
+
+584
+00:23:46,364 --> 00:23:48,981
+he'd file a fake return,
+then collect the refund check.
+
+585
+00:23:48,983 --> 00:23:51,150
+Yeah, well, it seems
+our barfly's services
+
+586
+00:23:51,152 --> 00:23:52,684
+are no longer required.
+
+587
+00:23:52,686 --> 00:23:55,687
+We extracted two bullets
+from his brain cavity.
+
+588
+00:23:55,689 --> 00:23:57,406
+Execution style.
+
+589
+00:23:57,408 --> 00:24:00,709
+Abby ran ballistics--
+two .22-caliber low-loads.
+
+590
+00:24:00,711 --> 00:24:02,328
+She also
+matched them
+
+591
+00:24:02,330 --> 00:24:04,863
+to a gun registered
+to an Oliver Lambert.
+
+592
+00:24:04,865 --> 00:24:07,333
+The missing accountant.
+
+593
+00:24:07,335 --> 00:24:08,918
+Well, maybe the two
+had a falling-out.
+
+594
+00:24:08,920 --> 00:24:10,869
+Maybe Lambert knew
+we were on to him,
+
+595
+00:24:10,871 --> 00:24:12,588
+was looking to
+tie up loose ends?
+
+596
+00:24:12,590 --> 00:24:16,592
+Well, neither of which explains
+the presence of the frozen fish.
+
+597
+00:24:16,594 --> 00:24:19,979
+Do you have a theory
+as to its significance?
+
+598
+00:24:19,981 --> 00:24:22,331
+DIANE: <i>I think we have</i>
+<i>a good working theory</i>
+
+599
+00:24:22,333 --> 00:24:24,233
+on the fish-- I just want
+to dig a little deeper
+
+600
+00:24:24,235 --> 00:24:26,218
+before we take it to the boys,
+just in case we're wrong.
+
+601
+00:24:26,220 --> 00:24:27,853
+I think we have enough
+to go to Gibbs.
+
+602
+00:24:27,855 --> 00:24:29,522
+Yeah, Gibbs maybe, but Fornell?
+
+603
+00:24:29,524 --> 00:24:30,573
+The man takes
+too much pleasure
+
+604
+00:24:30,575 --> 00:24:31,774
+in proving me wrong.
+The last thing
+
+605
+00:24:31,776 --> 00:24:33,526
+I want to do
+is make <i>him</i> happy.
+
+606
+00:24:35,061 --> 00:24:36,562
+So...
+
+607
+00:24:36,564 --> 00:24:39,115
+do anything, um...
+
+608
+00:24:39,117 --> 00:24:41,250
+crazy lately?
+
+609
+00:24:41,252 --> 00:24:42,568
+Huh? What do you mean?
+
+610
+00:24:42,570 --> 00:24:45,087
+Well, you told me yesterday
+you wanted to go out
+
+611
+00:24:45,089 --> 00:24:47,873
+and do something crazy,
+so I was just wondering if...
+
+612
+00:24:47,875 --> 00:24:49,208
+you did.
+
+613
+00:24:49,210 --> 00:24:50,793
+DIANE:
+Nailed it! I found a clue.
+
+614
+00:24:50,795 --> 00:24:53,212
+This is a shipping manifest
+for a place called
+
+615
+00:24:53,214 --> 00:24:54,547
+Donggang in China.
+
+616
+00:24:54,549 --> 00:24:56,098
+You pull it up?
+
+617
+00:24:58,051 --> 00:24:59,885
+And 's right
+on the border with...
+
+618
+00:24:59,887 --> 00:25:01,920
+North Korea-- that is
+the third in a row.
+
+619
+00:25:01,922 --> 00:25:03,355
+Too many to be
+a coincidence.
+
+620
+00:25:03,357 --> 00:25:04,523
+FORNELL:
+And nobody likes those,
+
+621
+00:25:04,525 --> 00:25:06,758
+especially when
+they involve North Korea
+
+622
+00:25:06,760 --> 00:25:07,776
+or couches.
+
+623
+00:25:07,778 --> 00:25:09,145
+GIBBS:
+What do we got?
+
+624
+00:25:09,147 --> 00:25:10,696
+We were going over
+the shipping manifests
+
+625
+00:25:10,698 --> 00:25:13,265
+we found in the fish house,
+and we noticed a pattern.
+
+626
+00:25:13,267 --> 00:25:16,318
+All of the fish are being exported
+to small fishing villages,
+
+627
+00:25:16,320 --> 00:25:18,487
+all on the borders of some
+very interesting countries.
+
+628
+00:25:18,489 --> 00:25:21,707
+FORNELL:
+Syria, North Korea and Iran.
+
+629
+00:25:21,709 --> 00:25:23,442
+The Axis of Evil 2.0.
+
+630
+00:25:23,444 --> 00:25:25,010
+Well, that
+doesn't look good.
+
+631
+00:25:25,012 --> 00:25:27,480
+And what's with sending
+fish to fishing villages?
+
+632
+00:25:27,482 --> 00:25:29,114
+Doesn't it usually work
+the other way around?
+
+633
+00:25:29,116 --> 00:25:30,149
+Well, we're not sure
+what that means.
+
+634
+00:25:30,151 --> 00:25:32,117
+I know a customs agent
+I could talk to,
+
+635
+00:25:32,119 --> 00:25:34,303
+see if he'll issue a BOLO
+on similar shipments.
+
+636
+00:25:34,305 --> 00:25:35,504
+That might
+shed some light.
+
+637
+00:25:35,506 --> 00:25:36,672
+Tobias, go back to the FBI,
+
+638
+00:25:36,674 --> 00:25:38,891
+do the same thing.
+Jethro, MTAC.
+
+639
+00:25:38,893 --> 00:25:40,426
+See if there's
+any new intel on Syria,
+
+640
+00:25:40,428 --> 00:25:43,229
+North Korea or Iran.
+
+641
+00:25:46,799 --> 00:25:48,350
+Did she just give us orders?
+
+642
+00:25:48,352 --> 00:25:49,435
+Yeah.
+
+643
+00:25:49,437 --> 00:25:51,403
+But they're good ones.
+
+644
+00:25:51,405 --> 00:25:52,988
+I know!
+
+645
+00:26:00,163 --> 00:26:01,947
+Where'd everybody go?
+
+646
+00:26:01,949 --> 00:26:04,617
+To find out why frozen fish
+are being sent to border towns
+
+647
+00:26:04,619 --> 00:26:05,868
+of our political adversaries.
+
+648
+00:26:05,870 --> 00:26:07,786
+That's weird.
+
+649
+00:26:07,788 --> 00:26:08,871
+But what's weirder
+
+650
+00:26:08,873 --> 00:26:11,006
+is that it's not just fish.
+
+651
+00:26:12,292 --> 00:26:15,044
+The official fish name
+is <i>Thunnus alalunga,</i>
+
+652
+00:26:15,046 --> 00:26:17,546
+otherwise known
+as albacore tuna.
+
+653
+00:26:17,548 --> 00:26:20,266
+And when I decided to
+take a closer look...
+
+654
+00:26:20,268 --> 00:26:22,218
+Adson's retractor.
+
+655
+00:26:23,186 --> 00:26:24,770
+(whispers): That one.
+Oh.
+
+656
+00:26:25,555 --> 00:26:29,191
+...I found something
+very odd.
+
+657
+00:26:29,193 --> 00:26:31,143
+Forceps.
+
+658
+00:26:36,983 --> 00:26:38,784
+Is that a cell phone?
+Yep.
+
+659
+00:26:38,786 --> 00:26:40,786
+There's a cell phone
+inside the fish?
+
+660
+00:26:40,788 --> 00:26:42,204
+There is a
+cell phone...
+
+661
+00:26:42,206 --> 00:26:44,189
+inside...
+
+662
+00:26:44,191 --> 00:26:46,458
+every fish.
+Is there anything on them?
+
+663
+00:26:46,460 --> 00:26:47,910
+So far,
+they're all unregistered,
+
+664
+00:26:47,912 --> 00:26:51,347
+but I noticed that their
+IMEI numbers indicate
+
+665
+00:26:51,349 --> 00:26:53,799
+they all came from the
+same manufacturing batch.
+
+666
+00:26:53,801 --> 00:26:56,418
+I was able to do a wideband
+search of the batch number,
+
+667
+00:26:56,420 --> 00:26:58,387
+and I found an active cell
+in the group.
+
+668
+00:26:58,389 --> 00:27:01,557
+Someone with a fish phone
+made a phone call.
+
+669
+00:27:01,559 --> 00:27:03,892
+To...?
+To... our missing accountant's
+
+670
+00:27:03,894 --> 00:27:05,644
+private voicemail.
+
+671
+00:27:05,646 --> 00:27:08,981
+I'm guessing from the length of
+the call that they knew the password.
+
+672
+00:27:08,983 --> 00:27:11,600
+It may be him.
+It's a good bet.
+
+673
+00:27:11,602 --> 00:27:14,937
+There was nothing useful
+in the voice mail, but...
+
+674
+00:27:14,939 --> 00:27:16,689
+(beeping)
+
+675
+00:27:19,058 --> 00:27:22,244
+...I got the location
+of the caller.
+
+676
+00:27:23,013 --> 00:27:25,230
+ZIVA:
+No sign of Lambert.
+
+677
+00:27:25,232 --> 00:27:27,950
+Same here.
+And I'm getting tired.
+
+678
+00:27:28,901 --> 00:27:31,403
+Didn't get enough sleep
+last night, huh?
+
+679
+00:27:34,407 --> 00:27:35,574
+This is a wild-goose chase.
+
+680
+00:27:35,576 --> 00:27:37,343
+Guy made one
+phone call from here.
+
+681
+00:27:37,345 --> 00:27:39,044
+He's long gone.
+Well, you can always
+
+682
+00:27:39,046 --> 00:27:42,765
+go back to NCIS, wait for
+Diane to come back from ICE.
+
+683
+00:27:42,767 --> 00:27:44,967
+But we should leave
+no stone unturned.
+
+684
+00:27:44,969 --> 00:27:47,936
+Speaking of the
+Spawn of Unholiness,
+
+685
+00:27:47,938 --> 00:27:51,357
+I did some checking with a
+buddy of mine at the IRS--
+
+686
+00:27:51,359 --> 00:27:52,941
+know what I heard?
+That's she's
+
+687
+00:27:52,943 --> 00:27:56,612
+not leaving Victor, it's Victor
+thinking about leaving her?
+
+688
+00:27:56,614 --> 00:27:59,598
+How did you know that?
+Can't say I'm surprised, either.
+
+689
+00:27:59,600 --> 00:28:01,433
+You ever notice how
+she never gets sick?
+
+690
+00:28:01,435 --> 00:28:02,785
+Even germs don't like her.
+
+691
+00:28:02,787 --> 00:28:05,604
+But this Victor thing explains
+something else that I heard,
+
+692
+00:28:05,606 --> 00:28:07,216
+something that I suspect
+you <i>don't</i> know,
+
+693
+00:28:07,241 --> 00:28:08,875
+since you don't look nauseous.
+
+694
+00:28:08,876 --> 00:28:11,160
+I don't get nauseous.
+
+695
+00:28:11,162 --> 00:28:12,044
+We'll see about that.
+
+696
+00:28:12,046 --> 00:28:13,962
+Mm.
+Ask yourself something.
+
+697
+00:28:13,964 --> 00:28:15,381
+What are the odds
+
+698
+00:28:15,383 --> 00:28:18,967
+of Diane being assigned a case
+in your jurisdiction?
+
+699
+00:28:19,753 --> 00:28:22,721
+Pretty good. She <i>was.</i>
+
+700
+00:28:22,723 --> 00:28:25,140
+No. She wasn't.
+
+701
+00:28:25,142 --> 00:28:27,009
+She was originally
+
+702
+00:28:27,011 --> 00:28:29,895
+working a different jurisdiction
+on this tax fraud thing.
+
+703
+00:28:29,897 --> 00:28:33,599
+When the identity theft
+was traced to a Navy bar,
+
+704
+00:28:33,601 --> 00:28:36,352
+Diane asked to be transferred
+to your jurisdiction.
+
+705
+00:28:36,354 --> 00:28:38,437
+That's right.
+
+706
+00:28:38,439 --> 00:28:42,191
+I can hear those stomach
+acids gurgling from here.
+
+707
+00:28:42,193 --> 00:28:44,410
+Her father was Navy.
+
+708
+00:28:44,412 --> 00:28:46,412
+I worked for NCIS.
+
+709
+00:28:46,414 --> 00:28:49,365
+Diane, she's just
+more familiar with the military.
+
+710
+00:28:49,367 --> 00:28:51,483
+You keep telling
+yourself that.
+
+711
+00:28:51,485 --> 00:28:53,485
+Because you know
+what I think?
+
+712
+00:28:53,487 --> 00:28:55,371
+I think she asked
+for a transfer
+
+713
+00:28:55,373 --> 00:28:57,823
+because she was hoping
+to run into you.
+
+714
+00:28:59,376 --> 00:29:01,710
+Looks like McGee has got
+a little competition.
+
+715
+00:29:01,712 --> 00:29:04,713
+Boss, it's Lambert,
+on your nine.
+
+716
+00:29:07,934 --> 00:29:10,052
+GIBBS: Okay,
+here we go.
+
+717
+00:29:10,054 --> 00:29:11,553
+Let's move.
+
+718
+00:29:17,193 --> 00:29:18,727
+Oliver Lambert?
+
+719
+00:29:19,562 --> 00:29:21,280
+Yes?
+
+720
+00:29:21,282 --> 00:29:22,531
+NCIS.
+
+721
+00:29:23,867 --> 00:29:26,184
+FBI.
+Need you to come with us.
+
+722
+00:29:26,186 --> 00:29:28,620
+FORNELL: Would you take your hands out
+of your pockets, please, sir?
+
+723
+00:29:34,026 --> 00:29:37,045
+The money I took from the IRS
+wasn't for me.
+
+724
+00:29:37,047 --> 00:29:40,132
+I'd love to hear about that;
+I'd love to see your hands even more.
+
+725
+00:29:41,968 --> 00:29:44,386
+Put your hands
+where we can see 'em.
+
+726
+00:29:48,141 --> 00:29:50,893
+I was just trying
+to set things right.
+
+727
+00:29:50,895 --> 00:29:53,095
+Sudden moves are
+not your friend.
+
+728
+00:29:53,097 --> 00:29:54,730
+But I'll...
+
+729
+00:29:54,732 --> 00:29:57,316
+tell you everything now.
+
+730
+00:29:57,318 --> 00:29:58,817
+I gave them
+
+731
+00:29:58,819 --> 00:30:00,385
+this week's payment,
+but they're worried.
+
+732
+00:30:00,387 --> 00:30:03,739
+I... I think they
+might try and kill me.
+
+733
+00:30:03,741 --> 00:30:04,773
+Hands!
+
+734
+00:30:32,585 --> 00:30:34,853
+Ducky confirmed Lambert died
+of multiple stab wounds.
+
+735
+00:30:34,855 --> 00:30:36,688
+ZIVA: Fornell is still
+taking statements,
+
+736
+00:30:36,690 --> 00:30:39,274
+but witnesses report
+seeing Lambert in a car
+
+737
+00:30:39,276 --> 00:30:42,594
+with either a man, a woman
+or nobody, depending on who you talk to.
+
+738
+00:30:42,596 --> 00:30:44,763
+Lambert said the money
+he took wasn't for him.
+
+739
+00:30:44,765 --> 00:30:46,948
+TONY: Sounded like he was in the
+hole to somebody for something.
+
+740
+00:30:46,950 --> 00:30:48,450
+McGEE:
+One of his clients.
+
+741
+00:30:48,452 --> 00:30:50,485
+Abby found this thumb drive
+in his wallet.
+
+742
+00:30:50,487 --> 00:30:52,954
+Looks like Lambert was gathering
+evidence to cop a plea.
+
+743
+00:30:52,956 --> 00:30:55,374
+His files show that he embezzled
+from one of his clients,
+
+744
+00:30:55,376 --> 00:30:56,608
+then blew the money
+at the track--
+
+745
+00:30:56,610 --> 00:30:58,443
+and he had a statement
+for the D.A.
+
+746
+00:30:58,445 --> 00:31:00,278
+It says that the client
+threatened to kill him
+
+747
+00:31:00,280 --> 00:31:01,780
+if he didn't repay
+the money he took,
+
+748
+00:31:01,782 --> 00:31:03,415
+then forced him
+to steal from the IRS.
+
+749
+00:31:03,417 --> 00:31:06,134
+And then some.
+Client must be a scary guy.
+
+750
+00:31:06,136 --> 00:31:08,286
+You got a name?
+No. Lambert left it out.
+
+751
+00:31:08,288 --> 00:31:09,838
+Well, maybe he's holding it
+for his plea bargain.
+
+752
+00:31:09,840 --> 00:31:12,307
+Okay. That was Diane;
+she's on her way.
+
+753
+00:31:12,309 --> 00:31:13,725
+Her fish BOLO came back.
+
+754
+00:31:13,727 --> 00:31:15,644
+Customs found
+another container
+
+755
+00:31:15,646 --> 00:31:16,961
+headed for Donggang, China.
+
+756
+00:31:16,963 --> 00:31:18,630
+More cell phones?
+No.
+
+757
+00:31:18,632 --> 00:31:20,148
+This time they
+found DVD's
+
+758
+00:31:20,150 --> 00:31:21,900
+and luxury soaps
+inside the fish.
+
+759
+00:31:21,902 --> 00:31:23,852
+Client's a smuggler.
+Put up maps.
+
+760
+00:31:23,854 --> 00:31:26,855
+GIBBS: There's U.N. sanctions
+on all these countries.
+
+761
+00:31:26,857 --> 00:31:28,273
+Which means
+no Western cell phones,
+
+762
+00:31:28,275 --> 00:31:30,992
+<i>Dora</i> DVD's
+or lavender-scented bath soap.
+
+763
+00:31:30,994 --> 00:31:34,162
+And I thought the middle class
+here was having a hard time.
+
+764
+00:31:34,164 --> 00:31:36,114
+Diane's contact thinks
+the smuggler is using
+
+765
+00:31:36,116 --> 00:31:38,500
+local fishermen to get the goods
+across sanctioned borders.
+
+766
+00:31:38,502 --> 00:31:40,085
+Apparently,
+it is quite common.
+
+767
+00:31:40,087 --> 00:31:41,740
+GIBBS: Was Diane able
+to trace the shipment?
+
+768
+00:31:41,765 --> 00:31:42,655
+It was a dead-end.
+
+769
+00:31:42,656 --> 00:31:44,506
+Shipper's info
+was all fake.
+
+770
+00:31:44,508 --> 00:31:46,425
+Well, it's a good thing
+you can't fake DNA.
+
+771
+00:31:46,427 --> 00:31:48,844
+Because I've got some.
+
+772
+00:31:48,846 --> 00:31:50,245
+So, I ran DNA on our tuna
+
+773
+00:31:50,247 --> 00:31:52,047
+to try to figure out
+where it came from.
+
+774
+00:31:52,049 --> 00:31:54,499
+Sadly, for those of
+us investigating fish-based crime,
+
+775
+00:31:54,501 --> 00:31:56,551
+there's no national database
+to compare it to.
+
+776
+00:31:56,553 --> 00:31:57,886
+But...?
+
+777
+00:31:57,888 --> 00:31:59,855
+My fifth favorite word.
+
+778
+00:31:59,857 --> 00:32:03,141
+<i>But...</i> I sent Jimmy to
+pick up albacore tuna
+
+779
+00:32:03,143 --> 00:32:05,677
+from every supermarket
+between here and Alexandria,
+
+780
+00:32:05,679 --> 00:32:08,163
+and I got a familial match.
+
+781
+00:32:09,014 --> 00:32:10,532
+Our smuggle fish
+definitely came
+
+782
+00:32:10,534 --> 00:32:12,567
+from the same catch
+as our sample
+
+783
+00:32:12,569 --> 00:32:14,786
+from F&G Grocery.
+
+784
+00:32:14,788 --> 00:32:17,572
+And they buy their albacore
+from a man named...
+
+785
+00:32:17,574 --> 00:32:19,858
+DIANE: Avis Boyle.
+He owns a small
+
+786
+00:32:19,860 --> 00:32:21,877
+fish distributor that serves
+the tristate area.
+
+787
+00:32:21,879 --> 00:32:23,795
+<i>And</i> according
+to his tax return,
+
+788
+00:32:23,797 --> 00:32:25,997
+he was a client
+of Oliver Lambert.
+
+789
+00:32:25,999 --> 00:32:27,382
+He's our smuggler.
+
+790
+00:32:28,251 --> 00:32:29,968
+Abby already briefed me.
+
+791
+00:32:29,970 --> 00:32:31,369
+First?
+
+792
+00:32:31,371 --> 00:32:32,671
+Let it go.
+
+793
+00:32:32,673 --> 00:32:34,673
+We have to figure out
+our next move.
+
+794
+00:32:34,675 --> 00:32:36,391
+Our next move is
+arresting Boyle.
+
+795
+00:32:36,393 --> 00:32:38,727
+For what?
+That's right, Woodchuck.
+
+796
+00:32:38,729 --> 00:32:40,145
+You can't tie him
+to Lambert's murder.
+
+797
+00:32:40,147 --> 00:32:41,646
+The books don't mention
+Boyle by name.
+
+798
+00:32:41,648 --> 00:32:42,931
+And the fish DNA...
+
+799
+00:32:42,933 --> 00:32:44,599
+It's circumstantial.
+Now,
+
+800
+00:32:44,601 --> 00:32:46,935
+the IRS has had their eye
+on this guy for some time,
+
+801
+00:32:46,937 --> 00:32:48,737
+for undeclared earnings,
+but they could never prove it.
+
+802
+00:32:48,739 --> 00:32:50,405
+But you got an idea.
+
+803
+00:32:50,407 --> 00:32:52,407
+And it's a good one.
+Why do I feel
+
+804
+00:32:52,409 --> 00:32:54,576
+like I'm being set up?
+Not you. Boyle.
+
+805
+00:32:54,578 --> 00:32:56,328
+So his accountant
+was laundering his money.
+
+806
+00:32:56,330 --> 00:32:57,496
+But now the
+accountant's dead.
+
+807
+00:32:57,498 --> 00:32:59,230
+Well, Boyle's
+gonna need a new one.
+
+808
+00:32:59,232 --> 00:33:00,949
+No, forget it.
+
+809
+00:33:00,951 --> 00:33:02,567
+Can I finish?
+We don't have a lot of time.
+
+810
+00:33:02,569 --> 00:33:03,735
+I've got to approach
+Boyle before
+
+811
+00:33:03,737 --> 00:33:05,921
+he hires somebody else
+to start doing his books.
+
+812
+00:33:05,923 --> 00:33:07,405
+I can talk the talk.
+
+813
+00:33:07,407 --> 00:33:11,209
+You can wire me and then bust
+him when he incriminates himself.
+
+814
+00:33:11,211 --> 00:33:13,595
+It's a good plan,
+and you know it.
+
+815
+00:33:13,597 --> 00:33:16,581
+You're not going in alone;
+I'm coming with you.
+
+816
+00:33:16,583 --> 00:33:20,769
+You might regret that when you
+find out where Boyle is today.
+
+817
+00:33:22,605 --> 00:33:25,941
+♪
+(indistinct chatter)
+
+818
+00:33:28,611 --> 00:33:30,395
+Oh, I regret this.
+
+819
+00:33:30,397 --> 00:33:32,447
+FORNELL (over radio):
+I am so glad
+
+820
+00:33:32,449 --> 00:33:35,867
+<i>this is you and not me.</i>
+
+821
+00:33:35,869 --> 00:33:37,369
+We're reading you
+loud and clear, boss.
+
+822
+00:33:37,371 --> 00:33:39,571
+ZIVA:
+And we're getting
+
+823
+00:33:39,573 --> 00:33:42,157
+a solid image from the camera
+on Diane's brooch.
+
+824
+00:33:42,159 --> 00:33:44,576
+Which looks much better
+
+825
+00:33:44,578 --> 00:33:46,878
+on you than it did
+on me, by the way.
+
+826
+00:33:46,880 --> 00:33:48,580
+McGEE:
+Just be careful
+
+827
+00:33:48,582 --> 00:33:50,332
+not to knock it loose.
+
+828
+00:33:50,334 --> 00:33:51,583
+Oh, it's not going anywhere.
+
+829
+00:33:51,585 --> 00:33:53,718
+You spent more
+than enough time
+
+830
+00:33:53,720 --> 00:33:57,339
+attaching it to my
+ex-wife's... bosom.
+
+831
+00:33:57,341 --> 00:33:59,991
+Way too much time,
+if you ask me.
+
+832
+00:33:59,993 --> 00:34:01,459
+I guess he didn't get
+enough last night.
+
+833
+00:34:01,461 --> 00:34:03,144
+What?
+
+834
+00:34:04,564 --> 00:34:05,814
+No, I...
+
+835
+00:34:05,816 --> 00:34:07,298
+She's just...
+
+836
+00:34:08,050 --> 00:34:09,935
+Diane, the joke is over!
+
+837
+00:34:09,937 --> 00:34:11,469
+I'm just having
+a little fun.
+
+838
+00:34:11,471 --> 00:34:13,738
+♪
+
+839
+00:34:13,740 --> 00:34:17,442
+So, shall we
+find our man?
+
+840
+00:34:19,111 --> 00:34:21,529
+Do you remember how
+you proposed to me?
+
+841
+00:34:23,583 --> 00:34:25,333
+Yeah, I didn't think so.
+
+842
+00:34:25,335 --> 00:34:27,485
+Don't feel too bad;
+I don't, either.
+
+843
+00:34:29,956 --> 00:34:32,156
+"Didn't get enough
+
+844
+00:34:32,158 --> 00:34:33,725
+last night."
+That's what she said.
+
+845
+00:34:33,727 --> 00:34:35,010
+Which implies
+
+846
+00:34:35,012 --> 00:34:37,112
+that you did get something.
+
+847
+00:34:37,114 --> 00:34:39,464
+I didn't get anything;
+there was nothing to get.
+
+848
+00:34:39,466 --> 00:34:40,832
+Will you two
+just shut up?
+
+849
+00:34:45,337 --> 00:34:47,722
+DIANE:
+Hey, isn't that our mark?
+
+850
+00:34:48,774 --> 00:34:50,859
+(tapping keyboard)
+I see Boyle...
+
+851
+00:34:50,861 --> 00:34:52,176
+twelve o'clock.
+
+852
+00:35:00,519 --> 00:35:02,520
+You ready?
+
+853
+00:35:02,522 --> 00:35:04,372
+Yeah.
+
+854
+00:35:08,160 --> 00:35:11,913
+MAN: That was the most boring
+best-man speech I've ever heard.
+
+855
+00:35:11,915 --> 00:35:14,132
+Oh, it was my nephew's wedding;
+he told me to keep it clean.
+
+856
+00:35:14,134 --> 00:35:15,300
+Congratulations.
+Thank you.
+
+857
+00:35:15,302 --> 00:35:17,335
+And you are?
+(quietly): An accountant.
+
+858
+00:35:17,337 --> 00:35:20,338
+DIANE: Luckily for you, 'cause I heard
+you might be looking for one.
+
+859
+00:35:24,043 --> 00:35:26,678
+BOYLE:
+Uh, will you excuse me?
+
+860
+00:35:35,604 --> 00:35:37,605
+So, let's talk terms.
+
+861
+00:35:37,607 --> 00:35:38,857
+She's in.
+
+862
+00:35:38,859 --> 00:35:40,976
+BOYLE:
+Uh, I'm sorry, I think
+
+863
+00:35:40,978 --> 00:35:42,277
+there's been a misunderstanding.
+
+864
+00:35:42,279 --> 00:35:44,719
+I have no idea
+what you're talking about.
+
+865
+00:35:44,744 --> 00:35:45,281
+No.
+
+866
+00:35:45,282 --> 00:35:48,166
+What you have, Ace,
+is a large influx
+
+867
+00:35:48,168 --> 00:35:50,201
+of ill-gotten operating
+gross revenues
+
+868
+00:35:50,203 --> 00:35:53,455
+that you're gonna have to shelter
+from any Title 26 tax liabilities.
+
+869
+00:35:53,457 --> 00:35:56,207
+<i>Unless</i> you want to be
+incredibly stupid
+
+870
+00:35:56,209 --> 00:35:58,242
+and go to jail.
+
+871
+00:35:58,244 --> 00:35:59,844
+Now you're listening, huh?
+
+872
+00:35:59,846 --> 00:36:02,213
+I used to work
+with Lambert.
+
+873
+00:36:02,215 --> 00:36:04,265
+I did all that
+jackass's grunt work.
+
+874
+00:36:04,267 --> 00:36:05,917
+And when I say all,
+
+875
+00:36:05,919 --> 00:36:07,268
+I mean all.
+
+876
+00:36:07,270 --> 00:36:08,853
+But he's gone
+and I'm here.
+
+877
+00:36:08,855 --> 00:36:11,139
+So, what's it gonna be?
+
+878
+00:36:13,592 --> 00:36:16,895
+Oh. I see I'm not
+talking to The Man,
+
+879
+00:36:16,897 --> 00:36:19,931
+which means you're just a
+big waste of my time. See ya.
+
+880
+00:36:19,933 --> 00:36:21,483
+Uh...
+
+881
+00:36:24,570 --> 00:36:26,604
+Wait here.
+
+882
+00:36:33,278 --> 00:36:35,797
+(chuckles)
+She's a natural.
+
+883
+00:36:35,799 --> 00:36:38,216
+She's just being herself.
+
+884
+00:36:42,088 --> 00:36:45,056
+(door opens)
+
+885
+00:36:48,978 --> 00:36:50,612
+Uh-oh.
+
+886
+00:36:50,614 --> 00:36:52,147
+We have a problem.
+
+887
+00:36:52,149 --> 00:36:53,131
+What is it?
+
+888
+00:36:53,133 --> 00:36:54,933
+(beeping)
+
+889
+00:36:54,935 --> 00:36:57,218
+ZIVA: The guy from
+the check-cashing place.
+
+890
+00:36:58,738 --> 00:37:02,306
+Avis told me someone was making
+a play to be my new accountant.
+
+891
+00:37:02,308 --> 00:37:03,691
+He didn't mention
+
+892
+00:37:03,693 --> 00:37:06,578
+it was an IRS special agent.
+
+893
+00:37:12,251 --> 00:37:14,002
+Walk.
+
+894
+00:37:20,092 --> 00:37:22,460
+(glass clinking)
+
+895
+00:37:22,462 --> 00:37:25,213
+GIBBS:
+I'd like to propose a toast.
+
+896
+00:37:27,099 --> 00:37:30,168
+May you two always be as happy
+as you are today.
+
+897
+00:37:30,170 --> 00:37:32,520
+WOMAN: Aw...
+(lively chatter, applause)
+
+898
+00:37:33,889 --> 00:37:36,191
+GIBBS:
+And while I'm at it,
+
+899
+00:37:36,193 --> 00:37:37,475
+I'd like to propose
+something else,
+
+900
+00:37:37,477 --> 00:37:40,111
+this time to the lovely lady
+with the lovely red hair.
+
+901
+00:37:40,113 --> 00:37:43,148
+WOMAN:
+Aw...
+
+902
+00:37:43,150 --> 00:37:45,900
+I'm not much for words.
+
+903
+00:37:47,653 --> 00:37:49,871
+Most things are
+better left unsaid.
+
+904
+00:37:49,873 --> 00:37:52,040
+It'd be a lot easier if I
+
+905
+00:37:52,042 --> 00:37:54,659
+could just pick you up
+and we'd start running, and...
+
+906
+00:37:54,661 --> 00:37:56,327
+we'd never stop.
+
+907
+00:37:56,329 --> 00:37:59,214
+Maybe I'll
+still do that.
+
+908
+00:37:59,216 --> 00:38:01,416
+But before I do...
+
+909
+00:38:03,385 --> 00:38:06,554
+(women gasping)
+...I just want to ask you one thing.
+
+910
+00:38:09,708 --> 00:38:11,676
+Yes.
+
+911
+00:38:11,678 --> 00:38:13,094
+(women laughing)
+
+912
+00:38:13,096 --> 00:38:15,146
+I'll marry you.
+
+913
+00:38:15,731 --> 00:38:17,482
+(cheering, clapping)
+
+914
+00:38:17,484 --> 00:38:19,734
+(whistling, whooping)
+
+915
+00:38:22,688 --> 00:38:25,440
+Not so fast.
+
+916
+00:38:25,442 --> 00:38:27,075
+Let's go.
+
+917
+00:38:28,027 --> 00:38:32,063
+How come you didn't
+just shoot him?
+
+918
+00:38:32,065 --> 00:38:36,400
+Ah, I figure... we've
+ruined enough weddings.
+
+919
+00:38:36,402 --> 00:38:38,036
+Yeah.
+
+920
+00:38:38,038 --> 00:38:40,004
+DIANE:
+<i>We were wrong.</i>
+
+921
+00:38:40,006 --> 00:38:41,956
+Boyle wasn't
+the boss-- turns out
+
+922
+00:38:41,958 --> 00:38:43,574
+he was just one
+of four distributors
+
+923
+00:38:43,576 --> 00:38:45,260
+that was involved
+in the smuggling operation.
+
+924
+00:38:45,262 --> 00:38:46,911
+This is
+the big guy.
+
+925
+00:38:46,913 --> 00:38:49,464
+Gordon Fremont.
+He was running the entire op
+
+926
+00:38:49,466 --> 00:38:51,582
+out of his check-
+cashing franchise.
+
+927
+00:38:51,584 --> 00:38:53,218
+Lot of cash
+moving in and out.
+
+928
+00:38:53,220 --> 00:38:54,802
+Easy for him
+to launder the money.
+
+929
+00:38:54,804 --> 00:38:56,921
+Was he the one that put the
+hit out on the Fornells?
+
+930
+00:38:56,923 --> 00:38:58,022
+It's Sterling, remember?
+
+931
+00:38:58,024 --> 00:38:59,090
+I changed
+my name before
+
+932
+00:38:59,092 --> 00:39:00,424
+the ink dried
+on my divorce papers.
+
+933
+00:39:00,426 --> 00:39:01,776
+You never had
+it so good!
+
+934
+00:39:01,778 --> 00:39:03,111
+Okay, you were a step up
+
+935
+00:39:03,113 --> 00:39:04,779
+from the last one,
+but still subpar.
+
+936
+00:39:04,781 --> 00:39:05,323
+Hey!
+
+937
+00:39:05,348 --> 00:39:07,157
+VANCE: Don't make me
+separate you three.
+
+938
+00:39:07,484 --> 00:39:09,150
+Truth is,
+
+939
+00:39:09,152 --> 00:39:11,319
+I'm proud of the way
+you pulled this off.
+
+940
+00:39:11,321 --> 00:39:12,954
+DIANE:
+At least I didn't kill them.
+
+941
+00:39:12,956 --> 00:39:15,073
+I've had root canals
+that went better.
+
+942
+00:39:15,075 --> 00:39:17,158
+As a matter of fact,
+we were discussing
+
+943
+00:39:17,160 --> 00:39:18,910
+the possibility of...
+
+944
+00:39:18,912 --> 00:39:21,963
+making the three of you
+a permanent working group
+
+945
+00:39:21,965 --> 00:39:24,832
+for inter-agency-related
+business.
+
+946
+00:39:24,834 --> 00:39:29,170
+That something you think
+you might be interested in?
+
+947
+00:39:38,264 --> 00:39:40,464
+(dog barking in distance)
+
+948
+00:39:46,322 --> 00:39:48,523
+You coming down?
+
+949
+00:39:49,308 --> 00:39:52,443
+(sighs)
+No.
+
+950
+00:39:52,445 --> 00:39:55,330
+I was gonna sneak out, actually.
+
+951
+00:39:55,332 --> 00:39:59,117
+But, you know, since
+you caught me...
+
+952
+00:39:59,119 --> 00:40:01,369
+(laughs):
+I could use a drink.
+
+953
+00:40:04,623 --> 00:40:06,791
+(liquid pouring)
+
+954
+00:40:11,797 --> 00:40:13,848
+That was a
+sweet proposal.
+
+955
+00:40:13,850 --> 00:40:16,500
+I thought you said
+you didn't remember it.
+
+956
+00:40:17,336 --> 00:40:19,854
+Yeah. Well...
+
+957
+00:40:19,856 --> 00:40:21,973
+I thought you didn't, either.
+
+958
+00:40:21,975 --> 00:40:24,392
+I certainly didn't remember
+how sweet it was.
+
+959
+00:40:27,346 --> 00:40:29,063
+(dog barking in distance)
+
+960
+00:40:29,065 --> 00:40:30,681
+(sighs)
+
+961
+00:40:30,683 --> 00:40:33,952
+Uh, last time I was here,
+I accused you of something.
+
+962
+00:40:33,954 --> 00:40:36,537
+I said, um...
+
+963
+00:40:36,539 --> 00:40:39,490
+that you never
+loved me, and...
+
+964
+00:40:39,492 --> 00:40:41,743
+you didn't correct me.
+
+965
+00:40:44,363 --> 00:40:46,581
+But I think I was wrong.
+
+966
+00:40:50,419 --> 00:40:51,886
+(laughs softly)
+
+967
+00:40:51,888 --> 00:40:54,055
+Not that you're gonna
+do anything about it
+
+968
+00:40:54,057 --> 00:40:55,890
+but stare at me right now.
+
+969
+00:40:57,626 --> 00:41:00,044
+Thanks for your help.
+You got give Victor a break.
+
+970
+00:41:00,046 --> 00:41:02,230
+Excuse me?
+
+971
+00:41:03,215 --> 00:41:05,266
+Who told you that Victor
+and I are having prob...
+
+972
+00:41:05,268 --> 00:41:07,819
+Oh, it was Chucky.
+He's such a dead man.
+
+973
+00:41:07,821 --> 00:41:09,437
+(sighs)
+
+974
+00:41:09,439 --> 00:41:12,357
+Okay, what do I have to
+give Victor a break for?
+
+975
+00:41:12,359 --> 00:41:16,194
+For being him...
+
+976
+00:41:16,196 --> 00:41:18,746
+and not somebody else.
+
+977
+00:41:21,083 --> 00:41:24,168
+You got to let it go, Diane.
+
+978
+00:41:27,206 --> 00:41:29,173
+I couldn't...
+
+979
+00:41:29,175 --> 00:41:32,760
+and I drove everybody away.
+
+980
+00:41:36,298 --> 00:41:37,965
+And...
+
+981
+00:41:37,967 --> 00:41:41,085
+the last thing
+you want to be is me.
+
+982
+00:41:45,290 --> 00:41:47,442
+(whispers):
+You're not so bad.
+
+983
+00:41:47,444 --> 00:41:48,776
+(laughs softly)
+
+984
+00:41:54,316 --> 00:41:57,902
+But I hear you.
+
+985
+00:41:57,904 --> 00:42:00,371
+Unfortunately, it might
+be a little too late.
+
+986
+00:42:00,373 --> 00:42:01,939
+No, it's not.
+
+987
+00:42:01,941 --> 00:42:03,107
+(laughs)
+
+988
+00:42:03,109 --> 00:42:05,076
+How do you know
+everything?
+
+989
+00:42:05,078 --> 00:42:06,911
+I don't.
+
+990
+00:42:06,913 --> 00:42:08,779
+I don't. I...
+
+991
+00:42:08,781 --> 00:42:11,782
+I just learned
+how to listen.
+
+992
+00:42:16,288 --> 00:42:19,640
+Well, what about you?
+
+993
+00:42:19,642 --> 00:42:23,511
+Don't you think there's
+somebody out there for you?
+
+994
+00:42:23,513 --> 00:42:27,482
+Or are you destined to spend
+the rest of your days alone?
+
+995
+00:42:33,572 --> 00:42:35,740
+I'm not alone.
+
+996
+00:42:39,027 --> 00:42:44,027
+<font color="#ffff00">Captioning sponsored by</font>
+== sync, corrected by <font color=#00Ff00>elderman</font> ==
+

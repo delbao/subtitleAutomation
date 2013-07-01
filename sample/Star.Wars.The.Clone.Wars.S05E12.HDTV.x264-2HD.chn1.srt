@@ -1,0 +1,1828 @@
+1
+00:00:01,200 --> 00:00:05,200
+{\fad(500,500)\fn方正黑体简体\fs20\bord3\shad0\pos(192,273)\1c&HC08000&}星球大战: 克隆人战争{\r}
+
+2
+00:00:05,300 --> 00:00:09,300
+{\fad(500,500)\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)\1c&HC08000&}第5季 第12集 战地失踪{\r}
+{\fad(500,500)\fntahoma\fs12\shad0}Missing in Action{\r}
+
+3
+00:00:11,000 --> 00:00:15,700
+{\fad(500,500)\fn方正黑体简体\fs20\bord3\shad0\pos(192,273)\1c&HC08000&}战士最强大的武器是勇气{\r}
+
+4
+00:00:17,200 --> 00:00:18,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}山穷水尽!{\r}
+{\fntahoma\fs12\shad0}Stranded!{\r}
+
+5
+00:00:18,300 --> 00:00:20,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}在为共和国执行一项秘密任务时{\r}
+{\fntahoma\fs12\shad0}On a secret mission for the Republic,{\r}
+
+6
+00:00:20,400 --> 00:00:23,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}加斯孔上校及其英勇的机器人小队{\r}
+{\fntahoma\fs12\shad0}Colonel Gascon and his intrepid droid squad{\r}
+
+7
+00:00:23,300 --> 00:00:25,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}成功地从一艘分离势力军舰上{\r}
+{\fntahoma\fs12\shad0}successfully steal an encryption module{\r}
+
+8
+00:00:25,600 --> 00:00:27,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}窃取了一个加密模块{\r}
+{\fntahoma\fs12\shad0}from a Separatist ship.{\r}
+
+9
+00:00:27,200 --> 00:00:29,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}在撤离途中, 英雄们迫降在{\r}
+{\fntahoma\fs12\shad0}During their escape, our heroes crash{\r}
+
+10
+00:00:29,600 --> 00:00:31,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}外环星域的阿巴法星球上{\r}
+{\fntahoma\fs12\shad0}on the Outer Rim planet of Abafar{\r}
+
+11
+00:00:31,700 --> 00:00:33,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}随即被困在了{\r}
+{\fntahoma\fs12\shad0}and find themselves stranded{\r}
+
+12
+00:00:33,200 --> 00:00:36,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}一片堪称"虚无"的奇怪荒漠中{\r}
+{\fntahoma\fs12\shad0}in the strange wasteland called The Void.{\r}
+
+13
+00:00:36,300 --> 00:00:38,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}如今, 在屡次死里逃生后{\r}
+{\fntahoma\fs12\shad0}Now, after surviving against all odds,{\r}
+
+14
+00:00:38,700 --> 00:00:41,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}英雄们必须设法归航{\r}
+{\fntahoma\fs12\shad0}our heroes must find a way home{\r}
+
+15
+00:00:41,000 --> 00:00:42,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}并带回加密模块{\r}
+{\fntahoma\fs12\shad0}and deliver the encryption module{\r}
+
+16
+00:00:42,900 --> 00:00:44,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}以破译分离势力的密码{\r}
+{\fntahoma\fs12\shad0}to crack the Separatist code{\r}
+
+17
+00:00:44,700 --> 00:00:46,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}并阻止敌人的进攻{\r}
+{\fntahoma\fs12\shad0}and stop an enemy attack.{\r}
+
+18
+00:00:48,800 --> 00:00:50,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我从没去过塔图因{\r}
+{\fntahoma\fs12\shad0}I have never been to Tatooine,{\r}
+
+19
+00:00:50,900 --> 00:00:53,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}但如果这地方让你想起了它, R2{\r}
+{\fntahoma\fs12\shad0}but if this place reminds you of it, Artoo,{\r}
+
+20
+00:00:53,100 --> 00:00:55,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}就提醒我永远不要去那儿{\r}
+{\fntahoma\fs12\shad0}remind me never to go there.{\r}
+
+21
+00:01:00,500 --> 00:01:02,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}别瞎想了, QT{\r}
+{\fntahoma\fs12\shad0}Don't be absurd, Qutee.{\r}
+
+22
+00:01:02,300 --> 00:01:04,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这些人没有危险性{\r}
+{\fntahoma\fs12\shad0}These people aren't dangerous.{\r}
+
+23
+00:01:14,700 --> 00:01:17,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他们中的大多数可能在躲避{\r}
+{\fntahoma\fs12\shad0}Most of these people are probably hiding{\r}
+
+24
+00:01:17,300 --> 00:01:19,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}什么人或什么事{\r}
+{\fntahoma\fs12\shad0}from someone or something.{\r}
+
+25
+00:01:19,900 --> 00:01:23,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这就是在外环星域肮脏角落的生存之道{\r}
+{\fntahoma\fs12\shad0}That's the way it is on these Outer Rim armpits.{\r}
+
+26
+00:01:23,100 --> 00:01:24,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}没人会自愿来这儿{\r}
+{\fntahoma\fs12\shad0}Nobody's here by choice,{\r}
+
+27
+00:01:24,700 --> 00:01:26,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}而我更是加倍如此{\r}
+{\fntahoma\fs12\shad0}which goes double for me.{\r}
+
+28
+00:01:26,500 --> 00:01:28,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我希望你有个计划{\r}
+{\fntahoma\fs12\shad0}I hope you have a plan{\r}
+
+29
+00:01:28,100 --> 00:01:30,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}能让我们离开这个角落, 上校{\r}
+{\fntahoma\fs12\shad0}to get us off this armpit, Colonel.{\r}
+
+30
+00:01:30,500 --> 00:01:32,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我当然有, 下士{\r}
+{\fntahoma\fs12\shad0}Of course I do, Corporal.{\r}
+
+31
+00:01:32,900 --> 00:01:35,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们只需一条上行通信链路{\r}
+{\fntahoma\fs12\shad0}All we need is a communications uplink{\r}
+
+32
+00:01:35,600 --> 00:01:36,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}以及一些燃料{\r}
+{\fntahoma\fs12\shad0}and some fuel.{\r}
+
+33
+00:01:38,100 --> 00:01:40,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}谢谢提醒, C4{\r}
+{\fntahoma\fs12\shad0}Thank you for the reminder, Ceefor,{\r}
+
+34
+00:01:40,500 --> 00:01:43,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可我很清楚我们的穿梭机坠毁在"虚无"之地了{\r}
+{\fntahoma\fs12\shad0}but I'm well aware our shuttle's lost in The Void.{\r}
+
+35
+00:01:43,700 --> 00:01:46,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我是在说给我自己的燃料{\r}
+{\fntahoma\fs12\shad0}I'm talking about fuel for me.{\r}
+
+36
+00:01:46,300 --> 00:01:49,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你们机器人可以靠电池能量混日子{\r}
+{\fntahoma\fs12\shad0}You droids can putter along on battery power{\r}
+
+37
+00:01:49,500 --> 00:01:51,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可我需要食物才能活下去{\r}
+{\fntahoma\fs12\shad0}but I need food to survive.{\r}
+
+38
+00:01:52,000 --> 00:01:54,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我的电池能量也快用完了{\r}
+{\fntahoma\fs12\shad0}My power cells are running low too,{\r}
+
+39
+00:01:54,600 --> 00:01:56,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}要是能来次油浴就爽了{\r}
+{\fntahoma\fs12\shad0}and an oil bath would be nice.{\r}
+
+40
+00:01:57,000 --> 00:02:00,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这些尘土一直折磨着我的关节{\r}
+{\fntahoma\fs12\shad0}All this dust is wreaking havoc on my joints.{\r}
+
+41
+00:02:01,500 --> 00:02:03,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}算了吧, BZ{\r}
+{\fntahoma\fs12\shad0}Forget it, Beezee.{\r}
+
+42
+00:02:03,000 --> 00:02:04,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们不是来这儿度假的{\r}
+{\fntahoma\fs12\shad0}We're not on vacation here.{\r}
+
+43
+00:02:04,800 --> 00:02:07,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}R2, 加密模块还安全吗?{\r}
+{\fntahoma\fs12\shad0}Artoo, is the encryption module safe?{\r}
+
+44
+00:02:09,600 --> 00:02:12,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}除了死亡和肢解{\r}
+{\fntahoma\fs12\shad0}Nothing short of death or dismemberment{\r}
+
+45
+00:02:12,200 --> 00:02:14,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}没什么能阻止米布尔·加斯孔上校{\r}
+{\fntahoma\fs12\shad0}will stop Colonel Meebur Gascon{\r}
+
+46
+00:02:14,400 --> 00:02:17,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}把那个模块带回科洛桑{\r}
+{\fntahoma\fs12\shad0}from delivering that module to Coruscant.{\r}
+
+47
+00:02:21,400 --> 00:02:23,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嗯, 我会的{\r}
+{\fntahoma\fs12\shad0}Well, I'll be.{\r}
+
+48
+00:02:23,600 --> 00:02:26,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}餐馆. 吃饭的地方{\r}
+{\fntahoma\fs12\shad0}A diner. A place of eating.{\r}
+
+49
+00:02:26,100 --> 00:02:28,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哈, 我得救了{\r}
+{\fntahoma\fs12\shad0}[chuckles] I'm saved.{\r}
+
+50
+00:02:28,100 --> 00:02:31,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}R2, 你和其他技工侦察一下四周{\r}
+{\fntahoma\fs12\shad0}Artoo, you and the other 'mechs scout the perimeter.{\r}
+
+51
+00:02:31,000 --> 00:02:33,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}看看附近有没有不友好的事物{\r}
+{\fntahoma\fs12\shad0}Find out if there are any unfriendlies around.{\r}
+
+52
+00:02:34,000 --> 00:02:35,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}下士{\r}
+{\fntahoma\fs12\shad0}Corporal,{\r}
+
+53
+00:02:35,200 --> 00:02:39,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你和我去这个美食餐馆里补充燃料{\r}
+{\fntahoma\fs12\shad0}you and I will refuel in this fine establishment.{\r}
+
+54
+00:02:54,200 --> 00:02:55,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}日安{\r}
+{\fntahoma\fs12\shad0}Good day.{\r}
+
+55
+00:02:59,000 --> 00:03:03,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我是大共和国军的加斯孔上校{\r}
+{\fntahoma\fs12\shad0}I am Colonel Gascon of the Grand Army of the Republic.{\r}
+
+56
+00:03:03,700 --> 00:03:06,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我来这儿执行非常重要的任务{\r}
+{\fntahoma\fs12\shad0}And I am here on very important business.{\r}
+
+57
+00:03:12,900 --> 00:03:14,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我时间紧迫{\r}
+{\fntahoma\fs12\shad0}I don't have much time,{\r}
+
+58
+00:03:14,400 --> 00:03:17,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}所以请你热情待客, 给我端上今天的特价菜{\r}
+{\fntahoma\fs12\shad0}so if you'll be so kind as to fix me your daily special{\r}
+
+59
+00:03:17,800 --> 00:03:19,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}并为我的机器人充电{\r}
+{\fntahoma\fs12\shad0}and let my droid recharge.{\r}
+
+60
+00:03:19,800 --> 00:03:21,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不招待机器人{\r}
+{\fntahoma\fs12\shad0}No droids.{\r}
+
+61
+00:03:23,400 --> 00:03:25,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧{\r}
+{\fntahoma\fs12\shad0}Fine.{\r}
+
+62
+00:03:25,800 --> 00:03:27,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}在外面等我, 下士{\r}
+{\fntahoma\fs12\shad0}Wait for me outside, Corporal.{\r}
+
+63
+00:03:28,200 --> 00:03:31,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们也不招待你这类的{\r}
+{\fntahoma\fs12\shad0}We don't serve your type either.{\r}
+
+64
+00:03:31,400 --> 00:03:34,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你指的是哪一类?{\r}
+{\fntahoma\fs12\shad0}What type are you referring to?{\r}
+
+65
+00:03:34,400 --> 00:03:37,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}电线虫{\r}
+{\fntahoma\fs12\shad0}Conduit worms.{\r}
+
+66
+00:03:40,500 --> 00:03:44,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}求你看看清楚. 我是个齐尔金人{\r}
+{\fntahoma\fs12\shad0}I beg your pardon. I am a Zilkin.{\r}
+
+67
+00:03:44,000 --> 00:03:47,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你会求我饶命{\r}
+{\fntahoma\fs12\shad0}You'll be begging for your life{\r}
+
+68
+00:03:47,000 --> 00:03:49,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}如果你不快滚的话{\r}
+{\fntahoma\fs12\shad0}if you don't beat it.{\r}
+
+69
+00:03:51,200 --> 00:03:53,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}快滚{\r}
+{\fntahoma\fs12\shad0}Beat it.{\r}
+
+70
+00:03:53,200 --> 00:03:54,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊-哦{\r}
+{\fntahoma\fs12\shad0}Uh-oh.{\r}
+
+71
+00:03:54,200 --> 00:03:55,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊!{\r}
+{\fntahoma\fs12\shad0}Ah!{\r}
+
+72
+00:03:58,000 --> 00:04:00,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这是迫害!{\r}
+{\fntahoma\fs12\shad0}This is an outrage!{\r}
+
+73
+00:04:00,600 --> 00:04:03,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那个怪物将来会后悔{\r}
+{\fntahoma\fs12\shad0}That monstrosity will rue the day{\r}
+
+74
+00:04:03,000 --> 00:04:05,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}今天不允许我吃饭的{\r}
+{\fntahoma\fs12\shad0}he denied me a meal.{\r}
+
+75
+00:04:05,000 --> 00:04:07,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不是火上浇油, 上校{\r}
+{\fntahoma\fs12\shad0}I would not push it, Colonel.{\r}
+
+76
+00:04:07,000 --> 00:04:09,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那个怪物会把你做成饭的{\r}
+{\fntahoma\fs12\shad0}That monstrosity might make a meal out of you.{\r}
+
+77
+00:04:10,000 --> 00:04:11,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}唉. 我不在乎{\r}
+{\fntahoma\fs12\shad0}[sighs] I don't care.{\r}
+
+78
+00:04:11,400 --> 00:04:12,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我饿死了{\r}
+{\fntahoma\fs12\shad0}I'm famished.{\r}
+
+79
+00:04:18,900 --> 00:04:21,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我想我可以帮你{\r}
+{\fntahoma\fs12\shad0}I think I can help.{\r}
+
+80
+00:04:32,700 --> 00:04:35,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你的饭准备好了, 长官{\r}
+{\fntahoma\fs12\shad0}Your meal awaits you, sir.{\r}
+
+81
+00:04:36,500 --> 00:04:39,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你这个短路的液压扳手{\r}
+{\fntahoma\fs12\shad0}You short-circuiting hydrospanner,{\r}
+
+82
+00:04:39,500 --> 00:04:40,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那不是饭{\r}
+{\fntahoma\fs12\shad0}that's no meal.{\r}
+
+83
+00:04:40,800 --> 00:04:42,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那是垃圾{\r}
+{\fntahoma\fs12\shad0}That is garbage.{\r}
+
+84
+00:04:42,800 --> 00:04:44,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}有什么区别吗?{\r}
+{\fntahoma\fs12\shad0}What is the difference?{\r}
+
+85
+00:04:44,200 --> 00:04:45,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这是可以吃的, 不是吗?{\r}
+{\fntahoma\fs12\shad0}It is edible, is it not?{\r}
+
+86
+00:04:45,700 --> 00:04:47,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}呃{\r}
+{\fntahoma\fs12\shad0}[sighs]{\r}
+
+87
+00:05:12,400 --> 00:05:14,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊! 咳!{\r}
+{\fntahoma\fs12\shad0}Agh! [coughs]{\r}
+
+88
+00:05:15,200 --> 00:05:17,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊, 哦, 对不起{\r}
+{\fntahoma\fs12\shad0}Oh, uh, I'm sorry.{\r}
+
+89
+00:05:17,000 --> 00:05:18,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我没看见你在那儿{\r}
+{\fntahoma\fs12\shad0}I didn't see you there.{\r}
+
+90
+00:05:18,300 --> 00:05:20,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}听着, 我可以给你拿些食物{\r}
+{\fntahoma\fs12\shad0}Look, I could get you some food,{\r}
+
+91
+00:05:20,000 --> 00:05:23,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}但通常人们都从前门进来{\r}
+{\fntahoma\fs12\shad0}but normally people come in the front door.{\r}
+
+92
+00:05:23,000 --> 00:05:24,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不过没问题{\r}
+{\fntahoma\fs12\shad0}But there's no problem.{\r}
+
+93
+00:05:26,200 --> 00:05:29,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你知道你是在吃垃圾, 对吧?{\r}
+{\fntahoma\fs12\shad0}You do know that you're eating garbage, right?{\r}
+
+94
+00:05:31,100 --> 00:05:33,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是个克隆人{\r}
+{\fntahoma\fs12\shad0}You're a clone.{\r}
+
+95
+00:05:33,500 --> 00:05:34,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你说什么?{\r}
+{\fntahoma\fs12\shad0}Excuse me?{\r}
+
+96
+00:05:34,900 --> 00:05:36,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊, 我--{\r}
+{\fntahoma\fs12\shad0}Uh, I--{\r}
+
+97
+00:05:36,900 --> 00:05:38,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不知道{\r}
+{\fntahoma\fs12\shad0}I wouldn't know about that.{\r}
+
+98
+00:05:38,400 --> 00:05:39,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我--我叫格雷戈尔{\r}
+{\fntahoma\fs12\shad0}My--my name's Gregor.{\r}
+
+99
+00:05:39,900 --> 00:05:42,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}等等, 克隆人是什么?{\r}
+{\fntahoma\fs12\shad0}Uh, wait, what's a clone?{\r}
+
+100
+00:05:48,700 --> 00:05:50,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是个克隆人{\r}
+{\fntahoma\fs12\shad0}You are a clone.{\r}
+
+101
+00:05:51,200 --> 00:05:53,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是在执行卧底任务吗?{\r}
+{\fntahoma\fs12\shad0}Are you working undercover?{\r}
+
+102
+00:05:53,100 --> 00:05:56,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不懂你在说什么{\r}
+{\fntahoma\fs12\shad0}I don't know what you're talking about.{\r}
+
+103
+00:05:56,200 --> 00:05:57,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}听我说, 士兵{\r}
+{\fntahoma\fs12\shad0}Listen to me, soldier,{\r}
+
+104
+00:05:57,500 --> 00:05:58,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不管你的任务是什么{\r}
+{\fntahoma\fs12\shad0}whatever your assignment is,{\r}
+
+105
+00:05:58,800 --> 00:06:00,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}都不会比我的更重要{\r}
+{\fntahoma\fs12\shad0}it can't be more important than mine.{\r}
+
+106
+00:06:00,700 --> 00:06:02,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这是他的第一次实际任务{\r}
+{\fntahoma\fs12\shad0}It is his first real mission.{\r}
+
+107
+00:06:02,500 --> 00:06:04,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他只是个地图研究员{\r}
+{\fntahoma\fs12\shad0}He is just a map reader.{\r}
+
+108
+00:06:04,200 --> 00:06:06,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}别听那蠢货的{\r}
+{\fntahoma\fs12\shad0}Don't listen to that ignoramus.{\r}
+
+109
+00:06:06,600 --> 00:06:10,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是个克隆人, 共和国军队的士兵{\r}
+{\fntahoma\fs12\shad0}You are a clone and a soldier in the Republic Army,{\r}
+
+110
+00:06:10,300 --> 00:06:12,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我命令你带我去你的飞船{\r}
+{\fntahoma\fs12\shad0}and I order you to take me to your ship.{\r}
+
+111
+00:06:12,800 --> 00:06:15,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们需要立即返回科洛桑{\r}
+{\fntahoma\fs12\shad0}We need to get back to Coruscant immediately.{\r}
+
+112
+00:06:15,400 --> 00:06:18,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}听着, 朋友, 我只是想帮个忙{\r}
+{\fntahoma\fs12\shad0}Uh, look, friend, I was just trying to help.{\r}
+
+113
+00:06:18,600 --> 00:06:20,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}很抱歉让你产生了误解{\r}
+{\fntahoma\fs12\shad0}I'm sorry if you took it the wrong way.{\r}
+
+114
+00:06:20,600 --> 00:06:23,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我觉得那个士兵不相信你是位上校{\r}
+{\fntahoma\fs12\shad0}I do not think that soldier believes you are a colonel,{\r}
+
+115
+00:06:23,300 --> 00:06:25,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊, 上校{\r}
+{\fntahoma\fs12\shad0}uh, Colonel.{\r}
+
+116
+00:06:25,600 --> 00:06:26,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}格雷戈尔!{\r}
+{\fntahoma\fs12\shad0}Gregor!{\r}
+
+117
+00:06:26,900 --> 00:06:29,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}回来干活!{\r}
+{\fntahoma\fs12\shad0}Get back to work!{\r}
+
+118
+00:06:29,100 --> 00:06:31,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊, 请原谅. 我得走了{\r}
+{\fntahoma\fs12\shad0}Uh, excuse me. I got to go.{\r}
+
+119
+00:06:31,400 --> 00:06:33,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不想丢掉工作{\r}
+{\fntahoma\fs12\shad0}I don't want to lose my job.{\r}
+
+120
+00:06:36,100 --> 00:06:38,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可我还饿着呢{\r}
+{\fntahoma\fs12\shad0}But I'm still hungry.{\r}
+
+121
+00:06:51,100 --> 00:06:53,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那么, 侦察报告是什么情况?{\r}
+{\fntahoma\fs12\shad0}Well, what's the scouting report?{\r}
+
+122
+00:06:57,700 --> 00:06:59,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}分离势力机器人?{\r}
+{\fntahoma\fs12\shad0}Separatist droids?{\r}
+
+123
+00:06:59,300 --> 00:07:02,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嗯, 那么, 事情变复杂了{\r}
+{\fntahoma\fs12\shad0}Hmm, well, that complicates matters.{\r}
+
+124
+00:07:05,300 --> 00:07:09,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那个, 啊, 老板{\r}
+{\fntahoma\fs12\shad0}So, uh, boss,{\r}
+
+125
+00:07:09,000 --> 00:07:10,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}您知道, 我只是想...{\r}
+{\fntahoma\fs12\shad0}you know, I was just wondering...{\r}
+
+126
+00:07:10,700 --> 00:07:13,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不, 你不会有加薪的, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}No, you can't have a raise, Gregor.{\r}
+
+127
+00:07:13,800 --> 00:07:14,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哦, 不, 不, 不, 不{\r}
+{\fntahoma\fs12\shad0}Oh, no, no, no, no.{\r}
+
+128
+00:07:14,800 --> 00:07:17,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不是要加薪, 先生{\r}
+{\fntahoma\fs12\shad0}I don't want a raise, sir.{\r}
+
+129
+00:07:17,000 --> 00:07:20,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我-我只是想知道, 克隆人是什么?{\r}
+{\fntahoma\fs12\shad0}I-I just wanted to know, what's a clone?{\r}
+
+130
+00:07:21,000 --> 00:07:23,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}今天有人告诉我说我是个克隆人{\r}
+{\fntahoma\fs12\shad0}Someone told me I was a clone today.{\r}
+
+131
+00:07:23,600 --> 00:07:25,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他们一口咬定{\r}
+{\fntahoma\fs12\shad0}They insisted.{\r}
+
+132
+00:07:25,000 --> 00:07:26,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}呵. 克隆人?{\r}
+{\fntahoma\fs12\shad0}Heh. A clone?{\r}
+
+133
+00:07:27,200 --> 00:07:30,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}克隆人在银河系各地打仗{\r}
+{\fntahoma\fs12\shad0}Clones fight battles across the galaxy.{\r}
+
+134
+00:07:30,300 --> 00:07:32,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他们是勇敢的战士{\r}
+{\fntahoma\fs12\shad0}They are brave soldiers.{\r}
+
+135
+00:07:32,500 --> 00:07:35,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那听起来像你吗?{\r}
+{\fntahoma\fs12\shad0}Does that sound like you?{\r}
+
+136
+00:07:35,700 --> 00:07:38,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是个洗碗工, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}You're a dishwasher, Gregor.{\r}
+
+137
+00:07:38,600 --> 00:07:42,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}别再想克隆人或类似的任何事{\r}
+{\fntahoma\fs12\shad0}Forget about clones or anything like that.{\r}
+
+138
+00:07:42,000 --> 00:07:44,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你在这儿拥有很好的生活{\r}
+{\fntahoma\fs12\shad0}You have good life here,{\r}
+
+139
+00:07:44,400 --> 00:07:46,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}简单的生活{\r}
+{\fntahoma\fs12\shad0}a simple life.{\r}
+
+140
+00:07:46,400 --> 00:07:48,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}比博尔库斯发现你时的生活要好得多{\r}
+{\fntahoma\fs12\shad0}More than you had when Borkus found you.{\r}
+
+141
+00:07:48,900 --> 00:07:50,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我-我知道, 先生{\r}
+{\fntahoma\fs12\shad0}I-I know, sir.{\r}
+
+142
+00:07:50,000 --> 00:07:52,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我很感激您所做的一切. 相信我{\r}
+{\fntahoma\fs12\shad0}And I appreciate everything that you've done. Believe me.{\r}
+
+143
+00:07:52,500 --> 00:07:54,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可我想也许您可以--{\r}
+{\fntahoma\fs12\shad0}But I thought maybe you could--{\r}
+
+144
+00:07:54,900 --> 00:07:57,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可以告诉我, 我是怎么到这儿来的?{\r}
+{\fntahoma\fs12\shad0}could you tell me, how did I get here?{\r}
+
+145
+00:07:57,100 --> 00:07:58,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}您在哪儿发现我的?{\r}
+{\fntahoma\fs12\shad0}Where did you find me?{\r}
+
+146
+00:07:58,400 --> 00:08:01,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}别问了. 回家, 睡觉吧{\r}
+{\fntahoma\fs12\shad0}Enough questions. Go home. Sleep.{\r}
+
+147
+00:08:01,100 --> 00:08:03,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}明天再来. 干你的活{\r}
+{\fntahoma\fs12\shad0}Come back tomorrow. Do your job.{\r}
+
+148
+00:08:04,500 --> 00:08:07,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}而且我不想再听到"克隆人"这个词{\r}
+{\fntahoma\fs12\shad0}And I don't ever want to hear that word "clone" again,{\r}
+
+149
+00:08:07,600 --> 00:08:09,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}明白吗?{\r}
+{\fntahoma\fs12\shad0}understand?{\r}
+
+150
+00:08:19,400 --> 00:08:21,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}上校, 我不由得注意到{\r}
+{\fntahoma\fs12\shad0}Colonel, I cannot help noticing{\r}
+
+151
+00:08:21,600 --> 00:08:24,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们已经在实行第三套计划了{\r}
+{\fntahoma\fs12\shad0}that we are already on our third plan.{\r}
+
+152
+00:08:24,900 --> 00:08:27,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}聪明的战略需要{\r}
+{\fntahoma\fs12\shad0}Smart battle strategy requires{\r}
+
+153
+00:08:27,200 --> 00:08:29,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}灵活机动和随机应变{\r}
+{\fntahoma\fs12\shad0}flexibility and improvisation,{\r}
+
+154
+00:08:29,800 --> 00:08:32,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}而这是机器人所不具备的{\r}
+{\fntahoma\fs12\shad0}something droids are not known for.{\r}
+
+155
+00:08:34,000 --> 00:08:35,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}R2说的对{\r}
+{\fntahoma\fs12\shad0}Artoo is right.{\r}
+
+156
+00:08:35,700 --> 00:08:37,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}机器人之所以不知变通{\r}
+{\fntahoma\fs12\shad0}Droids are not known for being flexible,{\r}
+
+157
+00:08:37,800 --> 00:08:40,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}是因为程序让我们从一开始就正确行事{\r}
+{\fntahoma\fs12\shad0}because we are programmed to be right the first time.{\r}
+
+158
+00:08:40,900 --> 00:08:43,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧, 回答我, 下士{\r}
+{\fntahoma\fs12\shad0}Well, answer me this, Corporal,{\r}
+
+159
+00:08:43,000 --> 00:08:45,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}如果绝地委员会认为你们机器人中的某一个{\r}
+{\fntahoma\fs12\shad0}if the Jedi Council thought one of you droids{\r}
+
+160
+00:08:45,800 --> 00:08:48,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}能更好地领导这次任务{\r}
+{\fntahoma\fs12\shad0}were better prepared to lead this mission,{\r}
+
+161
+00:08:48,300 --> 00:08:50,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那他们为什么让我来指挥?{\r}
+{\fntahoma\fs12\shad0}then why did they put me in charge?{\r}
+
+162
+00:08:50,900 --> 00:08:53,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}因为你是唯一一个能装进BZ的人{\r}
+{\fntahoma\fs12\shad0}'Cause you were the only one who could fit inside Beezee.{\r}
+
+163
+00:08:55,600 --> 00:08:59,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不, 是因为我的推理能力告诉我{\r}
+{\fntahoma\fs12\shad0}No, it is because my power of deduction told me{\r}
+
+164
+00:08:59,600 --> 00:09:02,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}如果阿巴法上有分离势力机器人{\r}
+{\fntahoma\fs12\shad0}that if there are Separatist droids on Abafar,{\r}
+
+165
+00:09:02,800 --> 00:09:05,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那么附近一定有停机坪{\r}
+{\fntahoma\fs12\shad0}then there must be a landing zone nearby{\r}
+
+166
+00:09:05,600 --> 00:09:09,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}而那儿无疑会有一架能带我们回家的穿梭机{\r}
+{\fntahoma\fs12\shad0}where there will be no doubt a shuttle to take us home.{\r}
+
+167
+00:09:09,500 --> 00:09:13,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}下士, 这才是由我指挥的原因{\r}
+{\fntahoma\fs12\shad0}That, Corporal, is why I am in charge.{\r}
+
+168
+00:09:16,100 --> 00:09:20,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}现在, 我们要潜行到那儿, 神不知鬼不觉地{\r}
+{\fntahoma\fs12\shad0}Now, we are going to waltz down there, undetected,{\r}
+
+169
+00:09:20,000 --> 00:09:22,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}就像我们在无畏舰上干过的一样{\r}
+{\fntahoma\fs12\shad0}just like we did on the dreadnought,{\r}
+
+170
+00:09:22,100 --> 00:09:25,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}然后兵不血刃地征用那架穿梭机{\r}
+{\fntahoma\fs12\shad0}and commandeer that shuttle without incident.{\r}
+
+171
+00:09:27,600 --> 00:09:29,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}技工们说的有道理, 上校{\r}
+{\fntahoma\fs12\shad0}The 'mechs have a point, Colonel.{\r}
+
+172
+00:09:29,300 --> 00:09:31,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们在无畏舰上大闹一通之后{\r}
+{\fntahoma\fs12\shad0}After what we did on the dreadnought,{\r}
+
+173
+00:09:31,100 --> 00:09:34,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那些战斗机器人恐怕已经有了我们的身份扫描记录{\r}
+{\fntahoma\fs12\shad0}those battle droids probably have our identities scanned.{\r}
+
+174
+00:09:34,100 --> 00:09:36,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这回我们不得不杀出一条通往穿梭机的路了{\r}
+{\fntahoma\fs12\shad0}We will have to fight our way onto the shuttle this time.{\r}
+
+175
+00:09:36,900 --> 00:09:39,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嗯, 你们机器人可能说的有道理{\r}
+{\fntahoma\fs12\shad0}Hmm, you droids may have a point.{\r}
+
+176
+00:09:39,500 --> 00:09:41,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}但就算发配我去马拉科{\r}
+{\fntahoma\fs12\shad0}But there's no way in Malachor{\r}
+
+177
+00:09:41,400 --> 00:09:44,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我也不会率领这支可怜的小队{\r}
+{\fntahoma\fs12\shad0}that I'm going to lead this pitiful squad{\r}
+
+178
+00:09:44,100 --> 00:09:46,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}对停机坪发动袭击{\r}
+{\fntahoma\fs12\shad0}on an assault of that landing zone.{\r}
+
+179
+00:09:46,700 --> 00:09:48,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}现在有什么计划, 上校?{\r}
+{\fntahoma\fs12\shad0}What is the plan now, Colonel?{\r}
+
+180
+00:09:48,500 --> 00:09:52,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们要等到我们的克隆人下班{\r}
+{\fntahoma\fs12\shad0}We're going to wait until our clone gets off work,{\r}
+
+181
+00:09:52,400 --> 00:09:56,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}然后征召他入伙, 不管他愿不愿意{\r}
+{\fntahoma\fs12\shad0}then enlist his help, whether he wants to or not.{\r}
+
+182
+00:10:49,300 --> 00:10:50,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}雷克斯上尉奉命报到{\r}
+{\fntahoma\fs12\shad0}Captain Rex reporting for duty.{\r}
+
+183
+00:10:50,800 --> 00:10:52,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊! 什么?{\r}
+{\fntahoma\fs12\shad0}Agh! What?{\r}
+
+184
+00:10:58,200 --> 00:11:00,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我...{\r}
+{\fntahoma\fs12\shad0}I...{\r}
+
+185
+00:11:00,000 --> 00:11:01,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不明白{\r}
+{\fntahoma\fs12\shad0}I don't understand.{\r}
+
+186
+00:11:01,500 --> 00:11:03,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那是我吗?{\r}
+{\fntahoma\fs12\shad0}That's me?{\r}
+
+187
+00:11:03,900 --> 00:11:06,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不, 那是雷克斯上尉{\r}
+{\fntahoma\fs12\shad0}No, that's Captain Rex.{\r}
+
+188
+00:11:06,100 --> 00:11:08,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他是共和国军队中的一名克隆人{\r}
+{\fntahoma\fs12\shad0}He's a clone in the Republic Army,{\r}
+
+189
+00:11:08,700 --> 00:11:10,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}就像你一样, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}just like you, Gregor.{\r}
+
+190
+00:11:10,900 --> 00:11:13,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我无法相信{\r}
+{\fntahoma\fs12\shad0}I can't believe it.{\r}
+
+191
+00:11:14,500 --> 00:11:16,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧, 慢点来, 慢点来{\r}
+{\fntahoma\fs12\shad0}Okay, slow down. Slow down.{\r}
+
+192
+00:11:16,100 --> 00:11:17,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你的意思是说{\r}
+{\fntahoma\fs12\shad0}So you're telling me that{\r}
+
+193
+00:11:17,900 --> 00:11:20,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}还有更多这样的克隆人?{\r}
+{\fntahoma\fs12\shad0}there are more of these clones?{\r}
+
+194
+00:11:20,700 --> 00:11:23,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}有数百万之众. 整整一支军队{\r}
+{\fntahoma\fs12\shad0}Millions. A whole army's worth.{\r}
+
+195
+00:11:23,500 --> 00:11:25,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊-哈{\r}
+{\fntahoma\fs12\shad0}Uh-huh.{\r}
+
+196
+00:11:25,500 --> 00:11:28,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}而且他们都和我一模一样?{\r}
+{\fntahoma\fs12\shad0}And they all look exactly like me?{\r}
+
+197
+00:11:28,900 --> 00:11:32,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不, 那些克隆人是战士{\r}
+{\fntahoma\fs12\shad0}No, those clones are warriors,{\r}
+
+198
+00:11:32,200 --> 00:11:35,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}是共和国培育的职业军人{\r}
+{\fntahoma\fs12\shad0}professional soldiers created by the Republic,{\r}
+
+199
+00:11:35,400 --> 00:11:38,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}被训练来打仗, 且不怕牺牲{\r}
+{\fntahoma\fs12\shad0}trained to fight, and die if necessary,{\r}
+
+200
+00:11:38,700 --> 00:11:41,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}为打倒分离势力而战斗{\r}
+{\fntahoma\fs12\shad0}in our war against the Separatists.{\r}
+
+201
+00:11:41,000 --> 00:11:42,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他们不是洗碗工{\r}
+{\fntahoma\fs12\shad0}They're not dishwashers{\r}
+
+202
+00:11:42,500 --> 00:11:45,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}住在害虫窝里的洗碗工{\r}
+{\fntahoma\fs12\shad0}living in some vermin-infested hovel.{\r}
+
+203
+00:11:47,600 --> 00:11:50,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}听着, 能住在这儿我很幸运{\r}
+{\fntahoma\fs12\shad0}Look, I'm lucky to live in this place.{\r}
+
+204
+00:11:50,700 --> 00:11:53,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}博尔库斯先生说我的工资还不够付租金的{\r}
+{\fntahoma\fs12\shad0}Mr. Borkus says my salary doesn't even cover the rent,{\r}
+
+205
+00:11:53,700 --> 00:11:55,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}所以他帮我垫了差价{\r}
+{\fntahoma\fs12\shad0}so he pays the difference for me.{\r}
+
+206
+00:11:55,700 --> 00:11:57,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你还不明白吗, 格雷戈尔?{\r}
+{\fntahoma\fs12\shad0}Don't you get it, Gregor?{\r}
+
+207
+00:11:57,300 --> 00:11:59,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是他的奴隶{\r}
+{\fntahoma\fs12\shad0}You're his slave.{\r}
+
+208
+00:11:59,000 --> 00:12:01,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们得搞清楚你到底是谁{\r}
+{\fntahoma\fs12\shad0}We need to figure out who you really are,{\r}
+
+209
+00:12:01,200 --> 00:12:02,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你怎么来这儿的{\r}
+{\fntahoma\fs12\shad0}how you got here.{\r}
+
+210
+00:12:02,800 --> 00:12:05,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你真的什么也不记得了吗?{\r}
+{\fntahoma\fs12\shad0}Are you sure you don't remember anything?{\r}
+
+211
+00:12:05,800 --> 00:12:09,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嗯, 我只记得{\r}
+{\fntahoma\fs12\shad0}Well, all I remember is{\r}
+
+212
+00:12:09,800 --> 00:12:11,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}在一架运输机上醒过来{\r}
+{\fntahoma\fs12\shad0}waking up on a transport.{\r}
+
+213
+00:12:11,800 --> 00:12:14,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们不知怎么地坠毁在了阿巴法{\r}
+{\fntahoma\fs12\shad0}Somehow we crashed on Abafar.{\r}
+
+214
+00:12:14,100 --> 00:12:17,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}然后, 嗯, 博尔库斯先生说{\r}
+{\fntahoma\fs12\shad0}And, well, Mr. Borkus says{\r}
+
+215
+00:12:17,100 --> 00:12:18,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我失忆了{\r}
+{\fntahoma\fs12\shad0}I have amnesia.{\r}
+
+216
+00:12:18,600 --> 00:12:19,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嗯{\r}
+{\fntahoma\fs12\shad0}Hmm.{\r}
+
+217
+00:12:19,600 --> 00:12:23,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}每个克隆人的手腕上都有识别码{\r}
+{\fntahoma\fs12\shad0}Every clone has an identifying code on their wrist.{\r}
+
+218
+00:12:23,000 --> 00:12:25,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你的军事履历就记录在数据库里{\r}
+{\fntahoma\fs12\shad0}Your military records will be in the database.{\r}
+
+219
+00:12:25,600 --> 00:12:27,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}扫描他, R2{\r}
+{\fntahoma\fs12\shad0}Scan him, Artoo.{\r}
+
+220
+00:12:34,600 --> 00:12:36,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}厉害{\r}
+{\fntahoma\fs12\shad0}Impressive.{\r}
+
+221
+00:12:36,400 --> 00:12:42,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}格雷戈尔, 你的编号是CC-5576-39{\r}
+{\fntahoma\fs12\shad0}Gregor, your designation is CC-5576-39.{\r}
+
+222
+00:12:42,100 --> 00:12:46,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你是一名上尉, 隶属于一支精英小队{\r}
+{\fntahoma\fs12\shad0}You were a captain and part of an elite squad.{\r}
+
+223
+00:12:46,500 --> 00:12:48,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}克隆人突击队{\r}
+{\fntahoma\fs12\shad0}A clone commando.{\r}
+
+224
+00:12:50,700 --> 00:12:52,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你的档案表明{\r}
+{\fntahoma\fs12\shad0}Your file says you were reported{\r}
+
+225
+00:12:52,700 --> 00:12:55,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你在萨里什战役中{\r}
+{\fntahoma\fs12\shad0}missing in action during{\r}
+
+226
+00:12:55,200 --> 00:12:57,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}被报告为战斗失踪人员{\r}
+{\fntahoma\fs12\shad0}the Battle of Sarrish.{\r}
+
+227
+00:12:58,500 --> 00:13:00,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}萨里什?{\r}
+{\fntahoma\fs12\shad0}Sarrish?{\r}
+
+228
+00:13:00,900 --> 00:13:02,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}萨里什{\r}
+{\fntahoma\fs12\shad0}Sarrish.{\r}
+
+229
+00:13:02,900 --> 00:13:04,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}等等{\r}
+{\fntahoma\fs12\shad0}Wait.{\r}
+
+230
+00:13:04,700 --> 00:13:07,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}什么是萨里什战役?{\r}
+{\fntahoma\fs12\shad0}What was the Battle of Sarrish?{\r}
+
+231
+00:13:07,200 --> 00:13:11,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那是共和国最惨痛的失利之一{\r}
+{\fntahoma\fs12\shad0}It was one of the Republic's most devastating losses.{\r}
+
+232
+00:13:11,200 --> 00:13:12,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}萨里什{\r}
+{\fntahoma\fs12\shad0}Sarrish.{\r}
+
+233
+00:13:13,300 --> 00:13:14,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}没错{\r}
+{\fntahoma\fs12\shad0}Yes.{\r}
+
+234
+00:13:15,100 --> 00:13:17,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}没错, 我现在记起来了{\r}
+{\fntahoma\fs12\shad0}Yes, I remember now.{\r}
+
+235
+00:13:17,200 --> 00:13:19,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那么多的士兵都死掉了{\r}
+{\fntahoma\fs12\shad0}So many soldiers were dying.{\r}
+
+236
+00:13:19,300 --> 00:13:23,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你还记得你是怎么逃离萨里什的吗?{\r}
+{\fntahoma\fs12\shad0}Do--do you remember how you escaped Sarrish?{\r}
+
+237
+00:13:24,600 --> 00:13:26,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不{\r}
+{\fntahoma\fs12\shad0}No.{\r}
+
+238
+00:13:26,200 --> 00:13:29,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我只记得看见那些尸体{\r}
+{\fntahoma\fs12\shad0}I just remember seeing all those bodies.{\r}
+
+239
+00:13:30,300 --> 00:13:31,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}尸横遍野{\r}
+{\fntahoma\fs12\shad0}Bodies everywhere.{\r}
+
+240
+00:13:32,800 --> 00:13:34,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我知道我必须寻求救助{\r}
+{\fntahoma\fs12\shad0}I knew I had to get help.{\r}
+
+241
+00:13:34,700 --> 00:13:38,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}但记忆到这儿就中断了{\r}
+{\fntahoma\fs12\shad0}But that's where the memory stops.{\r}
+
+242
+00:13:38,000 --> 00:13:39,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧, 士兵{\r}
+{\fntahoma\fs12\shad0}Well, soldier,{\r}
+
+243
+00:13:39,400 --> 00:13:42,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}现在你没法再为那场战役做什么了{\r}
+{\fntahoma\fs12\shad0}there's nothing you can do about that battle now,{\r}
+
+244
+00:13:42,500 --> 00:13:44,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可你能帮助我们{\r}
+{\fntahoma\fs12\shad0}but you can help us.{\r}
+
+245
+00:13:44,700 --> 00:13:46,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们的任务就指望你了{\r}
+{\fntahoma\fs12\shad0}Our mission depends on it.{\r}
+
+246
+00:13:53,800 --> 00:13:55,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊, 上校{\r}
+{\fntahoma\fs12\shad0}Uh, Colonel,{\r}
+
+247
+00:13:55,200 --> 00:13:57,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}格雷戈尔说给他五分钟{\r}
+{\fntahoma\fs12\shad0}Gregor said to give him five minutes,{\r}
+
+248
+00:13:57,300 --> 00:13:58,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}但已经过去六分钟了{\r}
+{\fntahoma\fs12\shad0}but it has been six.{\r}
+
+249
+00:13:58,600 --> 00:14:01,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}如果他拒绝加入我们, 该怎么办?{\r}
+{\fntahoma\fs12\shad0}What if he does not accept your offer to join us?{\r}
+
+250
+00:14:01,200 --> 00:14:02,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}那我会回到里面去{\r}
+{\fntahoma\fs12\shad0}Then I'll go back in there{\r}
+
+251
+00:14:02,900 --> 00:14:05,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}然后亲自给他开开窍{\r}
+{\fntahoma\fs12\shad0}and personally knock some sense into him.{\r}
+
+252
+00:14:05,600 --> 00:14:06,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}没那个必要了{\r}
+{\fntahoma\fs12\shad0}That won't be necessary.{\r}
+
+253
+00:14:06,900 --> 00:14:07,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哇哦!{\r}
+{\fntahoma\fs12\shad0}Whoa!{\r}
+
+254
+00:14:09,300 --> 00:14:11,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我觉得在找回我的装备前{\r}
+{\fntahoma\fs12\shad0}I figured at least looking like a soldier{\r}
+
+255
+00:14:11,100 --> 00:14:13,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}至少让自己看起来像个士兵{\r}
+{\fntahoma\fs12\shad0}might bring back some more memories,{\r}
+
+256
+00:14:13,100 --> 00:14:15,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}可能有助于拾回一些记忆{\r}
+{\fntahoma\fs12\shad0}until we recover my equipment anyway.{\r}
+
+257
+00:14:15,500 --> 00:14:17,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我碰巧听见了你们的对话{\r}
+{\fntahoma\fs12\shad0}I overheard you guys talking.{\r}
+
+258
+00:14:17,600 --> 00:14:19,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我想我知道我的盔甲在哪儿{\r}
+{\fntahoma\fs12\shad0}I think I know where my armor is.{\r}
+
+259
+00:14:19,600 --> 00:14:21,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们回餐馆找找{\r}
+{\fntahoma\fs12\shad0}Let's go check out the diner.{\r}
+
+260
+00:14:30,600 --> 00:14:33,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}加快速度, 士兵们. 这可不是在开派对{\r}
+{\fntahoma\fs12\shad0}Step it up, soldiers. This isn't a party.{\r}
+
+261
+00:14:33,300 --> 00:14:35,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们没有一整晚的时间{\r}
+{\fntahoma\fs12\shad0}We do not have all night.{\r}
+
+262
+00:14:38,400 --> 00:14:40,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}在找这个吗?{\r}
+{\fntahoma\fs12\shad0}Looking for this?{\r}
+
+263
+00:14:44,900 --> 00:14:47,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我的军服. 我的装备{\r}
+{\fntahoma\fs12\shad0}My uniform. My equipment.{\r}
+
+264
+00:14:48,900 --> 00:14:52,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你一直都知道我是谁, 却不告诉我{\r}
+{\fntahoma\fs12\shad0}All this time you knew who I was and didn't tell me.{\r}
+
+265
+00:14:52,000 --> 00:14:53,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}为什么?{\r}
+{\fntahoma\fs12\shad0}Why?{\r}
+
+266
+00:14:53,000 --> 00:14:56,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我不在乎你过去是谁{\r}
+{\fntahoma\fs12\shad0}I don't care who you were.{\r}
+
+267
+00:14:56,100 --> 00:14:58,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你现在就是个洗碗工{\r}
+{\fntahoma\fs12\shad0}You are dishwasher now.{\r}
+
+268
+00:14:58,100 --> 00:15:02,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}是我在你坠机时救了你, 你欠我的{\r}
+{\fntahoma\fs12\shad0}And you owe me for saving you from your crash.{\r}
+
+269
+00:15:02,100 --> 00:15:04,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你的命是我的, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}Your life is mine, Gregor.{\r}
+
+270
+00:15:04,900 --> 00:15:06,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你没有救我{\r}
+{\fntahoma\fs12\shad0}You didn't save me.{\r}
+
+271
+00:15:06,600 --> 00:15:08,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你把我变成了奴隶{\r}
+{\fntahoma\fs12\shad0}You turned me into a slave.{\r}
+
+272
+00:15:08,600 --> 00:15:11,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我听从你的命令, 在这个垃圾场干活{\r}
+{\fntahoma\fs12\shad0}I've worked in this dump taking orders from you{\r}
+
+273
+00:15:11,000 --> 00:15:13,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}而我本该为共和国而战{\r}
+{\fntahoma\fs12\shad0}when I could have been fighting for the Republic.{\r}
+
+274
+00:15:13,000 --> 00:15:14,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我要回到我的生活{\r}
+{\fntahoma\fs12\shad0}I want my life back.{\r}
+
+275
+00:15:14,500 --> 00:15:17,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你想要自由吗, 格雷戈尔?{\r}
+{\fntahoma\fs12\shad0}You want your freedom, Gregor?{\r}
+
+276
+00:15:17,100 --> 00:15:19,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}从我手里夺回你的枪啊{\r}
+{\fntahoma\fs12\shad0}Take your gun from me.{\r}
+
+277
+00:15:19,300 --> 00:15:21,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}让我看看你的战士本色{\r}
+{\fntahoma\fs12\shad0}Show me you are a soldier.{\r}
+
+278
+00:15:22,500 --> 00:15:24,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}看见了吗?{\r}
+{\fntahoma\fs12\shad0}You see?{\r}
+
+279
+00:15:24,100 --> 00:15:26,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你不是战士{\r}
+{\fntahoma\fs12\shad0}You are no soldier.{\r}
+
+280
+00:15:26,400 --> 00:15:28,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你就是个洗碗工{\r}
+{\fntahoma\fs12\shad0}You are a dishwasher.{\r}
+
+281
+00:15:28,800 --> 00:15:29,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哈哈哈哈!{\r}
+{\fntahoma\fs12\shad0}[laughing]{\r}
+
+282
+00:15:37,100 --> 00:15:39,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}干什么, 你们这些坏机器人{\r}
+{\fntahoma\fs12\shad0}Why, you no-good droids.{\r}
+
+283
+00:15:40,000 --> 00:15:41,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}放开我!{\r}
+{\fntahoma\fs12\shad0}Let go of me!{\r}
+
+284
+00:15:43,300 --> 00:15:44,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}啊! 哦{\r}
+{\fntahoma\fs12\shad0}Agh! Oh.{\r}
+
+285
+00:15:47,000 --> 00:15:49,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}拿上你的东西, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}Take your things, Gregor.{\r}
+
+286
+00:15:49,000 --> 00:15:50,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们离开这儿{\r}
+{\fntahoma\fs12\shad0}We're getting out of here.{\r}
+
+287
+00:15:53,000 --> 00:15:54,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}别走, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}Don't leave, Gregor.{\r}
+
+288
+00:15:54,700 --> 00:15:56,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}外面的银河系纷繁复杂{\r}
+{\fntahoma\fs12\shad0}It's a big galaxy out there,{\r}
+
+289
+00:15:56,900 --> 00:15:58,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}远远超出你的认知{\r}
+{\fntahoma\fs12\shad0}bigger than you know.{\r}
+
+290
+00:15:58,500 --> 00:16:01,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}留在这儿, 过简单的生活{\r}
+{\fntahoma\fs12\shad0}Stay here, where your life is simple.{\r}
+
+291
+00:16:01,600 --> 00:16:03,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}简单不再等同美好了{\r}
+{\fntahoma\fs12\shad0}Simple isn't good enough anymore.{\r}
+
+292
+00:16:04,000 --> 00:16:05,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我这个克隆人不满足于此{\r}
+{\fntahoma\fs12\shad0}Not for this clone.{\r}
+
+293
+00:16:05,900 --> 00:16:09,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哈! 你永远都不可能离开阿巴法{\r}
+{\fntahoma\fs12\shad0}Ha! You will never get off Abafar,{\r}
+
+294
+00:16:09,500 --> 00:16:12,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你和你的共和国小朋友们{\r}
+{\fntahoma\fs12\shad0}you and your little Republic friends,{\r}
+
+295
+00:16:12,900 --> 00:16:16,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}只能看着你们的绝地巡洋舰被炸飞{\r}
+{\fntahoma\fs12\shad0}not after your Jedi cruiser blows up.{\r}
+
+296
+00:16:16,100 --> 00:16:18,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你在说什么?{\r}
+{\fntahoma\fs12\shad0}What are you talking about?{\r}
+
+297
+00:16:18,400 --> 00:16:21,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你以为分离势力不辞辛苦来这儿是为了什么?{\r}
+{\fntahoma\fs12\shad0}Why do you think the Separatists bother coming here?{\r}
+
+298
+00:16:22,700 --> 00:16:24,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他们正在开采我们的赖登素{\r}
+{\fntahoma\fs12\shad0}They are mining our Rhydonium{\r}
+
+299
+00:16:24,700 --> 00:16:27,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}用穿梭机满载着去摧毁来接你们回家的那艘船{\r}
+{\fntahoma\fs12\shad0}to load on the shuttle and destroy your ride home.{\r}
+
+300
+00:16:30,400 --> 00:16:32,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你们看着吧{\r}
+{\fntahoma\fs12\shad0}You will see.{\r}
+
+301
+00:16:32,100 --> 00:16:34,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你们都会被困在这儿{\r}
+{\fntahoma\fs12\shad0}You will all be stuck here{\r}
+
+302
+00:16:34,700 --> 00:16:38,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}在博尔库斯的餐馆里乞求一份工作{\r}
+{\fntahoma\fs12\shad0}begging Borkus for a job in his diner.{\r}
+
+303
+00:16:38,000 --> 00:16:40,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哈哈哈哈!{\r}
+{\fntahoma\fs12\shad0}[laughing]{\r}
+
+304
+00:16:59,300 --> 00:17:02,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧, 我们来看看面对的是什么{\r}
+{\fntahoma\fs12\shad0}Okay, let's see what we're up against.{\r}
+
+305
+00:17:02,400 --> 00:17:03,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}格雷戈尔{\r}
+{\fntahoma\fs12\shad0}Gregor.{\r}
+
+306
+00:17:09,100 --> 00:17:10,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}等等. 那儿{\r}
+{\fntahoma\fs12\shad0}Wait. There.{\r}
+
+307
+00:17:10,900 --> 00:17:12,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}天上有一艘巡洋舰{\r}
+{\fntahoma\fs12\shad0}There's a cruiser up there.{\r}
+
+308
+00:17:13,200 --> 00:17:14,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}至于那架穿梭机, 我想--{\r}
+{\fntahoma\fs12\shad0}And that shuttle, I think--{\r}
+
+309
+00:17:14,900 --> 00:17:18,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}没错, 它正在装载赖登素储存罐{\r}
+{\fntahoma\fs12\shad0}Yes, it's being loaded up with Rhydonium canisters.{\r}
+
+310
+00:17:21,200 --> 00:17:23,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嘿. 我猜博尔库斯先生{\r}
+{\fntahoma\fs12\shad0}Huh. I guess Mr. Borkus{\r}
+
+311
+00:17:23,000 --> 00:17:25,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}总算是说了一回实话{\r}
+{\fntahoma\fs12\shad0}was actually telling the truth...for once.{\r}
+
+312
+00:17:25,800 --> 00:17:28,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}赖登素到底是什么?{\r}
+{\fntahoma\fs12\shad0}What exactly is Rhydonium?{\r}
+
+313
+00:17:28,100 --> 00:17:29,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}它是一种燃料{\r}
+{\fntahoma\fs12\shad0}It's a fuel.{\r}
+
+314
+00:17:29,600 --> 00:17:31,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}大部分开采自阿巴法{\r}
+{\fntahoma\fs12\shad0}Mostly been mined out on Abafar.{\r}
+
+315
+00:17:31,800 --> 00:17:33,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}易爆炸很危险{\r}
+{\fntahoma\fs12\shad0}It's volatile and dangerous.{\r}
+
+316
+00:17:35,800 --> 00:17:38,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧, 我们确实有了个新任务:{\r}
+{\fntahoma\fs12\shad0}Yes, we do have a new mission:{\r}
+
+317
+00:17:38,500 --> 00:17:42,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}阻止分离势力炸毁那艘巡洋舰{\r}
+{\fntahoma\fs12\shad0}Stop the Separatists from blowing up that cruiser.{\r}
+
+318
+00:17:42,300 --> 00:17:44,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我负责开路及掩护你们, 上校{\r}
+{\fntahoma\fs12\shad0}I'll cover you and clear the way, Colonel.{\r}
+
+319
+00:17:44,000 --> 00:17:45,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你们全体直奔穿梭机{\r}
+{\fntahoma\fs12\shad0}You all head straight to the shuttle.{\r}
+
+320
+00:17:45,700 --> 00:17:47,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我来照顾那些铁皮军{\r}
+{\fntahoma\fs12\shad0}I'll take care of those clankers.{\r}
+
+321
+00:17:47,400 --> 00:17:49,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嗯, 听起来是个好计划{\r}
+{\fntahoma\fs12\shad0}Hmm, sounds like a good plan.{\r}
+
+322
+00:17:49,800 --> 00:17:52,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你们这些士兵准备好去冒险了吗?{\r}
+{\fntahoma\fs12\shad0}You soldiers ready to get dangerous?{\r}
+
+323
+00:17:57,200 --> 00:17:58,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我在穿梭机上与你们会合, 长官{\r}
+{\fntahoma\fs12\shad0}I'll meet you at the shuttle, sir.{\r}
+
+324
+00:17:59,600 --> 00:18:01,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}大家上吧{\r}
+{\fntahoma\fs12\shad0}Let's roll.{\r}
+
+325
+00:18:08,500 --> 00:18:09,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嘿!{\r}
+{\fntahoma\fs12\shad0}Hey!{\r}
+
+326
+00:18:11,900 --> 00:18:14,700
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你们需要授权才能进入本区域{\r}
+{\fntahoma\fs12\shad0}You need authorization to enter this area.{\r}
+
+327
+00:18:18,800 --> 00:18:20,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}抓住他们!{\r}
+{\fntahoma\fs12\shad0}Get them!{\r}
+
+328
+00:18:37,800 --> 00:18:39,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}干得好, 格雷戈尔{\r}
+{\fntahoma\fs12\shad0}Good job, Gregor.{\r}
+
+329
+00:18:45,700 --> 00:18:47,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}看, 他在那上面!{\r}
+{\fntahoma\fs12\shad0}Look, he's up there!{\r}
+
+330
+00:18:56,100 --> 00:18:57,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}继续前进就好{\r}
+{\fntahoma\fs12\shad0}Just keep moving.{\r}
+
+331
+00:18:57,600 --> 00:18:58,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}一切尽在掌握{\r}
+{\fntahoma\fs12\shad0}It is all under control.{\r}
+
+332
+00:19:06,200 --> 00:19:09,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我开始记起来我有多恨这些家伙了{\r}
+{\fntahoma\fs12\shad0}I'm beginning to remember how much I hate these guys.{\r}
+
+333
+00:19:13,300 --> 00:19:15,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}嘿, 我不认识那些宇航技工机器人{\r}
+{\fntahoma\fs12\shad0}Hey, I don't recognize those astromechs.{\r}
+
+334
+00:19:15,800 --> 00:19:16,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}干掉他们!{\r}
+{\fntahoma\fs12\shad0}Blast them!{\r}
+
+335
+00:19:17,700 --> 00:19:19,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他们冲我们来了{\r}
+{\fntahoma\fs12\shad0}They are on to us.{\r}
+
+336
+00:19:22,400 --> 00:19:24,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}上校, 你能听见吗?{\r}
+{\fntahoma\fs12\shad0}Colonel, can you hear me?{\r}
+
+337
+00:19:24,300 --> 00:19:26,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}先救你们自己吧!{\r}
+{\fntahoma\fs12\shad0}Save yourselves!{\r}
+
+338
+00:19:26,300 --> 00:19:28,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}好吧. 哇!{\r}
+{\fntahoma\fs12\shad0}Okay. Whoa!{\r}
+
+339
+00:19:29,200 --> 00:19:30,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}哇-哦-哦{\r}
+{\fntahoma\fs12\shad0}Whoa-oh-oh.{\r}
+
+340
+00:19:41,600 --> 00:19:43,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}大家都到齐了吗?{\r}
+{\fntahoma\fs12\shad0}Did everybody make it?{\r}
+
+341
+00:19:44,200 --> 00:19:46,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}还没, BZ和上校仍然困在那儿{\r}
+{\fntahoma\fs12\shad0}No, Beezee and the Colonel are still out there.{\r}
+
+342
+00:19:46,800 --> 00:19:48,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}让穿梭机准备出发{\r}
+{\fntahoma\fs12\shad0}Get the shuttle ready to roll.{\r}
+
+343
+00:19:57,000 --> 00:19:58,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}上校, 您还好吗?{\r}
+{\fntahoma\fs12\shad0}Colonel, you all right?{\r}
+
+344
+00:19:58,600 --> 00:20:01,200
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我没可能活着回去了{\r}
+{\fntahoma\fs12\shad0}I'll never make it back alive.{\r}
+
+345
+00:20:01,200 --> 00:20:02,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}不, 您可以的, 长官{\r}
+{\fntahoma\fs12\shad0}Yes, you will, sir.{\r}
+
+346
+00:20:02,500 --> 00:20:04,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}这是我生来便被赋予的使命{\r}
+{\fntahoma\fs12\shad0}This is what I was born to do.{\r}
+
+347
+00:20:04,000 --> 00:20:06,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}现在, 赶紧走别耽搁{\r}
+{\fntahoma\fs12\shad0}Now, go before it's too late.{\r}
+
+348
+00:20:28,600 --> 00:20:30,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}很荣幸能为您效力, 上校{\r}
+{\fntahoma\fs12\shad0}It's been an honor serving with you, Colonel.{\r}
+
+349
+00:20:33,300 --> 00:20:34,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}R2是对的{\r}
+{\fntahoma\fs12\shad0}Artoo's right.{\r}
+
+350
+00:20:34,800 --> 00:20:36,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们可以绕回来接你上船{\r}
+{\fntahoma\fs12\shad0}We can swing back around and pick you up.{\r}
+
+351
+00:20:37,000 --> 00:20:38,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}别担心我{\r}
+{\fntahoma\fs12\shad0}Don't worry about me.{\r}
+
+352
+00:20:39,500 --> 00:20:41,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}是你们让我记起了我是谁{\r}
+{\fntahoma\fs12\shad0}You made me remember who I am.{\r}
+
+353
+00:20:41,500 --> 00:20:43,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我会杀出一条路回家的. 我保证{\r}
+{\fntahoma\fs12\shad0}I'll make my way home. I promise.{\r}
+
+354
+00:20:43,500 --> 00:20:44,600
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}快走!{\r}
+{\fntahoma\fs12\shad0}Now go!{\r}
+
+355
+00:20:48,900 --> 00:20:50,100
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}格雷戈尔在哪儿?{\r}
+{\fntahoma\fs12\shad0}Where is Gregor?{\r}
+
+356
+00:20:50,100 --> 00:20:51,500
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}格雷戈尔在哪儿?{\r}
+{\fntahoma\fs12\shad0}Where is Gregor?{\r}
+
+357
+00:20:52,100 --> 00:20:54,800
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}他在履行士兵的天职:{\r}
+{\fntahoma\fs12\shad0}He's doing what a soldier does:{\r}
+
+358
+00:20:54,800 --> 00:20:58,400
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}牺牲自己拯救他人{\r}
+{\fntahoma\fs12\shad0}sacrificing himself for the lives of others.{\r}
+
+359
+00:21:21,500 --> 00:21:24,300
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}你将被世人铭记, 格雷戈尔上尉{\r}
+{\fntahoma\fs12\shad0}You will be remembered, Captain Gregor.{\r}
+
+360
+00:21:24,900 --> 00:21:28,900
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}我们会把你的英雄事迹带回共和国{\r}
+{\fntahoma\fs12\shad0}We will take your heroic story back to the Republic,{\r}
+
+361
+00:21:28,900 --> 00:21:32,000
+{\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)}并期待你的归来{\r}
+{\fntahoma\fs12\shad0}and we will watch for your return.{\r}
+
+362
+00:21:43,100 --> 00:21:48,100
+{\fad(500,500)\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)\1c&HC08000&}翻译: aweng, 好名想不出, 0de浪漫
+校对: DataLore, 雏龙先生
+调轴: DataLore{\r}
+
+363
+00:21:48,100 --> 00:21:53,100
+{\fad(500,500)\fn方正黑体简体\fs20\bord3\shad0\pos(192,285)\1c&HC08000&}-=星球大战论坛 (www.starwarschina.com)=-
+-=伊甸园美剧交流站 (bbs.sfile2012.com)=-
+联合荣誉奉献精品字幕!
+本字幕仅供爱好者交流, 严禁用于任何商业途径{\r}
+
+364
+00:03:34,400 --> 00:03:37,300
+{\fn方正黑体简体\fs16\shad0\an8}(译注: 电线虫形似电线, 住在电线管道内,
+以吞食电流为生, 故而得名, 是一种害虫.
+钻入飞船的电线虫会导致飞船电力中断){\r}
+
+365
+00:09:39,500 --> 00:09:41,400
+{\fn方正黑体简体\fs16\shad0\an8}(译注: 曼达洛人战争末期,
+质量阴影发生器在马拉科星球启动,
+导致那里成为飞船坟场){\r}
+

@@ -1,0 +1,3471 @@
+1
+00:07:23,060 --> 00:07:25,260
+犯罪心理
+
+2
+00:07:23,060 --> 00:07:25,260
+第八季  第十三集
+
+3
+00:07:25,260 --> 00:07:25,760
+犯罪心理
+
+4
+00:07:25,260 --> 00:07:25,760
+第八季  第十三集
+
+5
+00:07:25,360 --> 00:07:29,360
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+6
+00:07:25,360 --> 00:07:29,360
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+7
+00:07:25,360 --> 00:07:29,360
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+8
+00:07:25,360 --> 00:07:29,360
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+9
+00:07:25,360 --> 00:07:29,360
+人人影视
+YYeTs.com
+
+10
+00:07:25,360 --> 00:07:29,360
+原创翻译  双语字幕
+
+11
+00:07:25,360 --> 00:07:29,360
+■
+
+12
+00:07:25,360 --> 00:07:29,360
+仅供学习 禁止用于任何商业盈利行为
+更多影视更新
+请登陆www.YYeTs.com
+
+13
+00:07:26,050 --> 00:07:28,430
+尼克白盼Summer  紫玉
+
+14
+00:07:26,050 --> 00:07:28,430
+翻
+译
+
+15
+00:07:29,850 --> 00:07:31,850
+翻
+译
+
+16
+00:07:29,850 --> 00:07:31,850
+油炸电风扇  和菓子
+
+17
+00:07:32,770 --> 00:07:34,440
+翻译  芒果妖怪  爱卿遛小鸟
+
+18
+00:07:34,730 --> 00:07:36,520
+坏疍小泡  宁馨儿
+
+19
+00:07:34,730 --> 00:07:36,520
+翻
+译
+
+20
+00:07:37,900 --> 00:07:39,770
+时间轴  菜六水  贝贝
+
+21
+00:07:40,020 --> 00:07:42,110
+校对  坏疍小泡
+
+22
+00:07:42,320 --> 00:07:44,110
+特效&后期  灰灰是菇凉
+
+23
+00:07:50,910 --> 00:07:52,790
+精校&总监  坏疍小泡
+
+24
+00:07:52,860 --> 00:07:55,860
+杰作
+Magnum Opus
+
+25
+00:00:02,190 --> 00:00:04,000
+《犯罪心理》前情提要
+Previously on "Criminal Minds"...
+
+26
+00:00:04,000 --> 00:00:05,010
+你觉得他知道我们的事了吗
+Do you think he knows about us?
+
+27
+00:00:05,010 --> 00:00:06,710
+据我所知他还不知道
+As far as I can tell he doesn't.
+
+28
+00:00:07,400 --> 00:00:09,350
+那下周日再聊
+Well, guess I'll talk to you next Sunday.
+
+29
+00:00:09,490 --> 00:00:10,750
+再会  爱你
+Bye. Love you.
+
+30
+00:00:12,050 --> 00:00:13,440
+我得告诉你一些事情
+I need to tell you something.
+
+31
+00:00:13,570 --> 00:00:16,350
+梅芙失踪了  我觉得是被跟踪狂抓住了
+Maeve is missing. I think her stalker has her.
+
+32
+00:00:16,680 --> 00:00:17,790
+请帮帮我
+Please help me.
+
+33
+00:00:18,780 --> 00:00:19,940
+帮我找到她
+Help me find her.
+
+34
+00:00:20,140 --> 00:00:21,120
+和内容无关
+See, it's not about the message.
+
+35
+00:00:21,120 --> 00:00:23,780
+而是颜料  他在她脸上画的颜料
+It's about the medium. What he used to draw on her face.
+
+36
+00:00:23,780 --> 00:00:24,930
+这是黑色眼线液
+It's black eyeliner.
+
+37
+00:00:24,930 --> 00:00:25,750
+跟踪狂是个女人
+The stalker's a woman.
+
+38
+00:00:25,750 --> 00:00:26,940
+打扰一下  博士
+Excuse me, doctor.
+
+39
+00:00:27,290 --> 00:00:28,560
+我想我知道嫌犯是谁了
+I think I know who the unsub is.
+
+40
+00:00:28,560 --> 00:00:30,190
+你从哪拿的梅芙的衣服
+Where did you get Maeve's clothes?
+
+41
+00:00:30,190 --> 00:00:31,350
+从她衣柜里拿的
+From her closet.
+
+42
+00:00:31,420 --> 00:00:32,920
+就在我打伤她的头之后
+Right after I bashed her head in.
+
+43
+00:00:32,920 --> 00:00:34,030
+站上去
+Get on the ledge.
+
+44
+00:00:34,030 --> 00:00:35,670
+如果你想杀了我  就动手吧
+If you're gonna kill me, you kill me,
+
+45
+00:00:35,670 --> 00:00:37,190
+我是不会跳的
+but I am not jumping.
+
+46
+00:00:37,250 --> 00:00:39,180
+斯宾塞另有想法
+Spencer has a different idea.
+
+47
+00:00:39,270 --> 00:00:42,350
+卸下武器  脱掉防弹背心  独自进来
+Take your gun and vest off and come in alone.
+
+48
+00:00:42,360 --> 00:00:43,360
+让我替她
+Let me take her place.
+
+49
+00:00:43,360 --> 00:00:45,350
+你愿意为了她牺牲自己
+You would kill yourself for her?
+
+50
+00:00:45,350 --> 00:00:46,310
+是
+Yes.
+
+51
+00:00:47,740 --> 00:00:48,880
+不要
+Wait!
+
+52
+00:01:02,520 --> 00:01:04,790
+丹妮尔  我是凯莉
+Danielle, it's Kelly--again.
+
+53
+00:01:05,480 --> 00:01:08,750
+你在哪  我邀你晚上一起来跳舞的时候
+Where are you? When I said let's go out dancing tonight,
+
+54
+00:01:08,750 --> 00:01:11,110
+可没想让你把我一个人扔在这里
+I didn't expect it to involve you leaving me alone
+
+55
+00:01:11,110 --> 00:01:13,030
+自己去勾搭兄弟会的人
+while you scam on some frat guy.
+
+56
+00:01:14,540 --> 00:01:17,060
+十分钟内给我回电话  不然我就走了
+Call me. You've got 10 minutes, then I'm out of here.
+
+57
+00:01:50,140 --> 00:01:51,100
+有人吗
+Hello?
+
+58
+00:01:57,680 --> 00:01:58,650
+亲爱的
+Hey, baby.
+
+59
+00:01:59,420 --> 00:02:00,400
+工作怎么样
+How was work?
+
+60
+00:02:00,400 --> 00:02:02,230
+狗屁工作  小费太少了
+It sucked. Tips were horrible.
+
+61
+00:02:47,290 --> 00:02:49,730
+我觉得应该在上班路上来看看斯宾塞
+Thought I'd check on Spence on my way into work.
+
+62
+00:02:50,100 --> 00:02:51,530
+对  我也是
+Yeah. Me, too.
+
+63
+00:02:53,900 --> 00:02:55,200
+都是你准备的吗
+Are these all from you?
+
+64
+00:02:56,060 --> 00:02:57,020
+是啊
+Maybe.
+
+65
+00:02:58,820 --> 00:02:59,910
+那个里面是什么
+What's in that one?
+
+66
+00:03:00,640 --> 00:03:02,770
+有坚果和种子
+Mixed nuts and seeds.
+
+67
+00:03:02,780 --> 00:03:05,590
+我一直在想有什么东西能让他感觉好一些
+I'm trying to think of something that will help him feel better.
+
+68
+00:03:05,590 --> 00:03:08,010
+于是我就像里德那样  做了一大堆研究
+So I went Reid-like and I did a bunch of research
+
+69
+00:03:08,010 --> 00:03:10,210
+最后查到  坚果和种子
+and it turns out that nuts and seeds
+
+70
+00:03:10,210 --> 00:03:12,030
+具有天然的镁元素
+have naturally occurring magnesium,
+
+71
+00:03:12,030 --> 00:03:14,780
+镁元素能促进产生血清素
+and magnesium influences the production of serotonin,
+
+72
+00:03:14,780 --> 00:03:16,700
+而血清素会使大脑产生非常非常欢快的感觉
+which is a happy happy joy joy chemical in the brain.
+
+73
+00:03:16,700 --> 00:03:17,680
+不知道真的假的
+I don't know.
+
+74
+00:03:22,940 --> 00:03:24,860
+斯宾塞  听着  你在屋里吧
+Spence, listen, if you're in there,
+
+75
+00:03:24,860 --> 00:03:26,640
+我们只是想知道你没事
+we just want to know that you're all right.
+
+76
+00:03:29,220 --> 00:03:31,050
+如果你还清醒的话  敲两下门
+Knock twice if you're conscious.
+
+77
+00:03:38,100 --> 00:03:39,470
+他还能恢复正常吗
+Is he ever gonna be ok?
+
+78
+00:03:41,600 --> 00:03:42,590
+早晚会的
+Eventually.
+
+79
+00:03:43,430 --> 00:03:45,850
+他也知道  不管如何
+And he knows we're all here for him,
+
+80
+00:03:46,070 --> 00:03:47,050
+他还有我们
+no matter what.
+
+81
+00:03:47,050 --> 00:03:48,630
+她说的没错
+Yeah. What she said.
+
+82
+00:03:51,030 --> 00:03:51,930
+走吧
+Come on.
+
+83
+00:03:52,040 --> 00:03:53,010
+好
+Ok.
+
+84
+00:04:38,610 --> 00:04:43,080
+《约翰·史密斯的告白》
+
+85
+00:04:52,630 --> 00:04:56,070
+你好  我是斯宾塞·里德  请留言
+Hello. This is Spencer Reid. Please leave a message.
+
+86
+00:04:56,070 --> 00:04:58,280
+里德  又是我
+Hey, Reid, it's me. Again.
+
+87
+00:04:58,790 --> 00:05:00,150
+开会了
+Hey, we're gathering.
+
+88
+00:05:00,420 --> 00:05:01,350
+我这就来
+All right, I'm coming.
+
+89
+00:05:02,410 --> 00:05:05,500
+听着  孩子  回头给我个电话
+Now, listen, kid, uh, give me a call when you can.
+
+90
+00:05:06,160 --> 00:05:07,090
+是他吗
+Was that him?
+
+91
+00:05:07,660 --> 00:05:08,560
+语音信箱
+Voicemail.
+
+92
+00:05:12,530 --> 00:05:13,850
+已经两周了
+It's been two weeks.
+
+93
+00:05:15,720 --> 00:05:16,640
+你还好吗
+You ok?
+
+94
+00:05:16,980 --> 00:05:17,920
+还好
+Yeah.
+
+95
+00:05:19,460 --> 00:05:20,800
+我不好
+Well, no.
+
+96
+00:05:22,770 --> 00:05:24,070
+有时我在想
+Sometimes I wonder if I hadn't
+
+97
+00:05:24,070 --> 00:05:26,050
+如果我不催他和梅芙见面的话
+pushed him so hard to meet maeve...
+
+98
+00:05:26,200 --> 00:05:28,180
+布莱克  你不能责备自己鼓励他
+Blake, you can't blame yourself for encouraging him.
+
+99
+00:05:28,180 --> 00:05:29,690
+我知道  我知道
+I know. I know.
+
+100
+00:05:29,940 --> 00:05:31,650
+有些事不管怎样都会发生的
+It was bound to happen no matter what.
+
+101
+00:05:31,980 --> 00:05:33,040
+我真想念里德
+I miss Reid.
+
+102
+00:05:33,110 --> 00:05:34,390
+他告诉你要休息多久吗
+Did he tell you how long?
+
+103
+00:05:34,550 --> 00:05:37,540
+没有  我跟他说需要歇多久就歇多久
+No. I told him to take as much time as he needed.
+
+104
+00:05:38,360 --> 00:05:40,670
+至少我还有个机会和卡洛琳说再见
+At least I got a chance to say good-bye to Carolyn.
+
+105
+00:05:40,670 --> 00:05:42,080
+我真不敢想象
+I can't imagine--
+
+106
+00:05:47,240 --> 00:05:49,690
+女士们先生们  我们要去金州了[加州]
+Ladies and gents, the Golden State awaits.
+
+107
+00:05:49,690 --> 00:05:51,530
+他生前叫加里·波特
+Meet who was formerly Gary Porter.
+
+108
+00:05:51,530 --> 00:05:54,490
+昨晚被发现陈尸于旧金山夜总会外
+He was found dead outside a San Francisco night club last night.
+
+109
+00:05:54,490 --> 00:05:55,900
+以及帕梅拉·赫德
+And Pamela Hurd--
+
+110
+00:05:55,900 --> 00:05:56,990
+她的尸体于旧金山教会区
+she was found near a cable car stop
+
+111
+00:05:56,990 --> 00:05:59,070
+电缆车站附近被发现
+in San Francisco's Mission District.
+
+112
+00:05:59,070 --> 00:06:01,570
+他们的尸体都用透明塑料包住了
+They were both found wrapped in clear plastic.
+
+113
+00:06:01,570 --> 00:06:04,390
+资料显示他们死于被发现几小时
+It says here they were dead only a few hours before they were found.
+
+114
+00:06:04,450 --> 00:06:05,590
+时间这么短  化学元素
+That's not long enough for the elements
+
+115
+00:06:05,590 --> 00:06:07,140
+不可能让尸体变这么白
+to have made them that pale.
+
+116
+00:06:07,220 --> 00:06:08,720
+因为我们马上就要进入
+'Cause that's where we enter
+
+117
+00:06:08,730 --> 00:06:10,970
+诡异镇  恶心巷了
+the town of weirdville on the corner of eew and icky-icky.
+
+118
+00:06:10,970 --> 00:06:14,390
+两名死者的血液几乎都被抽光了
+Both victims were almost completely drained of their blood.
+
+119
+00:06:14,390 --> 00:06:15,770
+只剩下不到一品脱[约551毫升]
+Less than a pint left.
+
+120
+00:06:15,770 --> 00:06:17,250
+凶手抽了他们的血
+He's exsanguinating them.
+
+121
+00:06:17,250 --> 00:06:18,810
+是趁他们还活着的时候
+While they were still alive.
+
+122
+00:06:18,890 --> 00:06:20,250
+这样可能方便些
+It might be utilitarian.
+
+123
+00:06:20,250 --> 00:06:22,810
+他不着急杀他们  好让血液自行泵出来
+He needs them alive so they can pump out the blood themselves.
+
+124
+00:06:23,010 --> 00:06:25,730
+把人体内的血抽得那么彻底  这很难做到
+Draining a body like that is extremely hard to do.
+
+125
+00:06:25,730 --> 00:06:27,140
+一旦心脏停止跳动
+Once the heart stops pumping,
+
+126
+00:06:27,140 --> 00:06:29,960
+想再抽血就很难了
+it's difficult to continue to extract the blood.
+
+127
+00:06:29,960 --> 00:06:31,990
+所以问题就是  他是怎么做的
+So the question is, how is he doing it?
+
+128
+00:06:31,990 --> 00:06:33,050
+我真希望你没问这个问题
+Oh, I wish you wouldn't have asked that
+
+129
+00:06:33,050 --> 00:06:34,790
+因为我要给你们看这些图片了
+'cause now I gotta show this picture.
+
+130
+00:06:34,860 --> 00:06:38,380
+两名死者的股动脉处都有很大的孔
+There are large bore holes in the femoral artery of each victim.
+
+131
+00:06:38,500 --> 00:06:40,520
+看来我们的不明嫌犯还挺懂医
+Our unsub could have medical knowledge.
+
+132
+00:06:40,520 --> 00:06:40,980
+很有可能
+It's possible.
+
+133
+00:06:40,980 --> 00:06:43,030
+我们去现场搜集更多信息
+We'll know more when we get there.
+
+134
+00:06:43,030 --> 00:06:44,260
+30分钟后起飞
+Wheels up in 30.
+
+135
+00:08:04,340 --> 00:08:07,240
+我只剩下鲜血  尽管拿去
+"My blood alone remains. Take it.
+
+136
+00:08:07,460 --> 00:08:09,310
+但别让我受罪太久
+But do not make me suffer long."
+
+137
+00:08:09,690 --> 00:08:11,060
+玛丽·安托瓦内特
+Marie antoinette.
+
+138
+00:08:09,690 --> 00:08:11,060
+[早年为奥地利女大公  后为法国王后]
+
+139
+00:08:12,200 --> 00:08:13,800
+为什么选这两个人
+Why these two victims?
+
+140
+00:08:13,800 --> 00:08:16,500
+他们的社会地位  种族和性别均不同
+He's crossed socioeconomic, race, and gender lines.
+
+141
+00:08:16,500 --> 00:08:18,140
+40多岁的白人男性
+One white males in his 40s,
+
+142
+00:08:18,140 --> 00:08:19,960
+一个富有的对冲基金经理
+a wealthy hedge fund manager.
+
+143
+00:08:19,960 --> 00:08:21,570
+和一名黑人女性
+And an African American female,
+
+144
+00:08:21,570 --> 00:08:23,670
+刚进入旧金山州立大学
+just started college at San Francisco State,
+
+145
+00:08:23,670 --> 00:08:25,890
+身兼数职以维持生计
+worked several jobs just to get by.
+
+146
+00:08:25,890 --> 00:08:27,300
+为什么要抽血呢
+Yeah, but why drain the blood?
+
+147
+00:08:27,540 --> 00:08:29,200
+他是在折磨死者吗
+Is he doing it to torture the victims?
+
+148
+00:08:29,200 --> 00:08:30,450
+还是单纯的为了血
+Or is it about the blood?
+
+149
+00:08:31,180 --> 00:08:33,390
+可能是种心理上的折磨
+Might be a form of psychological torture.
+
+150
+00:08:33,390 --> 00:08:35,380
+虽然被害人可能不怎么痛苦
+While not necessarily painful,
+
+151
+00:08:35,530 --> 00:08:37,750
+但抽血确实需要时间
+exsanguination does take time.
+
+152
+00:08:37,820 --> 00:08:40,370
+可能是迷恋血液或者抽血
+It could be a fetish for the blood and the bloodletting.
+
+153
+00:08:41,180 --> 00:08:42,230
+说不定
+What about...
+
+154
+00:08:43,490 --> 00:08:44,610
+是饮血
+drinking it?
+
+155
+00:08:45,220 --> 00:08:47,240
+弗里兹·哈曼  汉诺威吸血鬼
+Fritz Haarmann, the vampire of Hanover,
+
+156
+00:08:47,240 --> 00:08:50,950
+他杀死的人大多喉咙直接被咬开
+killed many of his victims by biting through their throats.
+
+157
+00:08:50,980 --> 00:08:52,960
+这个不明嫌犯用管子之类的设备
+This unsub used some sort of tubing device
+
+158
+00:08:52,960 --> 00:08:55,410
+从股动脉抽血
+to drain the blood from the femoral arteries.
+
+159
+00:08:55,410 --> 00:08:58,440
+伤口处没有唾液
+There isn't any saliva on the wound.
+
+160
+00:08:58,970 --> 00:09:00,070
+没有被咬的痕迹
+Just because there's no bite marks
+
+161
+00:09:00,070 --> 00:09:02,230
+不代表能排除吸血鬼式作案
+doesn't mean we should rule out vampirism.
+
+162
+00:09:04,450 --> 00:09:05,310
+坏消息  罪案斗士们
+Bad news, crime-fighters.
+
+163
+00:09:05,310 --> 00:09:07,700
+警察又在公园长椅上发现了一具
+Police just found another body wrapped in plastic
+
+164
+00:09:07,700 --> 00:09:09,290
+用塑料包起来的尸体  血也被抽干了
+on a park bench, drained of blood.
+
+165
+00:09:09,290 --> 00:09:10,620
+我想附近应该没有两个变态
+I'm gonna assume there's not two creeps
+
+166
+00:09:10,620 --> 00:09:12,000
+干着一样的事吧
+in the area doing the same thing?
+
+167
+00:09:12,000 --> 00:09:13,430
+加西亚  请你通知旧金山警局
+Garcia, will you tell San Francisco P.D.
+
+168
+00:09:13,430 --> 00:09:14,910
+我们马上去犯罪现场
+we'll meet them at the crime scene?
+
+169
+00:09:14,910 --> 00:09:16,020
+没问题
+Consider them told.
+
+170
+00:09:16,750 --> 00:09:19,130
+戴夫  你和布莱克去犯罪现场见警探
+Dave, you and Blake meet the detectives at the crime scene.
+
+171
+00:09:19,130 --> 00:09:20,810
+摩根  你去法医那看看
+Morgan, go see the medical examiner,
+
+172
+00:09:20,810 --> 00:09:22,110
+小洁和我在警局行动
+and JJ and I will set up at the police station.
+
+173
+00:09:22,110 --> 00:09:23,190
+我们去跟死者家属谈谈
+We'll talk to the families,
+
+174
+00:09:23,190 --> 00:09:24,580
+看能否找到两人之间的联系
+see if we can find a connection.
+
+175
+00:09:31,590 --> 00:09:32,520
+警探
+Detective.
+
+176
+00:09:32,620 --> 00:09:33,750
+我是特别督察探员罗西
+SSA Rossi.
+
+177
+00:09:33,750 --> 00:09:35,330
+这位是特别督察探员布莱克
+This is SSA Blake.
+
+178
+00:09:35,330 --> 00:09:36,740
+我是莱尼·迈尔斯警探
+Detective Lenny Miles.
+
+179
+00:09:36,740 --> 00:09:37,770
+你们能来真是太好了
+It's great to have you guys here.
+
+180
+00:09:38,090 --> 00:09:40,770
+死者名叫林恩·斯蒂文斯
+So the victim's name is Lynn Stevens.
+
+181
+00:09:40,950 --> 00:09:42,570
+她也像前两名死者一样  被抽干了血
+She's drained, just like the last two,
+
+182
+00:09:42,570 --> 00:09:44,720
+但她身上有点新花样
+but there's something new.
+
+183
+00:09:44,720 --> 00:09:45,660
+新花样
+New?
+
+184
+00:09:47,930 --> 00:09:49,510
+他把她眼睑割了
+He's removed her eyelids.
+
+185
+00:09:50,060 --> 00:09:50,810
+我都不想猜
+I don't even want to take a guess
+
+186
+00:09:50,810 --> 00:09:52,540
+为什么会有人这么做
+as to why someone would do that.
+
+187
+00:09:53,190 --> 00:09:55,340
+眼部周围有大量血液
+There's excessive blood around the eyes.
+
+188
+00:09:55,490 --> 00:09:57,010
+他是在她死之前割的
+He did this antemortem.
+
+189
+00:09:57,130 --> 00:09:58,820
+他的虐待兴致开始升级了
+His sadism is evolving.
+
+190
+00:09:59,510 --> 00:10:00,710
+他的折磨这次肯定
+And his torture is definitely
+
+191
+00:10:00,710 --> 00:10:03,470
+不止是心理上的了
+more than psychological at this point.
+
+192
+00:10:04,600 --> 00:10:07,300
+我真不明白怎么会有人做出这种事
+I just don't understand why someone would do this.
+
+193
+00:10:08,310 --> 00:10:10,800
+还是很难以置信
+It's all still so hard to believe.
+
+194
+00:10:11,750 --> 00:10:14,880
+我就问几个关于你丈夫的问题
+I just need to ask you a few questions about your husband.
+
+195
+00:10:16,330 --> 00:10:18,740
+帕米是个好女孩
+Pammy was a great girl. You know?
+
+196
+00:10:19,590 --> 00:10:20,800
+真的很友善
+Really friendly.
+
+197
+00:10:21,430 --> 00:10:23,420
+她和大家都处得很好
+She loved everyone, and everyone loved her.
+
+198
+00:10:23,480 --> 00:10:24,690
+她被人绑架那晚
+And you two had worked together
+
+199
+00:10:24,690 --> 00:10:26,380
+你俩在一起工作吗
+the night that she was abducted?
+
+200
+00:10:27,380 --> 00:10:28,440
+他给我打过电话
+He called me.
+
+201
+00:10:29,560 --> 00:10:32,260
+他说他在下班回家的路上了
+He said he was on his way home from work.
+
+202
+00:10:33,560 --> 00:10:37,320
+只要中途去完成一笔交易就行
+He just needed to stop off and close up a deal.
+
+203
+00:10:38,070 --> 00:10:40,060
+他行程里写着那晚没事
+He didn't have anything in his schedule for that night.
+
+204
+00:10:40,060 --> 00:10:42,580
+你知道是什么交易吗
+Do you have any idea what that deal was?
+
+205
+00:10:43,530 --> 00:10:47,310
+下班后  她说一直很喜欢长距离散步
+After work, she said she always liked to go on long walks.
+
+206
+00:10:47,670 --> 00:10:51,270
+她一直喋喋不休说这里的建筑风格
+She was always going on about the architecture,
+
+207
+00:10:51,320 --> 00:10:52,940
+跟俄勒冈州完全不同
+how it's nothing like Oregon.
+
+208
+00:10:52,950 --> 00:10:54,810
+她刚搬来旧金山吗
+She had just moved to San Francisco?
+
+209
+00:10:55,440 --> 00:10:57,430
+你还知道她有什么朋友
+Are there any other friends of hers that you know
+
+210
+00:10:57,430 --> 00:10:58,840
+我们需要找来问话的吗
+who we should talk to?
+
+211
+00:10:59,550 --> 00:11:01,410
+她半工半读
+She was paying her way through school.
+
+212
+00:11:01,980 --> 00:11:04,970
+不在这里  就是在打另一份工
+When she wasn't there, she was always at another job.
+
+213
+00:11:06,030 --> 00:11:09,120
+勉强生存而已
+Just trying to stay afloat. You know?
+
+214
+00:11:09,120 --> 00:11:11,500
+如果你还想起什么
+If you think of anything else,
+
+215
+00:11:11,780 --> 00:11:14,460
+请马上来电
+please, don't hesitate to call.
+
+216
+00:11:18,350 --> 00:11:20,800
+我没看出这些死者之间有联系
+If these victims are connected, I can't see it.
+
+217
+00:11:21,320 --> 00:11:22,580
+关键一定是血
+It's got to be about the blood.
+
+218
+00:11:22,580 --> 00:11:23,710
+血型也不同啊
+Yeah, but even that's different.
+
+219
+00:11:23,710 --> 00:11:26,070
+加里是A+型  帕米是O-型
+Gary was A-Positive, Pam was O-Neg.
+
+220
+00:11:26,070 --> 00:11:26,810
+最新死者
+We just got the lab report
+
+221
+00:11:26,810 --> 00:11:28,260
+林恩·斯蒂文斯的实验室报告来了
+back on the latest victim, Lynn Stevens.
+
+222
+00:11:28,260 --> 00:11:29,890
+她是AB-型
+She was AB-Negative.
+
+223
+00:11:30,920 --> 00:11:33,000
+也许嫌犯是随机选择死者
+Maybe these are just victims of opportunity.
+
+224
+00:11:33,000 --> 00:11:33,830
+不明嫌犯可能在
+Well, it's possible the unsub
+
+225
+00:11:33,830 --> 00:11:36,360
+帕梅拉例行散步时绑架了她
+abducted Pamela on one of her routine walks.
+
+226
+00:11:36,360 --> 00:11:37,270
+他可能用
+He could have lured Gary
+
+227
+00:11:37,270 --> 00:11:39,470
+一笔有利可图的金钱交易引诱了加里
+with the promise of a lucrative money deal.
+
+228
+00:11:53,300 --> 00:11:55,070
+我是艾米
+Hi. I'm Aimee.
+
+229
+00:11:56,810 --> 00:11:58,290
+这地方不错
+Nice place.
+
+230
+00:11:59,080 --> 00:12:01,750
+75块一小时
+Ok, so it's going to be 75 for the hour.
+
+231
+00:12:01,750 --> 00:12:03,780
+超过一小时再议
+Anything more than that we can discuss.
+
+232
+00:12:04,560 --> 00:12:05,530
+行吗
+All right?
+
+233
+00:12:06,080 --> 00:12:07,790
+有地方让我换衣服吗
+Someplace where I can get changed?
+
+234
+00:12:08,530 --> 00:12:09,470
+那边
+There.
+
+235
+00:12:10,360 --> 00:12:11,920
+我不知道你喜欢什么体位
+I don't know which positions you want me in,
+
+236
+00:12:11,920 --> 00:12:13,510
+不过我很全能
+but I'm very flexible.
+
+237
+00:12:22,320 --> 00:12:23,430
+怎么了  小宝贝
+What's up, baby girl?
+
+238
+00:12:23,780 --> 00:12:25,280
+我很担心里德
+I'm worried about Reid.
+
+239
+00:12:25,290 --> 00:12:26,250
+我也是
+I am, too.
+
+240
+00:12:26,500 --> 00:12:27,910
+你觉得他怎么样了
+What do you think he's doing?
+
+241
+00:12:28,150 --> 00:12:29,870
+我觉得他在用霍奇给他的时间慢慢疗伤
+I think he's taking the time that Hotch gave him.
+
+242
+00:12:29,870 --> 00:12:31,540
+我明白  他很难过  他应该难过的
+I get it. He's sad. He should be sad.
+
+243
+00:12:31,540 --> 00:12:33,470
+但我很担心
+But I'm so worried.
+
+244
+00:12:33,470 --> 00:12:36,060
+我爱的人受伤时
+And when someone I love is hurting,
+
+245
+00:12:36,060 --> 00:12:39,220
+我也会跟着受伤  我太依赖别人了
+it's like I hurt, too, which I know is super codependent,
+
+246
+00:12:39,220 --> 00:12:40,180
+但我就是这样的
+but it's just how I roll,
+
+247
+00:12:40,180 --> 00:12:41,670
+我觉得自己应该做点什么
+and I feel like I should be doing something,
+
+248
+00:12:41,670 --> 00:12:42,800
+虽说我不知道我能做什么
+and I don't know what it is, but--
+
+249
+00:12:42,800 --> 00:12:44,840
+好了  慢慢说好吗  慢慢说
+All right, slow down, all right? Just slow down.
+
+250
+00:12:44,840 --> 00:12:45,940
+你能给他打电话吗
+Could you call him?
+
+251
+00:12:46,580 --> 00:12:49,100
+我打过了  但他现在还没准备好跟人交谈
+I have. He's just not ready to talk to anybody right now.
+
+252
+00:12:49,340 --> 00:12:52,870
+我得听听他的声音  不然我没法工作
+I need to hear his voice. It's impairing my ability to work.
+
+253
+00:12:54,140 --> 00:12:55,450
+我试试吧
+Let me try something, all right?
+
+254
+00:12:55,450 --> 00:12:56,480
+谢谢
+Thanks.
+
+255
+00:12:59,060 --> 00:13:01,970
+你好  我是斯宾塞·里德  请留言
+Hello. This is Spencer Reid. Please leave a message.
+
+256
+00:13:01,970 --> 00:13:04,540
+里德  我是戴瑞  工作上有事请教你
+Hey, Reid, it's Derek. Listen, I got a work question for you.
+
+257
+00:13:04,540 --> 00:13:06,170
+不明嫌犯放光了死者的血
+The unsub's exsanguinating victims
+
+258
+00:13:06,170 --> 00:13:07,970
+还在他们临死前割掉了他们的眼睑
+and removing their eyelids antemortem.
+
+259
+00:13:07,970 --> 00:13:09,980
+你有什么头绪吗  给我回电
+Does that mean anything to you? Hit me back.
+
+260
+00:13:13,660 --> 00:13:15,540
+这是你要的信息
+Here's the information you called about.
+
+261
+00:13:15,830 --> 00:13:16,780
+谢谢
+Thank you.
+
+262
+00:13:21,650 --> 00:13:22,780
+失陪一下
+Excuse me for a second.
+
+263
+00:13:24,300 --> 00:13:25,230
+怎么样  里德
+What's up, Reid?
+
+264
+00:13:25,810 --> 00:13:28,050
+死者角膜和瞳孔有任何损伤吗
+Have the cornea or pupils been harmed in any way?
+
+265
+00:13:28,290 --> 00:13:29,490
+没有  布莱克说看起来
+No, no. Blake said it looked like
+
+266
+00:13:29,490 --> 00:13:31,510
+嫌犯用的是非常锋利的器械
+a very sharp instrument was used.
+
+267
+00:13:32,030 --> 00:13:33,750
+要是他特别注意不损伤眼睛
+If he's taking care not to damage the eyes,
+
+268
+00:13:33,750 --> 00:13:36,880
+那视线可能对他很重要
+then line of sight is probably what's important to him.
+
+269
+00:13:37,100 --> 00:13:39,170
+这人希望死者看到他所做的事
+So this guy wants them to see what he's doing.
+
+270
+00:13:42,700 --> 00:13:45,550
+里德  你怎么样
+Hey, Reid. How are you?
+
+271
+00:13:47,090 --> 00:13:48,080
+我要挂了
+I gotta go.
+
+272
+00:13:55,300 --> 00:13:56,240
+很抱歉
+Sorry about that.
+
+273
+00:13:56,240 --> 00:13:57,340
+没关系
+Not a problem.
+
+274
+00:13:57,820 --> 00:14:00,430
+死因肯定是失血致死
+Cause of death would definitely be exsanguination.
+
+275
+00:14:00,430 --> 00:14:02,270
+不过毒性检测显示出极高含量的
+But the tox screen showed high levels of--
+
+276
+00:14:02,270 --> 00:14:06,140
+以五倍的速度说一遍  乙二胺四乙酸
+say this 5 times fast-- ethylene diamine tetra acetic.
+
+277
+00:14:06,920 --> 00:14:08,990
+EDTA  是一种阻凝剂
+EDTA. It's an anti-coagulant.
+
+278
+00:14:08,990 --> 00:14:10,980
+多用于治疗心脏问题
+Used mostly to treat heart conditions.
+
+279
+00:14:11,210 --> 00:14:13,360
+不明嫌犯可能是用它稀释血液
+So the unsub probably used it to thin the blood.
+
+280
+00:14:13,360 --> 00:14:15,310
+我们发现的氯胺酮可能也起了同样的作用
+The ketamine we found may have helped as well.
+
+281
+00:14:15,310 --> 00:14:17,540
+用在人身上会使血压升高
+In humans, it tends to elevate blood pressure.
+
+282
+00:14:17,630 --> 00:14:19,290
+他就是借此让被害人昏迷的
+Which is how he's sedating them.
+
+283
+00:14:19,290 --> 00:14:21,730
+如果他给被害人下药后
+If he knew that he was giving these drugs to these victims
+
+284
+00:14:21,730 --> 00:14:22,830
+还把血喝了呢
+and he ingested the blood?
+
+285
+00:14:22,830 --> 00:14:24,380
+就和给自己下药无异
+He'd be dosing himself as well.
+
+286
+00:14:24,380 --> 00:14:26,180
+那就不是吸食人血了
+Well, that rules out vampirism.
+
+287
+00:14:27,270 --> 00:14:29,330
+嫌犯可能在医学领域工作吗
+Is there any chance this guy works in the medical field?
+
+288
+00:14:29,330 --> 00:14:32,200
+我看不像  伤口周围有一些试探伤
+I doubt it. There are a few hesitation marks near the wound,
+
+289
+00:14:32,200 --> 00:14:34,840
+动脉的伤口周围有大面积瘀伤
+and the hole in the artery shows a lot of bruising around it.
+
+290
+00:14:34,840 --> 00:14:36,590
+最多是个实习生
+I'd say it's amateur at best.
+
+291
+00:14:37,430 --> 00:14:38,660
+好吧  这名嫌犯
+All right, so we got an unsub
+
+292
+00:14:38,660 --> 00:14:40,410
+随机选择其被害人
+who's picking his victims at random,
+
+293
+00:14:40,410 --> 00:14:42,780
+迷晕他们  再抽干他们的血
+sedates them, then bleeds them dry.
+
+294
+00:14:44,280 --> 00:14:45,020
+如果不是把血喝了的话
+If he's not drinking the blood,
+
+295
+00:14:45,020 --> 00:14:46,570
+他到底用血来做什么呢
+what the hell is he doing with it?
+
+296
+00:15:06,120 --> 00:15:07,210
+等等
+Wait...
+
+297
+00:15:08,180 --> 00:15:09,130
+等等
+Wait...
+
+298
+00:15:10,550 --> 00:15:12,600
+别动
+Shh, shh, shh. Be still.
+
+299
+00:15:13,150 --> 00:15:14,750
+你在做什么
+What's--what-- what are you doing?
+
+300
+00:15:14,750 --> 00:15:16,940
+住手  住手
+Wait--wait--aah!
+
+301
+00:15:31,850 --> 00:15:33,420
+我们查到了指纹
+Well, we got a hit off the prints.
+
+302
+00:15:33,420 --> 00:15:35,400
+被害人名叫艾米·福特纳
+The victim's name is Aimee Fortner.
+
+303
+00:15:38,200 --> 00:15:40,280
+距离他上次杀人仅过了一天
+It's only been a day since his last kill.
+
+304
+00:15:40,390 --> 00:15:42,680
+这人都没有冷静周期
+Well, this guy doesn't have a cool-down period.
+
+305
+00:15:43,470 --> 00:15:45,110
+尸体还没有僵硬
+Rigor hasn't set in yet.
+
+306
+00:15:45,110 --> 00:15:47,390
+放在这应该也就一个小时
+I'd say she was put here maybe an hour ago,
+
+307
+00:15:47,390 --> 00:15:48,990
+日出时分
+just after sunrise.
+
+308
+00:15:49,040 --> 00:15:50,250
+他越来越肆无忌惮了
+He's getting brazen.
+
+309
+00:15:50,250 --> 00:15:52,170
+这是他第一次白天弃尸
+It's his first daytime disposal.
+
+310
+00:15:52,560 --> 00:15:54,670
+公园的这部分一般没人经过
+Well, this part of the park's not very well traveled.
+
+311
+00:15:54,670 --> 00:15:56,470
+市政府一直想隔几年就整修一次
+The city's been trying to renovate every couple of years,
+
+312
+00:15:56,470 --> 00:15:58,530
+不过你懂的  政治嘛
+but you know--politics.
+
+313
+00:15:58,530 --> 00:16:00,600
+不明嫌犯对此地十分熟悉
+So the unsub is familiar enough with the area
+
+314
+00:16:00,600 --> 00:16:02,650
+知道不会有人打扰他
+to know nobody would disturb him.
+
+315
+00:16:02,940 --> 00:16:05,070
+万事屋  有什么需要效劳的
+Office of omnipotence. How may I dazzle you?
+
+316
+00:16:05,070 --> 00:16:08,360
+加西亚  我需要最新被害人艾米·福特纳的信息
+Garcia, I need information on the latest victim, Aimee Fortner.
+
+317
+00:16:08,750 --> 00:16:11,270
+提供信息是我最在行的  长官
+Information is my favorite way to dazzle, sir.
+
+318
+00:16:11,270 --> 00:16:13,050
+包您满意
+So sparkly.
+
+319
+00:16:13,050 --> 00:16:14,640
+有了 艾米·克里斯多·福特纳
+Here we go Aimee Crystal Fortner.
+
+320
+00:16:14,640 --> 00:16:16,630
+来自圣克拉拉市
+Originally from Santa Clara.
+
+321
+00:16:16,630 --> 00:16:17,420
+很漂亮
+She was super pretty.
+
+322
+00:16:17,420 --> 00:16:18,240
+不做酒巴服务员后
+When she wasn't bartending,
+
+323
+00:16:18,240 --> 00:16:20,470
+靠做模特维持生计
+she supplemented her income by modeling.
+
+324
+00:16:21,670 --> 00:16:22,690
+模特
+A model?
+
+325
+00:16:22,990 --> 00:16:24,970
+没错  她有个网站
+Yes. And she's got a website
+
+326
+00:16:24,970 --> 00:16:27,520
+上面都是她的艺术照
+full of very artistic pictures of herself.
+
+327
+00:16:27,520 --> 00:16:31,220
+这姑娘相当乐于炫耀她那天赐的身材
+Girl was not afraid to flaunt what god gave her at all.
+
+328
+00:16:31,220 --> 00:16:32,680
+谢谢  加西亚
+Uh-huh. Thanks, Garcia.
+
+329
+00:16:38,080 --> 00:16:39,180
+你在想什么
+What are you thinking?
+
+330
+00:16:43,730 --> 00:16:45,550
+里德告诉摩根被害人的视线
+Reid told Morgan line of sight
+
+331
+00:16:45,550 --> 00:16:47,920
+对于不明嫌犯很重要
+was important to the unsub.
+
+332
+00:16:54,460 --> 00:16:56,620
+我们该去看看其他犯罪现场
+We should take a look at the other crime scenes.
+
+333
+00:16:56,620 --> 00:16:58,780
+我可能知道他用血做什么了
+I might know what he's doing with the blood.
+
+334
+00:17:06,480 --> 00:17:08,270
+我们认为不明嫌犯是名白人男性
+We believe that this unsub is a white male
+
+335
+00:17:08,270 --> 00:17:09,430
+20或30多岁
+in his 20s or 30s,
+
+336
+00:17:09,430 --> 00:17:12,630
+他自认为是名画家或艺术家
+and he thinks of himself as a painter or an artist.
+
+337
+00:17:12,630 --> 00:17:16,590
+弃尸地点透露了许多嫌犯的信息
+The placement of the victims tells us a lot about who he is.
+
+338
+00:17:16,590 --> 00:17:18,820
+帕梅拉·赫德被发现的周围有一幅
+Pamela hurd was found near a painting done by
+
+339
+00:17:18,820 --> 00:17:21,620
+鲜为人知的旧金山艺术家亨利·弗洛伊德的画作
+little known San Francisco artist Henry Floyd.
+
+340
+00:17:21,620 --> 00:17:23,950
+加里·波特被放置于一幅街头涂鸦旁
+Gary Porter was posed near a piece of graffiti art
+
+341
+00:17:23,950 --> 00:17:25,550
+作者是街头艺术家赛弗
+by a street artist named Cypher,
+
+342
+00:17:25,550 --> 00:17:26,990
+目前此人正被警方通缉
+who is currently wanted by the police.
+
+343
+00:17:26,990 --> 00:17:29,510
+第三名被害人  林恩·斯蒂文斯附近有幅壁画
+And the third victim, Lynn Stevens, was found near a mural
+
+344
+00:17:29,510 --> 00:17:31,180
+是贫民区的青少年画的
+painted by inner city youths.
+
+345
+00:17:31,180 --> 00:17:35,180
+最后  艾米·福特纳被弃尸在圣路加雕像旁
+Finally, Aimee Fortner was placed near the statue of Saint Luke,
+
+346
+00:17:35,180 --> 00:17:37,160
+艺术家的保护神
+patron saint of the artist.
+
+347
+00:17:37,160 --> 00:17:39,650
+这是起内心冲动引发的犯罪  并非偶然
+This is a compulsion. It's not accidental.
+
+348
+00:17:39,650 --> 00:17:41,280
+他沉迷于艺术
+He is obsessed with art.
+
+349
+00:17:41,280 --> 00:17:44,780
+那些艺术作品都被无视  忽略  抛弃了
+All of the works of art are neglected, ignored, cast aside.
+
+350
+00:17:44,780 --> 00:17:46,740
+他认为自己也是如此
+It's how he feels about himself.
+
+351
+00:17:46,740 --> 00:17:48,230
+我们相信这也是他
+We believe it's also the reason that he's evolved in
+
+352
+00:17:48,230 --> 00:17:50,070
+切除被害人眼睑的原因
+removing the victims' eyelids.
+
+353
+00:17:50,070 --> 00:17:52,570
+强迫他们看他所看
+He's forcing them to see what he sees.
+
+354
+00:17:52,670 --> 00:17:55,330
+这些谋杀与性欲无关
+There's no sexual component with these murders,
+
+355
+00:17:55,340 --> 00:17:58,240
+因为血液本身及其用途就是他
+but that's because the blood and the use of the blood
+
+356
+00:17:58,240 --> 00:18:00,100
+释放性欲的方式
+is his sexual release.
+
+357
+00:18:00,180 --> 00:18:00,740
+等等
+So, wait.
+
+358
+00:18:00,740 --> 00:18:03,020
+他用那些血做了什么
+What--what is he doing with the blood?
+
+359
+00:18:03,020 --> 00:18:04,650
+他太沉溺于艺术
+Because he's so obsessed with art,
+
+360
+00:18:04,650 --> 00:18:06,300
+我们认为他用血液作画
+we believe he's painting with it.
+
+361
+00:18:06,300 --> 00:18:08,250
+他频频杀人
+He has a quick kill pace.
+
+362
+00:18:08,400 --> 00:18:10,250
+更多的血液意味着更多的画作
+More blood means more paint.
+
+363
+00:18:10,250 --> 00:18:11,900
+而他作的画越多
+The more paintings he does,
+
+364
+00:18:11,900 --> 00:18:14,970
+有人认出他的作品的概率就越大
+the greater the chance someone will recognize his work.
+
+365
+00:18:15,290 --> 00:18:17,170
+我们认为  为了得到认同
+We think that because of his need for acceptance,
+
+366
+00:18:17,170 --> 00:18:19,050
+他可能会试着卖出自己的作品
+he may be trying to sell the paintings.
+
+367
+00:18:19,050 --> 00:18:20,810
+所以请密切关注可能出售
+So focus your canvassing on places
+
+368
+00:18:20,810 --> 00:18:23,240
+这种边缘作品的地方
+that might sell this kind of fringe art.
+
+369
+00:18:44,080 --> 00:18:45,050
+怎么了  小鬼
+What's up, kid?
+
+370
+00:18:45,550 --> 00:18:46,270
+如果事关艺术
+If it is about the art,
+
+371
+00:18:46,270 --> 00:18:48,000
+那么很明显抛尸地点分散在
+then it's clear the disposal sites are scattered
+
+372
+00:18:48,000 --> 00:18:50,440
+教会区周围
+around the Mission District area.
+
+373
+00:18:50,870 --> 00:18:51,570
+等等  你怎么知道
+Wait a minute. How did you know--
+
+374
+00:18:51,570 --> 00:18:53,540
+我让安德森带了些卷宗给我
+I had Anderson bring over some of the files.
+
+375
+00:18:54,610 --> 00:18:57,550
+好  好  等一下  我把加西亚接进来
+All right. All right, hold on a second. Let me patch in Garcia.
+
+376
+00:19:00,680 --> 00:19:01,450
+他说了什么  他还好吗
+What have you heard? Is he ok?
+
+377
+00:19:01,450 --> 00:19:03,300
+别急  别急
+Slow down. Slow down.
+
+378
+00:19:05,490 --> 00:19:06,140
+里德
+Reid.
+
+379
+00:19:06,140 --> 00:19:06,970
+加西亚  你应该列出
+Garcia, you should pull a list
+
+380
+00:19:06,970 --> 00:19:09,210
+旧金山所有的画廊
+of all the art galleries in San Francisco.
+
+381
+00:19:09,870 --> 00:19:11,070
+里德  我刚刚
+Reid, I was just--
+
+382
+00:19:13,910 --> 00:19:14,910
+你怎么样
+How are you?
+
+383
+00:19:15,300 --> 00:19:16,230
+好些了
+Better.
+
+384
+00:19:16,450 --> 00:19:17,500
+多谢关心
+Thanks for asking.
+
+385
+00:19:18,500 --> 00:19:19,900
+另外谢谢你的坚果篮
+And thanks for the baskets.
+
+386
+00:19:20,890 --> 00:19:22,620
+坚果富含镁元素  可以促进分泌
+You know, nuts have magnesium, which helps produce--
+
+387
+00:19:22,620 --> 00:19:25,250
+血清素  我知道
+Serotonin. Yeah. I know.
+
+388
+00:19:28,280 --> 00:19:30,320
+好了  画廊  我搜到了很多
+Ok, galleries. I got a lot.
+
+389
+00:19:30,320 --> 00:19:31,840
+注意教会区的画廊
+Focus on the Mission District.
+
+390
+00:19:36,110 --> 00:19:37,850
+好歹开口了
+I guess that's better than nothing.
+
+391
+00:19:38,610 --> 00:19:40,300
+对  我也这么想
+It is. I will take it.
+
+392
+00:19:40,710 --> 00:19:42,990
+还是有好些画廊  不过查起来容易多了
+Ok, there's still a few galleries, but it's more manageable.
+
+393
+00:19:42,990 --> 00:19:45,190
+我把地址发到你手机上了
+I am sending the addresses to your mobile.
+
+394
+00:19:46,290 --> 00:19:47,860
+收到了  谢了  加西亚
+I got it. Thanks, Garcia.
+
+395
+00:19:47,860 --> 00:19:48,820
+不客气
+Yeah.
+
+396
+00:20:00,190 --> 00:20:01,850
+这是赫尔曼的原作
+It's an original Hellman.
+
+397
+00:20:02,530 --> 00:20:05,520
+他在临终前画下这幅作品
+He painted it while literally on his deathbed.
+
+398
+00:20:06,580 --> 00:20:07,830
+10000
+10,000.
+
+399
+00:20:12,060 --> 00:20:13,360
+-麦迪森  -什么
+- Madison. - Yeah?
+
+400
+00:20:13,360 --> 00:20:14,360
+他又来了
+He's back.
+
+401
+00:20:15,570 --> 00:20:17,710
+博物馆已经准备好出价了
+The museum is ready to make me an offer.
+
+402
+00:20:18,710 --> 00:20:19,760
+很好
+Perfect.
+
+403
+00:20:20,280 --> 00:20:21,860
+如果你愿意的话  我可以让他离开
+If you want, I can tell him to leave.
+
+404
+00:20:21,860 --> 00:20:23,040
+不用了  没事
+No, it's ok.
+
+405
+00:20:26,560 --> 00:20:27,640
+赖利女士
+Mrs. Riley.
+
+406
+00:20:28,510 --> 00:20:31,820
+我想这次你会对我的作品更满意的
+I think you'll be much more pleased with my piece this time.
+
+407
+00:20:35,390 --> 00:20:38,250
+我已经说过了
+Yeah, um, like I told you the last time,
+
+408
+00:20:38,250 --> 00:20:39,790
+我没兴趣
+I'm not interested.
+
+409
+00:20:43,210 --> 00:20:44,210
+为什么呢
+Why not?
+
+410
+00:20:44,590 --> 00:20:46,090
+因为这不是我们
+Well, because this type of art
+
+411
+00:20:46,090 --> 00:20:48,650
+想要的艺术风格
+is just not what we're looking for.
+
+412
+00:20:50,480 --> 00:20:52,960
+那你们想要什么样的呢
+Well, what is it you are looking for?
+
+413
+00:20:56,450 --> 00:20:58,350
+看得出来你有所进步
+Look, I can see that you're getting better.
+
+414
+00:20:58,440 --> 00:21:03,070
+我能说的是  这幅画有点简略过头了
+All I can tell you is it's a little simplistic.
+
+415
+00:21:04,300 --> 00:21:05,890
+所有伟大的艺术家都会
+Look, every good artist leaves
+
+416
+00:21:05,900 --> 00:21:07,970
+在某种程度上将自己融入画作
+a piece of himself on the canvas.
+
+417
+00:21:07,970 --> 00:21:10,230
+你得找出
+You have to find that one thing
+
+418
+00:21:10,230 --> 00:21:13,230
+能让你脱颖而出的东西
+that's going to set you apart from the rest of the crowd.
+
+419
+00:21:13,970 --> 00:21:15,300
+我用血画的
+I used blood.
+
+420
+00:21:17,010 --> 00:21:19,890
+我指的不是特殊的材料
+An unusual medium is not what I'm talking about.
+
+421
+00:21:24,450 --> 00:21:26,630
+今天的一切都毫无道理
+The world today doesn't make sense.
+
+422
+00:21:26,630 --> 00:21:28,910
+我为何还要画出有意义的作品呢
+Why should I paint pictures that do?
+
+423
+00:21:29,410 --> 00:21:30,630
+毕加索
+Picasso.
+
+424
+00:21:31,540 --> 00:21:32,810
+真不错
+I'm impressed.
+
+425
+00:21:35,960 --> 00:21:37,480
+如果我找到了自己的特色
+If I find my signature,
+
+426
+00:21:37,490 --> 00:21:39,130
+你会考虑在画廊收录我的作品吗
+you'll consider me for the gallery?
+
+427
+00:21:40,410 --> 00:21:41,900
+不无可能
+Anything's possible.
+
+428
+00:21:43,990 --> 00:21:45,230
+我知道了
+Yeah.
+
+429
+00:21:46,670 --> 00:21:47,880
+谢谢
+Thank you.
+
+430
+00:22:00,880 --> 00:22:02,000
+需要我帮忙吗
+Can I help you?
+
+431
+00:22:02,160 --> 00:22:03,370
+我们是联调局的
+We're from the FBI.
+
+432
+00:22:03,400 --> 00:22:04,480
+你是这里的老板吗
+You the owner?
+
+433
+00:22:05,020 --> 00:22:06,450
+是的  我叫特雷
+Yeah. Name's Tre.
+
+434
+00:22:06,460 --> 00:22:09,500
+你有没有展出以血液为颜料的作品
+Do you have any art on display where blood is used as a medium?
+
+435
+00:22:09,790 --> 00:22:10,800
+没有
+No.
+
+436
+00:22:11,780 --> 00:22:14,410
+没有  但几天前有个人过来
+No, but there was a guy in here a couple days ago
+
+437
+00:22:14,420 --> 00:22:16,240
+想要卖这样的作品
+who tried to sell me a piece like that.
+
+438
+00:22:16,370 --> 00:22:17,740
+这不太对我的胃口
+It wasn't exactly my taste,
+
+439
+00:22:17,740 --> 00:22:20,180
+不过正好有个客户在这里
+but a customer of mine happened to be in here,
+
+440
+00:22:20,180 --> 00:22:22,740
+一看到就爱上了那幅画  当时就买下来了
+saw it, fell in love with it, bought it on sight.
+
+441
+00:22:24,970 --> 00:22:26,380
+那会是你们要找的人吗
+You think that could that be your guy?
+
+442
+00:22:27,400 --> 00:22:30,050
+你这里不会正好有监控摄像头吧
+You wouldn't happen to have any security cameras in here, would you?
+
+443
+00:22:30,050 --> 00:22:31,100
+没有
+No.
+
+444
+00:22:31,180 --> 00:22:32,900
+如果你找到他的名字  请告诉我们
+We need the customer's name if you've got it.
+
+445
+00:22:32,900 --> 00:22:33,990
+好
+Yeah.
+
+446
+00:22:52,430 --> 00:22:54,470
+我完全看不懂这些东西
+I never quite understood these things.
+
+447
+00:22:55,050 --> 00:22:57,640
+感觉作者在作画时处于癫狂状态
+It all looks like the guy had a seizure while painting it.
+
+448
+00:22:59,120 --> 00:23:00,760
+作者是埃米尔·哈特福德
+It's Emile Hartford.
+
+449
+00:23:01,590 --> 00:23:03,290
+是20世纪初的作品
+It's early 20th century.
+
+450
+00:23:04,480 --> 00:23:06,370
+他女儿八岁时夭折
+His daughter died when she was 8.
+
+451
+00:23:06,430 --> 00:23:08,800
+他说每当作画时  就能看见女儿
+He said every time he painted, he'd be able to see her.
+
+452
+00:23:09,790 --> 00:23:11,730
+我不知道这画上能看出什么来
+Don't know how you see anything in there.
+
+453
+00:23:14,640 --> 00:23:17,350
+难怪他们说  艺术是给有缘人看的
+I guess that's why they say art is in the eye of the beholder.
+
+454
+00:23:19,430 --> 00:23:20,550
+是啊
+Yeah.
+
+455
+00:23:21,860 --> 00:23:23,650
+还有样东西也需要有缘人
+You know what else is in the eye of the beholder?
+
+456
+00:23:23,650 --> 00:23:26,010
+记得我上周说的57年雪弗兰吗
+'57 Chevy I told you about last week?
+
+457
+00:23:26,590 --> 00:23:28,910
+就在今早  砰  它寿终正寝
+This morning, bam, it won't start.
+
+458
+00:23:29,870 --> 00:23:32,430
+现在修理师就是它的有缘人
+Now it's in the eye of my mechanic.
+
+459
+00:23:37,100 --> 00:23:38,360
+你是要我求你呢
+Come on, man, are you gonna make me ask
+
+460
+00:23:38,360 --> 00:23:40,470
+还是心甘情愿把我当朋友  送我回家
+or are you gonna be a friend and offer me a ride home?
+
+461
+00:23:45,240 --> 00:23:46,520
+我们算朋友
+We're friends.
+
+462
+00:23:47,370 --> 00:23:49,910
+都共事两年了  应该算吧
+Worked together for two years now. I'd hope so.
+
+463
+00:23:57,010 --> 00:23:58,530
+要我开车送你吗  保罗
+You need a ride, Paul?
+
+464
+00:24:00,330 --> 00:24:02,000
+我还以为你不会问呢
+Thought you'd never ask.
+
+465
+00:24:09,200 --> 00:24:12,220
+嫌犯把作品卖到这个地方
+The unsub sold his painting to this place?
+
+466
+00:24:12,370 --> 00:24:14,220
+这里让我想起80年代
+It reminds me of the eighties.
+
+467
+00:24:16,140 --> 00:24:17,160
+干嘛
+What?
+
+468
+00:24:17,620 --> 00:24:19,070
+我会感兴趣吗
+Do I even want to know?
+
+469
+00:24:20,500 --> 00:24:21,640
+或许吧
+Probably.
+
+470
+00:24:29,250 --> 00:24:31,130
+欢迎光临  我是安德雷
+Welcome. My name is Andre.
+
+471
+00:24:31,490 --> 00:24:33,620
+首先  请你们填一份弃权单
+Before we start, I'll need you to fill out a small waiver.
+
+472
+00:24:33,620 --> 00:24:35,260
+不不  我们不是一对
+No, no, no. We're not a couple.
+
+473
+00:24:35,290 --> 00:24:37,930
+不管什么关系  我们都竭诚为您服务
+That's ok. We cater to all kinds of relationships.
+
+474
+00:24:37,930 --> 00:24:41,140
+其实我们是联调局的
+Well, uh, our relationship is with the FBI.
+
+475
+00:24:43,040 --> 00:24:44,080
+哎呀
+Oh.
+
+476
+00:24:45,630 --> 00:24:47,580
+我开的店没有问题
+I run a clean establishment here.
+
+477
+00:24:47,580 --> 00:24:49,890
+清白  合法  成人娱乐
+Clean, legal, adult fun.
+
+478
+00:24:49,890 --> 00:24:53,200
+冷静  我们只是来找一幅你最近买的画
+Calm down. We're just looking for a painting you bought recently.
+
+479
+00:24:53,320 --> 00:24:55,280
+请你们说清楚点
+You're gonna have to be a bit more specific.
+
+480
+00:24:55,280 --> 00:24:57,690
+我可是黑暗堕落艺术的鉴赏行家
+I'm a connoisseur of the dark and depraved arts.
+
+481
+00:24:57,690 --> 00:24:59,580
+我买的画多了去了
+I purchase a lot of paintings.
+
+482
+00:24:59,580 --> 00:25:01,810
+这幅画是你在几天前买的
+Well, you bought this one a couple of days ago.
+
+483
+00:25:01,900 --> 00:25:03,300
+它用鲜血作成
+It's made with blood.
+
+484
+00:25:03,310 --> 00:25:04,570
+是人血
+Human blood.
+
+485
+00:25:05,130 --> 00:25:06,810
+我说过  我买的画太多
+Like I said, I buy a lot of paintings.
+
+486
+00:25:06,810 --> 00:25:08,220
+我都记不清了
+I don't remember them all.
+
+487
+00:25:08,670 --> 00:25:11,220
+是吗  不过我记得
+Oh, really? Because last I checked,
+
+488
+00:25:11,220 --> 00:25:14,140
+私藏证据会让你成为共犯
+withholding evidence would make you an accomplice.
+
+489
+00:25:14,240 --> 00:25:15,940
+我们只是想看看这幅画
+We just want to see the painting.
+
+490
+00:25:16,190 --> 00:25:19,130
+确认一下  它是否出自我们要找的人之手
+Just want to see if it's from the guy we're looking for.
+
+491
+00:25:21,230 --> 00:25:22,630
+现在想起来了吗
+Remembering now?
+
+492
+00:25:23,120 --> 00:25:24,200
+好像想起来了
+Possibly.
+
+493
+00:25:25,610 --> 00:25:28,160
+要看那幅画  你们得跟我去"打屁屁"房间
+For that piece, you'll have to follow me to the spanking room.
+
+494
+00:25:32,120 --> 00:25:34,060
+我买它时可没想到
+I may have bought it, but I didn't realize
+
+495
+00:25:34,060 --> 00:25:35,740
+它会成为什么证据
+it was evidence of any sort.
+
+496
+00:25:37,020 --> 00:25:38,320
+这就是你们找的画吗
+Is that that you're looking for?
+
+497
+00:25:42,990 --> 00:25:45,870
+她那饱受折磨的眼神让我眼前一亮
+The tortured look in her eyes is what first drew me to it.
+
+498
+00:25:46,310 --> 00:25:47,770
+那人要价1500
+The guy was asking 1,500 for it.
+
+499
+00:25:47,770 --> 00:25:50,150
+我还价到250  现金支付
+I got him to take 250, cash.
+
+500
+00:25:50,650 --> 00:25:52,990
+那是第一位被害人  帕梅拉·赫德
+That's our first victim, Pamela Hurd.
+
+501
+00:25:53,310 --> 00:25:55,420
+这绝对是嫌犯画的
+It's definitely from our guy.
+
+502
+00:25:56,410 --> 00:25:58,360
+我们要带走这幅画
+Yeah, we're gonna need to take this.
+
+503
+00:26:11,450 --> 00:26:12,780
+你在做什么
+What are you doing?
+
+504
+00:26:15,630 --> 00:26:16,780
+什么...
+What...
+
+505
+00:26:18,700 --> 00:26:19,840
+什么...
+What...
+
+506
+00:26:19,910 --> 00:26:21,160
+发生了什么事
+What's going on?
+
+507
+00:26:28,170 --> 00:26:29,220
+怎么
+What--
+
+508
+00:26:32,970 --> 00:26:34,190
+别这样  求你了
+No, please don't.
+
+509
+00:26:36,210 --> 00:26:37,230
+为什么
+Why?
+
+510
+00:26:39,730 --> 00:26:41,120
+我别无选择
+It's the only way.
+
+511
+00:26:43,160 --> 00:26:44,210
+对不起
+Sorry.
+
+512
+00:26:44,420 --> 00:26:45,700
+你疯了
+You're insane.
+
+513
+00:26:47,280 --> 00:26:49,480
+艺术家不都是疯子吗
+I guess every artist is a little crazy.
+
+514
+00:26:49,710 --> 00:26:51,510
+别这样  我们是朋友
+No, come on man, we're friends.
+
+515
+00:26:51,710 --> 00:26:52,870
+正因如此
+Exactly.
+
+516
+00:26:54,620 --> 00:26:56,610
+这就是我画中所缺失的
+It's what I've been missing.
+
+517
+00:26:56,620 --> 00:26:58,320
+私人元素
+Something personal.
+
+518
+00:27:01,450 --> 00:27:02,870
+你别动
+I need you to hold still.
+
+519
+00:27:04,760 --> 00:27:05,900
+别动
+Hold still.
+
+520
+00:27:06,250 --> 00:27:07,470
+别动
+Hold still...
+
+521
+00:27:08,270 --> 00:27:11,080
+不要动
+Hold still!
+
+522
+00:27:11,080 --> 00:27:13,390
+救命啊
+Help!
+
+523
+00:27:15,770 --> 00:27:16,990
+不
+No! Aah!
+
+524
+00:27:19,830 --> 00:27:21,100
+不
+No!
+
+525
+00:27:26,670 --> 00:27:27,900
+不要
+No...No!
+
+526
+00:27:42,080 --> 00:27:44,680
+现在我们有了嫌犯的作品
+Well, we now have a piece of his art,
+
+527
+00:27:44,680 --> 00:27:47,780
+但依然没有能够查出他身份的线索
+but we still don't have anything to identify the unsub.
+
+528
+00:27:47,780 --> 00:27:48,420
+实验室拿到样本
+The lab's got a sample,
+
+529
+00:27:48,420 --> 00:27:50,250
+但那八成是帕梅拉·赫德的血
+but it's probably Pamela Hurd's blood.
+
+530
+00:27:50,250 --> 00:27:52,820
+安德雷大师说他是一个普通白人
+Master Andre said he was an average white guy
+
+531
+00:27:52,820 --> 00:27:54,310
+二三十岁
+in his late 20s to early 30s.
+
+532
+00:27:54,310 --> 00:27:57,790
+画廊老板也这么说  他署了名
+Same thing the gallery owner said. He signed it.
+
+533
+00:27:57,800 --> 00:28:01,230
+看起来像是以字母B开头或结尾的名字
+Yeah, it looks like a "B" something or something "B".
+
+534
+00:28:01,230 --> 00:28:03,810
+我叫加西亚整理一份名字里
+I'm going to have Garcia compile a list of artists
+
+535
+00:28:03,810 --> 00:28:05,900
+带字母B的艺术家的名单
+with the letter "B" somewhere in their name.
+
+536
+00:28:06,290 --> 00:28:08,750
+虽然线索很少  但总算没一无所获
+It's not much, but it's something.
+
+537
+00:30:06,090 --> 00:30:07,660
+实验室报告出来了
+We got the report back from the lab.
+
+538
+00:30:07,660 --> 00:30:09,850
+从画作上无法提取DNA
+They couldn't extract any DNA from the painting.
+
+539
+00:30:09,850 --> 00:30:12,880
+他们说上面的血只有红细胞
+They said something about there only being red blood cells.
+
+540
+00:30:13,600 --> 00:30:15,540
+看来他提取了白细胞
+Hmm. He removed the white blood cells.
+
+541
+00:30:15,910 --> 00:30:17,070
+血浆
+Plasma.
+
+542
+00:30:17,120 --> 00:30:18,820
+他要血浆做什么
+Why would he take the plasma?
+
+543
+00:30:18,820 --> 00:30:21,750
+增加浓度  更好作画
+It would make it thicker. Easier to use as a paint.
+
+544
+00:30:21,800 --> 00:30:23,550
+要怎样的设备才能提取
+What type of equipment would it take to do that?
+
+545
+00:30:23,550 --> 00:30:25,870
+只需几百美元就能网购
+You can easily buy a centrifuge online these days
+
+546
+00:30:25,870 --> 00:30:27,800
+一个离心分离器
+for a couple hundred bucks.
+
+547
+00:30:27,800 --> 00:30:28,460
+他从血液里提取血浆
+What other reasons would he
+
+548
+00:30:28,460 --> 00:30:30,860
+还有其他可能的原因吗
+have for separating the plasma from the blood?
+
+549
+00:30:30,910 --> 00:30:32,140
+是个人习惯
+It's a habit.
+
+550
+00:30:34,520 --> 00:30:35,960
+-里德  -斯宾塞
+- Reid. - Spence.
+
+551
+00:30:41,890 --> 00:30:43,440
+我没想到你这么快就回来了
+I didn't expect you back this soon.
+
+552
+00:30:43,440 --> 00:30:44,730
+你确定准备好了吗
+You sure you're ready?
+
+553
+00:30:44,900 --> 00:30:47,760
+没有  我只是对案件有些想法
+No, but I think I figured something out.
+
+554
+00:30:59,100 --> 00:31:00,160
+赖利女士在哪
+Where's Mrs. Riley?
+
+555
+00:31:00,160 --> 00:31:01,020
+请你离开
+You need to leave.
+
+556
+00:31:01,020 --> 00:31:02,830
+不要紧  艾伦  我来处理
+It's ok, Alan, I'll handle it.
+
+557
+00:31:05,120 --> 00:31:06,350
+我照你说的做了
+I did what you said.
+
+558
+00:31:07,830 --> 00:31:11,720
+这是我的朋友  保罗
+This is my friend, Paul.
+
+559
+00:31:17,500 --> 00:31:19,200
+我甚至用了些自己的血
+I even used some of my own blood.
+
+560
+00:31:20,930 --> 00:31:22,660
+我说的不是这个意思
+That's not what I meant.
+
+561
+00:31:25,300 --> 00:31:27,310
+但你说过如果我加入私人元素
+But you said if I made it more personal,
+
+562
+00:31:27,310 --> 00:31:28,730
+就可以为画廊所用
+you'd use me in your gallery.
+
+563
+00:31:31,460 --> 00:31:33,780
+我一直对你很客气  不断地鼓励你
+Look, I've been trying to be nice and give you some encouragement,
+
+564
+00:31:33,780 --> 00:31:36,190
+但我现在发现这样完全帮不了你
+but I can see now that that's really not gonna help you.
+
+565
+00:31:36,190 --> 00:31:38,460
+所以我就直言不讳了
+So I think I just have to be blunt.
+
+566
+00:31:39,640 --> 00:31:40,970
+你的作品不怎么样
+It's not good.
+
+567
+00:31:44,690 --> 00:31:45,820
+但是...
+But...
+
+568
+00:31:46,060 --> 00:31:47,360
+这幅
+This is--
+
+569
+00:31:47,360 --> 00:31:49,050
+这幅是抽象派作品
+This is abstract.
+
+570
+00:31:49,230 --> 00:31:50,500
+我知道抽象派的意思
+I understand the concept,
+
+571
+00:31:50,510 --> 00:31:52,690
+但在画布上随便洒点颜料
+but splashing something onto a canvas,
+
+572
+00:31:52,690 --> 00:31:54,480
+不能称为艺术
+that doesn't make it art.
+
+573
+00:31:56,040 --> 00:31:59,580
+天赋是与生俱来的  不是每人都能拥有
+Some people have it, some people don't.
+
+574
+00:32:03,120 --> 00:32:04,790
+你不知道你自己在说些什么
+You don't know what you're talking about.
+
+575
+00:32:04,790 --> 00:32:07,530
+可能是  但我还是不会买下这幅画
+Maybe not, but that still doesn't mean that I'm gonna buy this.
+
+576
+00:32:07,530 --> 00:32:08,350
+但你说过
+But you said--
+
+577
+00:32:08,350 --> 00:32:10,300
+真不知道要怎么说你才明白
+Look, I don't know how to explain this to you any better.
+
+578
+00:32:10,300 --> 00:32:13,300
+梦想和才华是有差别的
+There is a difference between a dream and a talent.
+
+579
+00:32:19,050 --> 00:32:20,190
+抱歉
+Look, I'm sorry.
+
+580
+00:32:20,190 --> 00:32:22,170
+如果有人可以让你...
+If there's someone that you--
+
+581
+00:32:30,370 --> 00:32:32,090
+他是血友病患者
+He's a hemophiliac.
+
+582
+00:32:32,090 --> 00:32:35,220
+所以他才对血如此着迷
+That would explain his obsession with blood.
+
+583
+00:32:35,250 --> 00:32:37,480
+他一流血就会害怕死亡
+He can't bleed without a fear of dying.
+
+584
+00:32:37,480 --> 00:32:40,640
+正因如此  他才在作画以前先把血浆
+It's also why he would separate the plasma from the blood
+
+585
+00:32:40,640 --> 00:32:41,800
+从血液里分离出来
+before painting with it.
+
+586
+00:32:41,800 --> 00:32:42,900
+这是一种古老的疗法
+It's an antiquated treatment,
+
+587
+00:32:42,900 --> 00:32:45,610
+血友病患者在自己的伤口注射血浆
+but some hemophiliacs can inject plasma into their wounds,
+
+588
+00:32:45,610 --> 00:32:46,430
+加强在他们体内
+kick-starting the clotting
+
+589
+00:32:46,430 --> 00:32:48,850
+已经失效的血凝能力
+process that's ineffective in their own systems.
+
+590
+00:32:49,940 --> 00:32:51,040
+说吧
+Talk about it.
+
+591
+00:32:51,320 --> 00:32:54,530
+美妞  我需要一份旧金山的血友病患者名单
+Hey, girlie, I need a list of hemophiliacs in San Francisco.
+
+592
+00:32:54,530 --> 00:32:57,450
+撒的网可真大啊
+Vague. So vague. Ok.
+
+593
+00:32:57,480 --> 00:32:59,330
+加西亚  他的执念非常强烈
+Garcia, for his obsession to be this profound,
+
+594
+00:32:59,330 --> 00:33:02,090
+所以他很可能病得很重
+he most likely has the more severe version of the disease.
+
+595
+00:33:02,090 --> 00:33:04,170
+B型血友病[克里斯马斯病]
+It's type B Christmas disease.
+
+596
+00:33:04,170 --> 00:33:06,620
+里德  你平安无事  我很开心
+Reid, I'm happy to hear you made it safe and sound.
+
+597
+00:33:07,040 --> 00:33:08,210
+谢谢关心  加西亚
+Thank you, Garcia.
+
+598
+00:33:08,330 --> 00:33:11,460
+B型血友病  听起来很惨啊
+Ok, Christmas disease. It does not sound very jolly.
+
+599
+00:33:11,460 --> 00:33:12,660
+此病是以第一个确诊病人
+It was named after the first known case,
+
+600
+00:33:12,660 --> 00:33:13,970
+史蒂芬·克里斯马斯命名的
+Stephen Christmas.
+
+601
+00:33:15,070 --> 00:33:17,260
+我找到15个患此病的人
+All right, I got 15 people who have trouble clotting.
+
+602
+00:33:17,260 --> 00:33:19,290
+他的生活应该与艺术有关
+He wouldn't stray too far from the art world.
+
+603
+00:33:19,290 --> 00:33:19,920
+他应该从事
+Most likely works in and
+
+604
+00:33:19,920 --> 00:33:22,080
+与艺术相关的工作  但他本人并非艺术家
+around the art community, but not as an artist.
+
+605
+00:33:22,080 --> 00:33:23,900
+而且他很孤僻  查查从事无需和外界
+And he's a loner. So look for people with jobs
+
+606
+00:33:23,900 --> 00:33:25,430
+打交道的工作的人
+where they don't interact with the public.
+
+607
+00:33:25,430 --> 00:33:27,610
+现在范围缩小到三人
+Yeah. Yeah. I got 3.
+
+608
+00:33:27,610 --> 00:33:29,740
+当地超市的采购部门职员  艺术博客作家
+Stock boy at a local supermarket, an art blogger,
+
+609
+00:33:29,740 --> 00:33:30,690
+和一个托管人
+and a custodian.
+
+610
+00:33:30,690 --> 00:33:32,930
+几名被害人的血型均不相同
+The victims have different blood types.
+
+611
+00:33:32,930 --> 00:33:35,910
+如果他要注射提取出的血浆
+If he's taking the plasma out of the blood,
+
+612
+00:33:35,990 --> 00:33:38,500
+那他应该是个全适受血者
+he must be a universal recipient.
+
+613
+00:33:38,500 --> 00:33:40,880
+他们中有人是AB型RH阳性血吗
+Any of them with AB-positive blood?
+
+614
+00:33:41,320 --> 00:33:43,580
+这条很具体  我搜搜看
+Specificity. I dig it.
+
+615
+00:33:43,580 --> 00:33:46,610
+再结合一下名字里带字母B的...
+Ok, if I factor in those "B" names I was working on...
+
+616
+00:33:48,070 --> 00:33:49,300
+揭开真面目咯
+And bingo is his name-o.
+
+617
+00:33:49,300 --> 00:33:51,290
+他叫布莱恩·休斯
+Actually, his name is Bryan Hughes.
+
+618
+00:33:51,290 --> 00:33:53,130
+是一名AB阳性血友病患者
+He is an AB-positive hemophiliac
+
+619
+00:33:53,130 --> 00:33:55,630
+在海湾区艺术馆当守卫
+who works as a janitor at the Bay Area Museum of Art,
+
+620
+00:33:55,630 --> 00:33:56,880
+不劳你们多问
+and before you ask, yes,
+
+621
+00:33:56,880 --> 00:33:58,490
+他的地址已发到你们手机上
+his address has been sent to your phones.
+
+622
+00:33:58,490 --> 00:33:59,770
+你最棒了  宝贝
+You're the best, baby girl.
+
+623
+00:33:59,770 --> 00:34:01,100
+戴夫  你和布莱克去艺术馆
+Dave, you and Blake take the museum.
+
+624
+00:34:01,100 --> 00:34:02,710
+其余人去他的住处
+The rest of us will take the residence.
+
+625
+00:34:06,600 --> 00:34:07,640
+我没事
+I'm ok.
+
+626
+00:34:08,210 --> 00:34:10,230
+那就好  还是很高兴看到你
+Yeah. But it's good to see you.
+
+627
+00:34:12,970 --> 00:34:15,420
+如果你还没休整好  真的不必着急回来
+You really don't need to be here if you're not ready.
+
+628
+00:34:15,550 --> 00:34:17,200
+这要花些时间
+This is going to take time.
+
+629
+00:34:21,230 --> 00:34:22,520
+多长时间
+How much time?
+
+630
+00:34:23,840 --> 00:34:25,260
+很难说
+It's hard to say.
+
+631
+00:34:25,810 --> 00:34:27,240
+我们都在你身边
+But we're all here for you.
+
+632
+00:34:29,400 --> 00:34:30,630
+谢谢
+Thank you.
+
+633
+00:35:37,580 --> 00:35:38,800
+有何发现  美女
+Hey, what you got, mama?
+
+634
+00:35:38,800 --> 00:35:41,100
+发现有关这个布莱恩·休斯的一条重大信息
+A compelling piece of information about this Bryan Hughes.
+
+635
+00:35:41,100 --> 00:35:42,710
+第一起凶案发生的三周前
+3 weeks before the first murder,
+
+636
+00:35:42,710 --> 00:35:44,090
+他出了一场车祸
+he was involved in a car accident.
+
+637
+00:35:44,090 --> 00:35:45,150
+受伤了吗
+Was he injured?
+
+638
+00:35:45,150 --> 00:35:47,500
+没有  如果你看到我正看的这些图
+Uh, no. And if you were looking at the pictures I am
+
+639
+00:35:47,500 --> 00:35:48,940
+一定会觉得这是个奇迹
+you would say that is a miracle.
+
+640
+00:35:48,940 --> 00:35:51,530
+他可能由此产生了自己刀枪不入的想法
+It may have given him the impression he couldn't be hurt.
+
+641
+00:35:51,650 --> 00:35:54,670
+另一名司机受伤了  流血过多致死
+The other driver was hurt. She bled to death.
+
+642
+00:35:54,680 --> 00:35:55,780
+休斯报了警
+Hughes called 911,
+
+643
+00:35:55,780 --> 00:35:57,230
+但没有提及还有另一名司机
+failed to mention there was another driver involved.
+
+644
+00:35:57,230 --> 00:35:58,450
+急救人员赶到时  她已身亡
+By the time emergency crews got there, she had already died.
+
+645
+00:35:58,450 --> 00:36:00,420
+谢谢  加西亚
+Thanks, Garcia.
+
+646
+00:36:00,440 --> 00:36:01,800
+眼看着另一个女人流血致死
+Watching the other woman bleed to death
+
+647
+00:36:01,800 --> 00:36:03,090
+这一定就是导火索
+must have been the trigger.
+
+648
+00:36:04,250 --> 00:36:05,820
+有什么发现  帅哥
+Hey, what you got, pretty boy?
+
+649
+00:36:05,860 --> 00:36:07,780
+休斯可能已经有了下一个作案目标
+I think Hughes may have his next victim.
+
+650
+00:36:07,780 --> 00:36:10,880
+一个叫艾伦·阿奇尔的刚刚来报案说他的老板不见了
+An Alan Archer just came in and reported his boss missing.
+
+651
+00:36:10,950 --> 00:36:13,430
+麦迪森·赖利在教会区有一间画廊
+Madison Riley owns an art gallery in the Mission District.
+
+652
+00:36:13,430 --> 00:36:15,550
+据称现场有血迹和打斗痕迹
+Said there was blood, signs of a struggle.
+
+653
+00:36:15,550 --> 00:36:17,720
+这次休斯甚至在墙上留了一副自己的画作
+Hughes even left a painting of his on the wall this time.
+
+654
+00:36:17,720 --> 00:36:19,940
+同样的签名  而且绝对是用血画的
+It's the same signature and it's definitely made of blood,
+
+655
+00:36:19,940 --> 00:36:23,250
+这让我想起梅芙的跟踪狂
+which got me thinking about Maeve's stalker.
+
+656
+00:36:23,440 --> 00:36:26,510
+如果这家伙是一个寻求认同的扭曲的艺术家
+If this guy's a tortured artist searching for approval,
+
+657
+00:36:26,510 --> 00:36:28,750
+那么他应该认为只有一种方法能得到认同
+in his mind there may be only one way to get it.
+
+658
+00:36:29,290 --> 00:36:30,550
+自杀
+Suicide.
+
+659
+00:36:30,600 --> 00:36:31,710
+多谢  里德
+Thanks, Reid.
+
+660
+00:36:42,690 --> 00:36:44,900
+我全身心地投入这些画作
+I put my heart and my soul into those paintings.
+
+661
+00:36:50,470 --> 00:36:53,340
+你将亲眼见证我卓越的创作能力
+You're going to get a first-hand look at what I'm capable of creating.
+
+662
+00:36:58,500 --> 00:36:59,640
+布莱恩·休斯  联邦调查局
+Bryan Hughes, FBI.
+
+663
+00:36:59,640 --> 00:37:02,540
+不  我必须让她看到
+No! I have to make her see.
+
+664
+00:37:03,730 --> 00:37:04,960
+把刀放下
+Put down the knife.
+
+665
+00:37:10,290 --> 00:37:11,860
+布莱恩  我明白
+Bryan, I understand.
+
+666
+00:37:12,530 --> 00:37:13,720
+不  你不明白
+No, you don't.
+
+667
+00:37:14,060 --> 00:37:15,930
+你怎么可能明白
+How could you possibly understand?
+
+668
+00:37:16,150 --> 00:37:17,640
+因为我看过你的大作
+Because I've seen your work.
+
+669
+00:37:18,160 --> 00:37:20,010
+我知道可能你现在还无人赏识
+And I know you may not be appreciated now,
+
+670
+00:37:20,010 --> 00:37:21,980
+但我向你保证  如果你放下刀
+but I promise you, if you put down the knife,
+
+671
+00:37:21,980 --> 00:37:25,260
+我会保证让世人欣赏到你的艺术
+I will make sure that people see your art,
+
+672
+00:37:25,260 --> 00:37:27,210
+而且没人能够忽视
+and no one will be able to ignore it.
+
+673
+00:37:27,210 --> 00:37:29,780
+这就是我想要的  那是我应得的
+It's all I want. I deserve that.
+
+674
+00:37:30,170 --> 00:37:33,270
+那就把刀放下  我们把这事解决
+Then put down the knife, and let's figure this out.
+
+675
+00:37:44,470 --> 00:37:47,270
+你知道梵高死前卖了多少幅画吗
+You know how many paintings Van Gogh sold before he died?
+
+676
+00:37:47,620 --> 00:37:49,060
+布莱恩  别犯傻
+Bryan, don't do it.
+
+677
+00:37:51,250 --> 00:37:52,400
+两幅
+Two.
+
+678
+00:37:54,900 --> 00:37:56,040
+他卖了两幅
+He sold two.
+
+679
+00:37:56,040 --> 00:37:58,270
+别逼我们出手
+Don't make us do this.
+
+680
+00:38:05,400 --> 00:38:07,200
+我必须让你看到我
+I gotta make you see me.
+
+681
+00:38:14,840 --> 00:38:16,070
+让急救人员到楼上来
+Get the EMTs upstairs.
+
+682
+00:38:16,070 --> 00:38:17,860
+这里还有一具尸体
+We've got another body over here.
+
+683
+00:38:57,990 --> 00:39:01,740
+我猜五篮
+Well, I counted 5 baskets.
+
+684
+00:39:01,860 --> 00:39:04,040
+七篮  但我觉得隔壁的卡瓦诺小姐
+7, but I think Ms. Cavanaugh next door
+
+685
+00:39:04,040 --> 00:39:05,460
+可能拿了几个走
+may have taken a couple.
+
+686
+00:39:07,540 --> 00:39:09,570
+真的很抱歉  如果我之前有点...
+I'm really sorry if I've been kind of...
+
+687
+00:39:09,570 --> 00:39:12,870
+斯宾塞  不用
+Spence. You don't...
+
+688
+00:39:13,980 --> 00:39:15,040
+孩子
+Kid.
+
+689
+00:39:15,110 --> 00:39:17,500
+我找你  不是为了让你到现场来帮忙
+I didn't mean for you to come all the way out there.
+
+690
+00:39:17,540 --> 00:39:18,510
+我知道
+I know.
+
+691
+00:39:20,360 --> 00:39:23,250
+如果你有任何需要
+Listen, if you need anything at all,
+
+692
+00:39:23,440 --> 00:39:24,720
+开口就好
+you just have to ask.
+
+693
+00:39:26,630 --> 00:39:27,530
+事实上  如果你们不介意的话
+Actually, if you guys don't mind,
+
+694
+00:39:27,540 --> 00:39:29,210
+我想请你们帮个忙
+I could use some help with something.
+
+695
+00:39:31,240 --> 00:39:32,290
+说
+Name it.
+
+696
+00:41:18,410 --> 00:41:21,280
+有时最难的并非放下过去
+"Sometimes the hardest part isn't letting go,
+
+697
+00:41:22,290 --> 00:41:25,420
+而是学会重新开始
+but rather, learning to start over."
+
+698
+00:41:26,040 --> 00:41:27,370
+作家妮可·索邦
+Nicole Sobon.
+
