@@ -8,10 +8,9 @@ our @EXPORT_OK={};
 require Encode;
 require Encode::Guess;
 
-# done
 # convert the input string to utf-8
-# @param $octets input string in any encoding
-# return $string output string in UTF8 format
+# @param octets input string in any encoding
+# return string output string in UTF8 format
 sub convToUTF8{
     $octets = shift;
     my $enc = Encode::Guess::guess_encoding($octets);
@@ -19,7 +18,6 @@ sub convToUTF8{
     return $string;
 }
 
-# done
 # read in sub files either in srt or ass and convert the startTime/stopTime/content
 # to a hash list
 # @param input file name
@@ -30,7 +28,7 @@ sub readInSubFile{
     my $isSrt=($subFile ~= /srt$/)? 1, 0;
     my @subLines;
     my @subList;
-    my
+
     open SUBFILE, $subFile or die "file $subFile does not exist";
     while (<SUBFILE>){
         push @subLines, $_;
