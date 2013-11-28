@@ -4,12 +4,15 @@ use strict;
 use warning;
 
 use Params::Validate qw(:all);
+use Log::Log4perl qw(:easy);
+
 require Encode::Guess;
+
+Log::Log4perl->easy_init($ERROR);
 
 our @EXPORT_OK={};
 
 =head1
-df
 
 =cut
 sub new{
@@ -20,7 +23,6 @@ sub new{
                            @_, {
                                 filename => { type => SCALAR }
                                 subHash => { type => HASHREF}
-                                debug => { default => 0 }
                                 dryrun => { default => 0 }
                                }
                           );
@@ -42,7 +44,6 @@ sub _readInSubFiles{
     my $subFile=$self->filename;
 
     # get all ext files of the filename
-
     foreach (@subFileList){
         my $isSrt=($_ ~= /srt$/)? 1, 0;
         my $subfilename=$_;
