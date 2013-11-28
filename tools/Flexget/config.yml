@@ -1,0 +1,68 @@
+presets:
+  global:
+    free_space:
+      path: /media/usb1
+      space: 5000
+    # Make filename Windows Safe (for samba)
+    pathscrub: windows
+    magnets: no
+    private_torrents: no
+    quality: 
+      - hdtv 
+      - 720p
+    content_filter:
+      require:
+        - '*.avi'
+        - '*.mp4'
+    # Reject common torrent trash
+    regexp:
+      reject:
+        # Block any subbed/dubbed/etc videos
+        # - (s|d)ub(s|bed)?\b: {from: title}
+        # Block series, only accept one at a time
+        - \b(duo|tri|quadri|tetra|penta)logy\b: {from: title}
+        # I don't have any 3D displays
+        - \b3-?D\b: {from: title}
+        # I've gotten a few trailers that matched as movies. VERY annoying
+        - \btrailer\b: {from: title}
+        # The following are poor quality types that somehow got through the quality
+        - \bR5\b: {from: title}
+        # usually due to the title including a keyword like "720p" as well
+        - \bWEBSCR\b: {from: title}
+        # bad quality sources, just in case
+        - \bscreener\b: {from: title}
+        - \bTS\b: {from: title}
+        - \bCam\b: {from: title}
+        - \bRAW\b: {from: title}
+        # Reject rar/packs/password
+        - \.rar|\.r\d\d|password.txt|\.zip
+
+tasks:
+  tvshows:
+    exists_series:
+      - /media/usb1/TV/
+    priority: 1
+    rss: http://www.ezrss.it/feed/
+    imdb_required: no
+    imdb:
+      reject_genres:
+        - action
+        - adventure
+        - biography
+        - crime
+        - documentary
+        - fantasy
+        - history
+        - horror
+        - mystery
+        - news
+        - sci-Fi
+        - sport
+        - thriller
+        - war
+        - western
+    deluge:
+      content_filename: "{{series_name}}.{{series_id|pad(2)}}[{{quality|replace('unknown','720p')}}]"
+      label: "{{series_name}}"
+      path: /media/usb1/torrents/
+      movedone: "/media/usb1/TV/"
