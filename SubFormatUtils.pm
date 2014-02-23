@@ -39,11 +39,13 @@ startTime/stopTime/content to a hash list
 
 =cut
 
-sub _readInSubFiles{ 
+sub _readInSubFiles{
     my $self=shift; # read in
     my $subFile=$self->filename;
 
     # get all ext files of the filename
+    # store the name in @subFileList
+
     foreach (@subFileList){
         my $isSrt=($_ ~= /srt$/)? 1, 0;
         my $subfilename=$_;
@@ -215,8 +217,8 @@ sub _mergeSubTime{
 
 =head1 pick subtitles for output
 
-needed: 
-1. dual language hash for rtf
+needed:
+1. dual language hash for lrc
 2. ass/srt origin dual language for video subs
 
 current: assume input only has ass subs
@@ -226,47 +228,17 @@ TODO: srt
 
 sub _pickOutputSubs{
     my $self=shift;
-    foreach $filename (%{$self->subHash})
-    if($filename=~'ass'){
-        # dual language check
-        # 
+    foreach $filename (%{$self->subHash}){
+        if($filename=~'ass'){
+            # dual language check
+            # 
+            return $filename
+        }
+        else {
+            #TODO for srt
+            # current remove
+        }
     }
-    else {
-        #TODO for srt
-        # current remove
-    }
-}
-
-=head1 generate rtf from sub Hash
-
-@param sublines hash: time:eng:chn 
-
-@return rtf string
-=cut
-
-sub genRtfSub{
-
-    @sublines =shift;
-
-    # prolog
-    $rtf= q[{\rtf1\ansi\deff0
-{\fonttbl
-{\f0\froman Times New Roman;}
-{\f1\fswiss Arial;}
-{\f2\fmodern Courier New;}
-}}];
-
-foreach my %subline @sublines {
-    # TODO: formatted string
-    $rtf .="[$subline{'time'}]";
-    $rtf .=$subline{'eng'};
-    $rtf .="|".$subline{'chn'};
-    $rtf .=" \par\n";
-}
-
-# end file
-$rtf .= "\n\\par}\n\n";
-    return $rtf;
 }
 
 sub genLrcSub{
@@ -276,3 +248,5 @@ sub genLrcSub{
 sub genSubs{
 
 }
+
+1;
