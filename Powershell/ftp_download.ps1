@@ -11,8 +11,8 @@ Param(
 
 $Username = "pi" 
 $Password = "raspberry"
-$DownloadFolder = "C:/Download/" #Local folder
-$ftpServer ="ftp://192.168.1.7" #ftp folder path
+$DownloadFolder = "C:/Users/baodepei/Videos/TV_new" #Local folder
+$ftpServer ="ftp://10.0.0.4" #ftp folder path
 $message="failed"
 
 if($ftpServer.endsWith("/") -eq $False)  

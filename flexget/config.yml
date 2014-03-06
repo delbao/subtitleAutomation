@@ -7,9 +7,10 @@ presets:
     pathscrub: windows
     magnets: no
     private_torrents: no
-    quality: 
-      - hdtv 
-      - 720p
+    # quality: 
+    #   - hdtv 
+    #   - 720p
+    #   - dvdrip
     content_filter:
       require:
         - '*.avi'
@@ -36,15 +37,29 @@ presets:
         - \bRAW\b: {from: title}
         # Reject rar/packs/password
         - \.rar|\.r\d\d|password.txt|\.zip
-
-tasks:
   tvshows:
     exists_series:
       - /media/usb1/TV/
     priority: 1
-    rss: http://www.ezrss.it/feed/
+    deluge:
+      content_filename: "{{series_name}}.{{series_id|pad(2)}}[{{quality|replace('unknown','720p')}}]"
+      label: "{{series_name}}"
+      path: /media/usb1/torrents/
+      movedone: "/media/usb1/TV/"
+  movies:
+    exists_series:
+      - /media/usb1/Movie/
+    priority: 1
+    deluge:
+      path: /media/usb1/torrents/
+      movedone: "/media/usb1/Movie/"
+
+  imdbs:
     imdb_required: no
     imdb:
+      min_year: 1999
+      accept_languages:
+        - english
       reject_genres:
         - action
         - adventure
@@ -54,15 +69,39 @@ tasks:
         - fantasy
         - history
         - horror
-        - mystery
         - news
         - sci-Fi
         - sport
         - thriller
         - war
         - western
-    deluge:
-      content_filename: "{{series_name}}.{{series_id|pad(2)}}[{{quality|replace('unknown','720p')}}]"
-      label: "{{series_name}}"
-      path: /media/usb1/torrents/
-      movedone: "/media/usb1/TV/"
+
+tasks:
+  tvimdb:
+    preset: 
+      - tvshows
+      - imdbs
+    inputs:
+      - rss: http://www.ezrss.it/feed/
+      - rss: http://showrss.info/feeds/all.rss
+  movie:
+    preset: 
+      - movies
+      - imdbs
+    inputs:
+      - rss: http://rss.thepiratebay.se/201
+      - rss: http://movieboot.com/rss/a3ad73378bc63e45cdcdc5bd47376f1d/
+    quality:
+      - hdtv
+      - 720p
+      - dvdrip
+      - xvid
+      - hdrip
+  # tvrt:
+  #   preset: tvshows
+  #   rss: http://www.ezrss.it/feed/
+  #   manipulate:
+  #     - title:
+  #         extract: (.*)\d{1,2}x\d{1,2}
+  #   rottentomatoes:
+  #     reject_genres: [Action & Adsventure, Art House & International, Horror, Mystery & Suspense, Science Fiction & Fantasy, Documentary, Musical & Performing Arts, Special Interest, Sports & Fitness, Western]        
