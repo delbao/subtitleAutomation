@@ -3,9 +3,7 @@
 import os
 import sys
 import hashlib
-import urllib
 import urllib2
-import gzip
 import zlib
 from srtmerge import srtmerge
 import subdl
@@ -21,26 +19,25 @@ contentType = 'multipart/form-data; boundary=----------------------------767a02e
 boundary = '----------------------------767a02e50d82'
 
 
-# filePath = 'F:\Videos\Game Of Thrones\Game.Of.Thrones.1x01.Winter.Is.Coming.720p.HDTV.x264-CTU.[tvu.org.ru].mkv'
+# file_path = 'F:\Videos\Game Of Thrones\Game.Of.Thrones.1x01.Winter.Is.Coming.720p.HDTV.x264-CTU.[tvu.org.ru].mkv'
 def hash(path):
     fp = open(path, "rb")
     file_length = os.path.getsize(path)
 
-    if (file_length < 8192):
-        return "";
+    if file_length < 8192:
+        return ""
     else:
-        block_size = 4096;
-        num_of_segments = 4;
+        block_size = 4096
         offset = [block_size, file_length / 3 * 2, file_length / 3, file_length - 8192]
         hash_result = ""
         for i in range(0, 4):
 
             fp.seek(int(offset[i]))
             data_block = fp.read(block_size)
-            hashstr = hashlib.md5(data_block)
-            if (len(hash_result) > 0):
+            hash_str = hashlib.md5(data_block)
+            if len(hash_result) > 0:
                 hash_result += ";"
-            hash_result += hashstr.hexdigest().lower()
+            hash_result += hash_str.hexdigest().lower()
         # print hash_result
         return hash_result
 
@@ -51,26 +48,26 @@ def byte2int(bstr, width):
     """
     val = sum(ord(b) << 8 * n for (n, b) in enumerate(reversed(bstr)))
     if val >= (1 << (width - 1)):
-        val = val - (1 << width)
+        val -= (1 << width)
     return val
 
 
-def srtLang(buffer):
+def str_lang(input_buffer):
     count_chs = 0
     count_eng = 0
-    for b in buffer:
-        if (lang(b) == 'chs'):
-            count_chs = count_chs + 1
+    for b in input_buffer:
+        if lang(b) == 'chs':
+            count_chs += 1
         elif lang(b) == 'eng':
-            count_eng = count_eng + 1
+            count_eng += 1
 
-    if (count_chs > 1000 and count_eng > len(buffer) / 5):
+    if count_chs > 1000 and count_eng > len(input_buffer) / 5:
         print "chs_eng srt is confirmed"
         return 'chs_eng'
-    elif (count_chs > 1000):
+    elif count_chs > 1000:
         print "chs srt is confirmed"
         return 'chs'
-    elif count_eng > len(buffer) / 5:
+    elif count_eng > len(input_buffer) / 5:
         print 'eng srt is confirmed'
         return 'eng'
     else:
@@ -78,25 +75,24 @@ def srtLang(buffer):
 
 
 def lang(uchar):
-    if uchar >= u'\u4e00' and uchar <= u'\u9fa5':
+    if u'\u4e00' <= uchar <= u'\u9fa5':
         return 'chs'
-    if uchar >= u'a' and uchar <= u'z':
+    if u'a' <= uchar <= u'z':
         return 'eng'
 
 
-def querySub(hashString, filePath):
-    i_headers = {"User-Agent": userAgent, "Content-Type": contentType}
+def query_sub(hash_string, file_path):
     postdata = '------------------------------767a02e50d82'
     postdata += "\r\n"
     postdata += 'Content-Disposition: form-data; name="pathinfo"'
     postdata += "\r\n\r\n"
-    postdata += filePath
+    postdata += file_path
     postdata += "\r\n"
     postdata += '------------------------------767a02e50d82'
     postdata += "\r\n"
     postdata += 'Content-Disposition: form-data; name="filehash"'
     postdata += "\r\n\r\n"
-    postdata += hashString
+    postdata += hash_string
     postdata += "\r\n"
     postdata += '------------------------------767a02e50d82--'
     postdata += "\r\n"
@@ -106,200 +102,182 @@ def querySub(hashString, filePath):
     req.add_header('User-Agent', userAgent)
     req.add_header('Connection', "Keep-Alive")
     req.add_header('Content-Type', contentType)
-    # print postdata
     res = urllib2.urlopen(req, postdata)
 
     if res.getcode() == 200:
-        print 'connect to shooter.cn: ok'
+        print
+        'connect to shooter.cn: ok'
 
-    if (res.getcode() == 200):
-        statCode = res.read(1)
+    if res.getcode() == 200:
+        stat_code = res.read(1)
 
-        if (len(statCode) == 0):
+        if len(stat_code) == 0:
             print("no data from shooter.cn")
             return 'none', 'none'
-        statCode = byte2int(statCode, 8)
-        if (statCode == -1):
+        stat_code = byte2int(stat_code, 8)
+        if stat_code == -1:
             print("subtitle not found from shooter.cn")
             return 'none', 'none'
-        if (statCode < 0):
+        if stat_code < 0:
             print("data connection error from shooter.cn")
             return 'none', 'none'
-        print "statCode is:", statCode
-        for i in range(0, statCode):
-            packageLen = byte2int(res.read(4), 32)
+        print "stat_code is:", stat_code
+        for i in range(0, stat_code):
+            desc_len = byte2int(res.read(4), 32)
+            if desc_len > 0:
+                res.read(desc_len)
 
-            descLen = byte2int(res.read(4), 32)
-            if (descLen > 0):
-                desc = res.read(descLen)
+            byte2int(res.read(4), 32)
+            num_of_files = res.read(1)
 
-            fileDataLen = byte2int(res.read(4), 32)
-            numOfFiles = res.read(1)
-
-            if (len(numOfFiles) == 0):
+            if len(num_of_files) == 0:
                 print("no file")
                 continue
-            numOfFiles = byte2int(numOfFiles, 8)
-            print 'find ' + str(numOfFiles) + ' sub file from shooter.cn'
-            for j in range(0, numOfFiles):
-                singleFilePackLen = byte2int(res.read(4), 32)
-                extLen = byte2int(res.read(4), 32)
-                ext = res.read(extLen)
-                extString = ext.decode('utf-8', 'ignore')
+            num_of_files = byte2int(num_of_files, 8)
+            print 'find ' + str(num_of_files) + ' sub file from shooter.cn'
+            for j in range(0, num_of_files):
+                byte2int(res.read(4), 32)
+                ext_len = byte2int(res.read(4), 32)
+                ext = res.read(ext_len)
+                ext_string = ext.decode('utf-8', 'ignore')
 
-                fileLen = byte2int(res.read(4), 32)
-                buffer = res.read(fileLen)
-                print extString + ' file found'
-                # if(extString!='srt'):
-                #    print "not srt file, continue..."
-                #   continue
-                bGzipped = (buffer[0] == '\x1f') & (buffer[1] == '\x8b') & (buffer[2] == '\x08')
+                file_len = byte2int(res.read(4), 32)
+                buffer_ = res.read(file_len)
+                print ext_string + ' file found'
+                bGzipped = (buffer_[0] == '\x1f') & (buffer_[1] == '\x8b') & (buffer_[2] == '\x08')
                 if (bGzipped):
                     d = zlib.decompressobj(16 + zlib.MAX_WBITS)
-                    buffer = d.decompress(buffer)
+                    buffer_ = d.decompress(buffer_)
 
-                result = chardet.detect(buffer)
+                result = chardet.detect(buffer_)
                 encoding = result["encoding"]
-                buffer = buffer.decode(encoding, 'ignore').encode('utf-8')
+                buffer_ = buffer_.decode(encoding, 'ignore').encode('utf-8')
                 p = re.compile('{.*}|<.*>')
-                buffer = p.sub('', buffer)
-                buffer = buffer.decode('utf-8', 'ignore')
-                if extString == 'ass':
+                buffer_ = p.sub('', buffer_)
+                buffer_ = buffer_.decode('utf-8', 'ignore')
+                if ext_string == 'ass':
                     print 'converting ass file to srt file'
-
-                    buffer = ass2srt.convert(buffer)
-                    extString = 'srt'
-
-                #                    fp_tmp_ass = open('tmp.ass','w')
-                #                    fp_tmp_ass.write(buffer.encode('utf-8'))
-                #                    fp_tmp_ass.close()
-                #                    ass2srt.main(['tmp.ass'])
-                #                    fp_tmp_srt = open('tmp.ass.srt','r')
-                #                    buffer = fp_tmp_srt.read()
-                #                    fp_tmp_srt.close()
-                #
-
-                dirname, basename = os.path.split(filePath)
-                root, extension = os.path.splitext(filePath)
-                md5 = hashlib.md5(buffer).hexdigest() + "\n"
-                # print md5,blacklist.count(md5)
-                if (blacklist.count(md5) > 0):
+                    buffer_ = ass2srt.convert(buffer_)
+                    ext_string = 'srt'
+                os.path.split(file_path)
+                root, extension = os.path.splitext(file_path)
+                md5 = hashlib.md5(buffer_).hexdigest() + "\n"
+                if blacklist.count(md5) > 0:
                     print 'this file is marked in blacklist'
                     continue
 
-                srtlang = srtLang(buffer)
-                if srtlang == 'none':
+                str_lang_ = str_lang(buffer_)
+                if str_lang_ == 'none':
                     print 'no file find from shooter.cn'
                     return 'none', 'none'
-                if (srtlang == 'chs_eng'):
-                    filename = root + ".chs_eng." + extString
-                if (srtlang == 'chs'):
-                    filename = root + ".chs." + extString
-                if (srtlang == 'eng'):
-                    filename = root + ".eng." + extString
+                if str_lang_ == 'chs_eng':
+                    file_name = root + ".chs_eng." + ext_string
+                if str_lang_ == 'chs':
+                    file_name = root + ".chs." + ext_string
+                if str_lang_ == 'eng':
+                    file_name = root + ".eng." + ext_string
 
-
-                    #  if(os.path.exists(filename)):
-                    #      print filename+' exsited,bypassing'
-                    #      return filename,srtlang
-                fp_output = codecs.open(filename, "w")
-                fp_output.write(buffer.encode('utf-8'))
+                fp_output = codecs.open(file_name, "w")
+                fp_output.write(buffer_.encode('utf-8'))
                 fp_output.close()
 
-                return filename, srtlang
+                return file_name, str_lang
 
     return '', 'none'
 
-    # print(content)
 
-
-def srt2lrc(srtFile):
+def srt2lrc():
     return ''
 
 
-def getShooterSub(filePath):
-    hashstr = hash(filePath)
-    return querySub(hashstr, filePath)
+def get_shooter_sub(file_path):
+    hash_str = hash(file_path)
+    return query_sub(hash_str, file_path)
 
 
-def getOpenSubtitlesSub(filePath, lang='eng'):
-    argv = ['--existing=overwrite', '--lang=' + lang, filePath]
+def get_open_subtitles_sub(file_path, lang='eng'):
+    argv = ['--existing=overwrite', '--lang=' + lang, file_path]
     return subdl.main(argv)
 
 
-def processFile(filePath):
+def process_file(file_path):
     """
 
-    Returns:
-        object: 
+    Returns:sub_openSubtitles
+        object:
     """
     if not os.path.exists(f):
         print f + ' is not existed'
         return
-    dirname, basename = os.path.split(filePath)
-    root, extension = os.path.splitext(filePath)
+    dir_name, basename = os.path.split(file_path)
+    root, extension = os.path.splitext(file_path)
     print 'PROCESSING FILE:' + basename
-    print '\033[0m'
+    console_without_color()
     if os.path.exists(root + ".lrc"):
         print 'lrc file existed,quit now!'
         return
 
-    sub_shooter, lang = getShooterSub(filePath)
-    if (lang == 'chs_eng'):
+    sub_shooter, lang = get_shooter_sub(file_path)
+    if lang == 'chs_eng':
         srtmerge([sub_shooter], root + ".combined.srt", 0, 1)
-
         return
-    if (lang == 'chs'):
-        sub_eng = getOpenSubtitlesSub(filePath)
-
+    if lang == 'chs':
+        sub_eng = get_open_subtitles_sub(file_path)
         if not sub_eng:
-            print '\033[1;31;40m'
+            console_color_yellow()
             print 'english sub file not found'
-            print '\033[0m'
-
+            console_without_color()
             srtmerge([sub_shooter], root + ".combined.srt", 0, 2)
-            return
-        srtmerge([sub_eng, sub_shooter], root + ".combined.srt", 0)
+            return srtmerge([sub_eng, sub_shooter], root + ".combined.srt", 0)
 
     if lang == 'eng':
-        sub_openSubtitles = getOpenSubtitlesSub(filePath, 'chs')
+        open_subtitle = get_open_subtitles_sub(file_path, 'chs')
 
-        if not sub_openSubtitles:
-            print '\033[1;31;40m'
+        if not open_subtitle:
+            console_color_yellow()
             print 'chinese sub file not found'
-            print '\033[0m'
+            console_without_color()
             srtmerge([sub_shooter], root + ".combined.srt", 0, 2)
-            return
-        srtmerge([sub_shooter, sub_openSubtitles], root + ".combined.srt", 0)
+            return srtmerge([sub_shooter, open_subtitle], root + ".combined.srt", 0)
 
     if lang == 'none':
-        sub_openSubtitles_chs = getOpenSubtitlesSub(filePath, 'chs')
-
-        sub_openSubtitles_eng = getOpenSubtitlesSub(filePath)
-        if sub_openSubtitles_eng and sub_openSubtitles_chs:
-            srtmerge([sub_openSubtitles_chs, sub_openSubtitles_eng], root + ".combined.srt", 0)
-
+        open_subtitle_chs = get_open_subtitles_sub(file_path, 'chs')
+        open_subtitle_eng = get_open_subtitles_sub(file_path)
+        if open_subtitle_eng and open_subtitle_chs:
+            srtmerge([open_subtitle_chs, open_subtitle_eng], root + ".combined.srt", 0)
             return
-        if sub_openSubtitles_eng:
-            srtmerge([sub_openSubtitles_eng], root + ".combined.srt", 0, 2)
-
-            print '\033[1;31;40m'
+        if open_subtitle_eng:
+            srtmerge([open_subtitle_eng], root + ".combined.srt", 0, 2)
+            console_color_yellow()
             print 'chinese sub file not found'
-            print '\033[0m'
-
+            console_without_color()
             return
-        if sub_openSubtitles_chs:
-            srtmerge([sub_openSubtitles_chs], root + ".combined.srt", 0, 2)
-            print '\033[1;31;40m'
+        if open_subtitle_chs:
+            srtmerge([open_subtitle_chs], root + ".combined.srt", 0, 2)
+            console_color_yellow()
             print 'english sub file not found'
-            print '\033[0m'
+            console_without_color()
             return
-        print '\033[1;31;40m'
+        console_color_yellow()
         print 'NO SUB FILE FOUND'
-        unfound_file.append(filePath)
-        print '\033[0m'
+        unfound_file.append(file_path)
+        console_without_color()
     if os.path.exists(root + '.lrc'):
-        lrc = open(root + '.lrc', 'rw').read()
+        open(root + '.lrc', 'rw').read()
+
+
+def console_color_yellow():
+    print '\033[1;31;40m'
+
+
+def console_without_color():
+    print '\033[0m'
+
+
+def color_mess(mess):
+    console_color_yellow()
+    print mess
+    console_without_color()
 
 
 reload(sys)
@@ -308,19 +286,16 @@ if not os.path.exists('blacklist'):
     os.mknod('blacklist')
 unfound_file = []
 blacklist = open('blacklist', 'r').readlines()
-filePath = sys.argv[1:]
-for f in filePath:
-    print '\033[1;32;40m'
+file_path = sys.argv[1:]
+for f in file_path:
+    console_color_yellow()
     print '*' * 80
     try:
-        processFile(f)
-
+        process_file(f)
     except Exception, e:
-        print '\033[1;31;40m'
-        print e
-        print '\033[0m'
+        color_mess(e)
 
-    print '\033[1;32;40m'
+    console_color_yellow()
     print '*' * 80
 if len(unfound_file) > 0:
     print('CAN NOT FIND ANY SUB FILE FOR THESE FILES:\n')
