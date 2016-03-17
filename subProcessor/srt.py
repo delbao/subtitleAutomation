@@ -172,7 +172,7 @@ def lrc_writer(file_path, subtitles, mode=0):
             time = ms2time(last_finish, 2)
             mark = '<R0>'
             text = ''
-            lines.append("[{_time}]{_mark}{_text}\n".format(_time=time, _mark=mark, _text=text).encode('gb18030'))    
+            lines.append("[{_time}]{_mark}{_text}\n".format(_time=time, _mark=mark, _text=text).encode('gb18030'))
         last_finish = rec.finish
         duration = rec.finish - rec.start
         time = ms2time(rec.start, 2)

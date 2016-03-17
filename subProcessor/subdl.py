@@ -3,6 +3,16 @@
 # subdl - command-line tool to download subtitles from opensubtitles.org.
 #
 # Uses code from subdownloader (a GUI app).
+import os
+import sys
+import struct
+import xmlrpclib
+import StringIO
+import gzip
+import base64
+import getopt
+import det
+import codecs
 
 __doc__ = '''\
 Syntax: subdl [options] moviefile.avi
@@ -11,7 +21,7 @@ Subdl is a command-line tool for downloading subtitles from opensubtitles.org.
 
 By default, it will search for English subtitles, display the results,
 download the highest-rated result in the requested language and save it to the
-appropriate filename.
+appropriate file_name.
 
 Options:
   --help               This text
@@ -24,7 +34,7 @@ Options:
   --download=all       Download all search results.
   --download=query     Query which search result to download.
   --download=none, -n  Display search results and exit.
-  --output=OUTPUT      Output to specified output filename.  Can include the
+  --output=OUTPUT      Output to specified output file_name.  Can include the
                        following format specifiers:
                          %I subtitle id
                          %m movie file base      %M movie file extension
@@ -33,9 +43,9 @@ Options:
                        Default is "%m.%S"; if multiple languages are searched,
                        then the default is "%m.%L.%S"; if --download=all, then
                        the default is "%m.%L.%I.%S".
-  --existing=abort     Abort if output filename already exists [default].
-  --existing=bypass    Exit gracefully if output filename already exists.
-  --existing=overwrite Overwrite if output filename already exists.
+  --existing=abort     Abort if output file_name already exists [default].
+  --existing=bypass    Exit gracefully if output file_name already exists.
+  --existing=overwrite Overwrite if output file_name already exists.
   --existing=query     Query whether to overwrite.
   --interactive, -i    Equivalent to --download=query --existing=query.
   '''
@@ -50,61 +60,60 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 http://code.google.com/p/subdl/'''
 
-import os, sys
-import struct
-import xmlrpclib
-import StringIO, gzip, base64
-import getopt
-import det
-import codecs
 osdb_server = "http://api.opensubtitles.org/xml-rpc"
 xmlrpc_server = xmlrpclib.Server(osdb_server)
 login = xmlrpc_server.LogIn("", "", "en", NAME)
 osdb_token = login["token"]
 
-class Options: pass
-options = Options()
-options.lang = 'eng'
-options.download = 'first'
-options.output = None
-options.existing = 'abort'
+options = {'lang': 'eng',
+           'download': 'first',
+           'output': None,
+           'existing': 'abort'
+           }
 
-class SubtitleSearchResult:
+
+class subtitle_search_result:
     def __init__(self, dict):
         self.__dict__ = dict
 
-def file_ext(filename):
-    return filename[filename.rfind('.')+1:]
 
-def file_base(filename):
-    return filename[:filename.rfind('.')]
+def file_ext(file_name):
+    return file_name[file_name.rfind('.') + 1:]
 
-def gunzipstr(zs):
+
+def file_base(file_name):
+    return file_name[:file_name.rfind('.')]
+
+
+def g_unzip_str(zs):
     return gzip.GzipFile(fileobj=StringIO.StringIO(zs)).read()
 
-def writefile(filename, str):
-    try:
-        open(filename,'wb').write(str)
-    except Exception, e:
-        raise SystemExit ("Error writing to %s: %s" %(filename, e))
 
-def query_num(s, min, max):
+def writefile(file_name, str_):
+    try:
+        open(file_name, 'wb').write(str_)
+    except Exception, e:
+        raise SystemExit("Error writing to %s: %s" % (file_name, e))
+
+
+def query_num(s, min_, max_):
     while True:
-        print s,
+        print s
         try:
             n = raw_input()
         except KeyboardInterrupt:
             raise SystemExit("Aborted")
         try:
             n = int(n)
-            if n >= min and n <= max:
+            if min_ <= n <= max_:
                 return n
         except:
             pass
 
+
 def query_yn(s):
     while True:
-        print s,
+        print s
         try:
             s = raw_input().lower()
         except KeyboardInterrupt:
@@ -114,190 +123,200 @@ def query_yn(s):
         elif s.startswith('n'):
             return False
 
-def movie_hash(name):
-    longlongformat = '<Q'
-    bytesize = struct.calcsize(longlongformat)
-    assert bytesize == 8
-    f = open(name, "rb")
-    filesize = os.path.getsize(name)
-    hash = filesize
-    if filesize < 65536 * 2:
-        raise Exception("Error hashing %s: file too small" %(name))
-    for x in range(65536/bytesize):
-        hash += struct.unpack(longlongformat, f.read(bytesize))[0]
-        hash &= 0xFFFFFFFFFFFFFFFF
-    f.seek(filesize-65536,0)
-    for x in range(65536/bytesize):
-        hash += struct.unpack(longlongformat, f.read(bytesize))[0]
-        hash &= 0xFFFFFFFFFFFFFFFF
-    f.close()
-    return "%016x" % hash
 
-def SearchSubtitles(filename, langs_search):
-    moviehash = movie_hash(filename)
-    moviebytesize = os.path.getsize(filename)
-    searchlist = [({'sublanguageid':langs_search,
-                    'moviehash':moviehash,
-                    'moviebytesize':str(moviebytesize)})]
-    print >>sys.stderr, "Searching for subtitles for moviehash=%s..." %(moviehash)
+def movie_hash(name):
+    longlong_format = '<Q'
+    byte_size = struct.calcsize(longlong_format)
+    assert byte_size == 8
+    f = open(name, "rb")
+    file_size = os.path.getsize(name)
+    hash_ = file_size
+    if file_size < 65536 * 2:
+        raise Exception("Error hashing %s: file too small" % name)
+    for x in range(65536 / byte_size):
+        hash_ += struct.unpack(longlong_format, f.read(byte_size))[0]
+        hash_ &= 0xFFFFFFFFFFFFFFFF
+    f.seek(file_size - 65536, 0)
+    for x in range(65536 / byte_size):
+        hash_ += struct.unpack(longlong_format, f.read(byte_size))[0]
+        hash_ &= 0xFFFFFFFFFFFFFFFF
+    f.close()
+    return "%016x" % hash_
+
+
+def search_subtitles(file_name, langs_search):
+    movie_hash_ = movie_hash(file_name)
+    movie_byte_size = os.path.getsize(file_name)
+    search = [({'sublanguageid': langs_search,
+                'moviehash': movie_hash_,
+                'movie_byte_size': str(movie_byte_size)})]
+    print >> sys.stderr, "Searching for subtitles for moviehash=%s..." % movie_hash_
     try:
-        results = xmlrpc_server.SearchSubtitles(osdb_token,searchlist)
+        results = xmlrpc_server.search_subtitles(osdb_token, search)
     except Exception, e:
-        raise SystemExit("Error in XMLRPC SearchSubtitles call: %s"%e)
+        raise SystemExit("Error in XMLRPC search_subtitles call: %s" % e)
     data = results['data']
-    return data and [SubtitleSearchResult(d) for d in data]
+    return data and [subtitle_search_result(d) for d in data]
+
 
 def format_movie_name(s):
     if s.startswith('"') and s.endswith('"'):
         s = s[1:-1]
     s = s.replace('"', "'")
-    return '"%s"' %s
+    return '"%s"' % s
 
-def DisplaySubtitleSearchResults(search_results):
-    print "Found %d results:" %(len(search_results))
-    idsubtitle_maxlen = 0
-    moviename_maxlen = 0
-    downloads_maxlen = 0
+
+def display_subtitle_search_results(search_results):
+    print
+    "Found %d results:" % (len(search_results))
+    id_subtitle_max_len = 0
+    movie_name_max_len = 0
+    downloads_max_len = 0
     for subtitle in search_results:
-        idsubtitle = subtitle.IDSubtitleFile
-        idsubtitle_maxlen = max(idsubtitle_maxlen, len(idsubtitle))
-        moviename = format_movie_name(subtitle.MovieName)
-        moviename_maxlen = max(moviename_maxlen, len(moviename))
+        id_subtitle = subtitle.IDSubtitleFile  # file = args
+        id_subtitle_max_len = max(id_subtitle_max_len, len(id_subtitle))
+        movie_name = format_movie_name(subtitle.MovieName)
+        movie_name_max_len = max(movie_name_max_len, len(movie_name))
         downloads = subtitle.SubDownloadsCnt
-        downloads_maxlen = max(downloads_maxlen, len(downloads))
-
+        downloads_max_len = max(downloads_max_len, len(downloads))
     n = 0
-    count_maxlen = len(`len(search_results)`)
+    max_len = len(`len(search_results)`)
     for subtitle in search_results:
         n += 1
-        idsubtitle = subtitle.IDSubtitleFile
+        id_subtitle = subtitle.IDSubtitleFile
         lang = subtitle.ISO639
-        # langn = subtitle.LanguageName
-        # str_uploader = subtitle.UserNickName or "Anonymous"
-        moviename = format_movie_name(subtitle.MovieName)
-        filename = subtitle.SubFileName
+        movie_name = format_movie_name(subtitle.MovieName)
+        file_name = subtitle.Subfile_name
         rating = subtitle.SubRating
         downloads = subtitle.SubDownloadsCnt
-        # idmovie = subtitle.IDMovie
-        # idmovieimdb = subtitle.IDMovieImdb
-        print '',
-        if options.download == 'query':
-            print "%s."%`n`.rjust(count_maxlen),
-        print "#%s [%s] [Rat:%s DL:%s] %s %s "%(idsubtitle.rjust(idsubtitle_maxlen),
-                                                lang,
-                                                rating.rjust(4),
-                                                downloads.rjust(downloads_maxlen),
-                                                moviename.ljust(moviename_maxlen),
-                                                filename)
+        print ''
+        if options['download'] == 'query':
+            print "%s." % repr(n).rjust(max_len),
+        print "#%s [%s] [Rat:%s DL:%s] %s %s " % (id_subtitle.rjust(id_subtitle_max_len),
+                                                  lang,
+                                                  rating.rjust(4),
+                                                  downloads.rjust(downloads_max_len),
+                                                  movie_name.ljust(movie_name_max_len),
+                                                  file_name)
 
-def DownloadSubtitle(sub_id):
-    '''Download subtitle #sub_id and return subtitle text as string.'''
+
+def download_subtitle(sub_id):
     try:
-        answer = xmlrpc_server.DownloadSubtitles(osdb_token,[sub_id])
+        answer = xmlrpc_server.DownloadSubtitles(osdb_token, [sub_id])
         subtitle_compressed = answer['data'][0]['data']
     except Exception, e:
-        raise SystemExit("Error in XMLRPC DownloadSubtitles call: %s"%e)
-    return gunzipstr(base64.decodestring(subtitle_compressed))
+        raise SystemExit("Error in XMLRPC DownloadSubtitles call: %s" % e)
+    return g_unzip_str(base64.decodestring(subtitle_compressed))
 
-def DownloadAndSaveSubtitle(sub_id,destfilename):
-    if os.path.exists(destfilename):
-        if options.existing == 'abort':
-            print "Subtitle %s already exists; aborting (try --interactive)."%destfilename
+
+def download_and_save_subtitle(sub_id, destfile_name):
+    if os.path.exists(destfile_name):
+        if options['existing'] == 'abort':
+            print "Subtitle %s already exists; aborting (try --interactive)." % destfile_name
             raise SystemExit(3)
-        elif options.existing == 'bypass':
-            print "Subtitle %s already exists; bypassing."%destfilename
+        elif options['existing'] == 'bypass':
+            print "Subtitle %s already exists; bypassing." % destfile_name
             return
-        elif options.existing == 'overwrite':
-            print "Subtitle %s already exists; overwriting."%destfilename
-        elif options.existing == 'query':
-            if query_yn("Subtitle %s already exists.  Overwrite [y/n]?"%destfilename):
+        elif options['existing'] == 'overwrite':
+            print "Subtitle %s already exists; overwriting." % destfile_name
+        elif options['existing'] == 'query':
+            if query_yn("Subtitle %s already exists.  Overwrite [y/n]?" % destfile_name):
                 pass
             else:
                 raise SystemExit("File not overwritten.")
         else:
-            raise Exception("internal error: bad option.existing=%s"%options.existing)
-    print >>sys.stderr, "Downloading #%s to %s..." %(sub_id, destfilename),
-    s = DownloadSubtitle(sub_id)
+            raise Exception("internal error: bad option.existing=%s" % options['existing'])
+    print >> sys.stderr, "Downloading #%s to %s..." % (sub_id, destfile_name),
+    s = download_subtitle(sub_id)
     if s[:3] == codecs.BOM_UTF8:
         s = s[3:]
     s = s.decode('utf-8', 'replace')
-    if det.isEnglish(s):
-        print "test"
-        writefile(destfilename, s)
-        print >>sys.stderr, "done, wrote %d bytes."%(len(s))
+    if det.is_english(s):
+        print
+        "test"
+        writefile(destfile_name, s)
+        print >> sys.stderr, "done, wrote %d bytes." % (len(s))
         return 'ok'
     else:
         return 'none'
 
-def replace_fmt(input, replacements):
+
+def replace_fmt(input_, replacements):
     output = ''
     i = 0
-    while i < len(input):
-        c = input[i]
+    while i < len(input_):
+        c = input_[i]
         if c == '%':
             i += 1
-            c = input[i]
+            c = input_[i]
             try:
                 output += replacements[c]
             except:
-                raise SystemExit("Bad '%%s' in format specifier" %c)
+                raise SystemExit("Bad '%%s' in format specifier" % c)
         else:
             output += c
         i += 1
     return output
 
-def format_subtitle_output_filename(videoname, search_result):
-    subname = search_result.SubFileName
+
+def format_subtitle_output_file_name(video_name, search_result):
+    sub_name = search_result.Subfile_name
     repl = {
         '%': '%',
         'I': search_result.IDSubtitleFile,
-        'm': file_base(videoname), 'M': file_ext(videoname),
-        's': file_base(subname),   'S': file_ext(subname),
+        'm': file_base(video_name), 'M': file_ext(video_name),
+        's': file_base(sub_name), 'S': file_ext(sub_name),
         'l': search_result.LanguageName,
         'L': search_result.ISO639
-        }
-    output_filename = replace_fmt(options.output, repl)
-    assert output_filename != videoname
-    return output_filename
+    }
+    output_file_name = replace_fmt(options['output'], repl)
+    assert output_file_name != video_name
+    return output_file_name
 
-def AutoDownloadAndSave(videoname, search_result, downloaded = None):
-    output_filename = format_subtitle_output_filename(videoname, search_result)
+
+def auto_download_and_save(video_name, search_result, downloaded=None):
+    output_file_name = format_subtitle_output_file_name(video_name, search_result)
     if downloaded is not None:
-        if output_filename in downloaded:
-            raise SystemExit("Already wrote to %s!  Uniquify output filename format."%output_filename)
-        downloaded[output_filename] = 1
-    res = DownloadAndSaveSubtitle(search_result.IDSubtitleFile, output_filename)
+        if output_file_name in downloaded:
+            raise SystemExit("Already wrote to %s!  Uniquely output file format." % output_file_name)
+        downloaded[output_file_name] = 1
+    res = download_and_save_subtitle(search_result.IDSubtitleFile, output_file_name)
     if res == 'none':
         return 'none'
     else:
-        return output_filename
+        return output_file_name
 
-def select_search_result_by_id(id, search_results):
+
+def select_search_result_by_id(id_, search_results):
     for search_result in search_results:
-        if search_result.IDSubtitleFile == id:
+        if search_result.IDSubtitleFile == id_:
             return search_result
-    raise SystemExit("Search results did not contain subtitle with id %s"%id)
+    raise SystemExit("Search results did not contain subtitle with id %s" % id_)
 
-def help():
+
+def help_():
     print __doc__
     raise SystemExit
 
-def isnumber(value):
+
+def is_number(value):
     try:
         return int(value) > 0
     except:
         return False
 
-def ListLanguages():
-    languages = xmlrpc_server.GetSubLanguages('')['data']
-    for language in languages:
+
+def languages():
+    languages_ = xmlrpc_server.GetSubLanguages('')['data']
+    for language in languages_:
         print language['SubLanguageID'], language['ISO639'], language['LanguageName']
     raise SystemExit
 
+
 def default_output_fmt():
-    if options.download == 'all':
+    if options['download'] == 'all':
         return "%m.%L.%I.%S"
-    elif options.lang == 'all' or ',' in options.lang:
+    elif options['lang'] == 'all' or ',' in options['lang']:
         return "%m.%L.%S"
     else:
         return "%m.%S"
@@ -306,85 +325,78 @@ def default_output_fmt():
 def parseargs(args):
     try:
         opts, arguments = getopt.getopt(args, 'h?in', [
-                'existing=', 'lang=', 'search-only=',
-                'download=', 'output=', 'interactive',
-                'list-languages',
-                'help', 'version', 'versionx'])
+            'existing=', 'lang=', 'search-only=',
+            'download=', 'output=', 'interactive',
+            'list-languages',
+            'help', 'version', 'versionx'])
     except getopt.GetoptError, e:
-        raise SystemExit("%s: %s (see --help)"%(sys.argv[0],e))
+        raise SystemExit("%s: %s (see --help)" % (sys.argv[0], e))
     for option, value in opts:
         if option == '--help' or option == '-h' or option == '-?':
-            help()
+            help_()
         elif option == '--versionx':
             print VERSION
             raise SystemExit
         elif option == '--version':
-            print "%s %s" %(NAME, VERSION)
+            print "%s %s" % (NAME, VERSION)
             raise SystemExit
         elif option == '--existing':
             if value in ['abort', 'overwrite', 'bypass', 'query']:
                 pass
             else:
                 raise SystemExit("Argument to --existing must be one of: abort, overwrite, bypass, query")
-            options.existing = value
+            options['existing'] = value
         elif option == '--lang':
-            options.lang = value
+            options['lang'] = value
         elif option == '--download':
-            if value in ['all', 'first', 'query', 'none'] or isnumber(value):
+            if value in ['all', 'first', 'query', 'none'] or is_number(value):
                 pass
             else:
                 raise SystemExit("Argument to --download must be numeric subtitle id or one: all, first, query, none")
-            options.download = value
+            options['download'] = value
         elif option == '-n':
-            options.download = 'none'
+            options['download'] = 'none'
         elif option == '--output':
-            options.output = value
+            options['output'] = value
         elif option == '--interactive' or option == '-i':
-            options.download = 'query'
-            options.existing = 'query'
+            options['download'] = 'query'
+            options['existing'] = 'query'
         elif option == '--list-languages':
-            ListLanguages()
+            languages()
         else:
-            raise SystemExit("internal error: bad option '%s'"%option)
-    if not options.output:
-        options.output = default_output_fmt()
+            raise SystemExit("internal error: bad option '%s'" % option)
+    if not options['output']:
+        options['output'] = default_output_fmt()
     if len(arguments) != 1:
-        raise SystemExit("syntax: %s [options] filename.avi  (see --help)" %(sys.argv[0]))
+        raise SystemExit("syntax: %s [options] file_name.avi  (see --help)" % (sys.argv[0]))
     return arguments[0]
 
+
 def main(args):
-    file = parseargs(args)
-    #file = args
-    if not os.path.exists(file):
+    file_ = parseargs(args)
+    if not os.path.exists(file_):
         return
-#        raise SystemExit("can't find file '%s'"%file)
-    search_results = SearchSubtitles(file, options.lang)
+    search_results = search_subtitles(file_, options['lang'])
     if not search_results:
         return
-#        raise SystemExit("No results found.")
-#    DisplaySubtitleSearchResults(search_results)
-    if options.download == 'none':
+    if options['download'] == 'none':
         raise SystemExit
-    elif options.download == 'all':
-       # if len(search_results) > 1:
-            #print "Defaulting to first result (try --interactive)."
-        return AutoDownloadAndSave(file, search_results[0])
-    elif options.download == 'first':
+    elif options['download'] == 'all':
+        return auto_download_and_save(file_, search_results[0])
+    elif options['download'] == 'first':
         downloaded = {}
         for search_result in search_results:
-            res=AutoDownloadAndSave(file, search_result, downloaded)
+            res = auto_download_and_save(file_, search_result, downloaded)
             if res == 'none':
                 continue
             else:
                 return res
-    elif options.download == 'query':
-        n = query_num("Enter result to download [1..%d]:"%(len(search_results)),
+    elif options['download'] == 'query':
+        n = query_num("Enter result to download [1..%d]:" % (len(search_results)),
                       1, len(search_results))
-        AutoDownloadAndSave(file, search_results[n-1])
-    elif isnumber(options.download):
-        search_result = select_search_result_by_id(options.download, search_results)
-        AutoDownloadAndSave(file, search_result)
+        auto_download_and_save(file_, search_results[n - 1])
+    elif is_number(options['download']):
+        search_result = select_search_result_by_id(options['download'], search_results)
+        auto_download_and_save(file_, search_result)
     else:
-        raise Exception("internal error: bad option.download=%s"%options.download)
-
-#main(sys.argv[1:])
+        raise Exception("internal error: bad option['download']=%s" % options['download'])

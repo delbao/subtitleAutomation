@@ -5,7 +5,7 @@ import sys
 import hashlib
 import urllib2
 import zlib
-from srtmerge import srtmerge
+from srtmerge import srt_merge
 import subdl
 import codecs
 import chardet
@@ -20,7 +20,7 @@ boundary = '----------------------------767a02e50d82'
 
 
 # file_path = 'F:\Videos\Game Of Thrones\Game.Of.Thrones.1x01.Winter.Is.Coming.720p.HDTV.x264-CTU.[tvu.org.ru].mkv'
-def hash(path):
+def my_hash(path):
     fp = open(path, "rb")
     file_length = os.path.getsize(path)
 
@@ -145,7 +145,7 @@ def query_sub(hash_string, file_path):
                 buffer_ = res.read(file_len)
                 print ext_string + ' file found'
                 bGzipped = (buffer_[0] == '\x1f') & (buffer_[1] == '\x8b') & (buffer_[2] == '\x08')
-                if (bGzipped):
+                if bGzipped:
                     d = zlib.decompressobj(16 + zlib.MAX_WBITS)
                     buffer_ = d.decompress(buffer_)
 
@@ -171,17 +171,17 @@ def query_sub(hash_string, file_path):
                     print 'no file find from shooter.cn'
                     return 'none', 'none'
                 if str_lang_ == 'chs_eng':
-                    file_name = root + ".chs_eng." + ext_string
+                    file_name_new = root + ".chs_eng." + ext_string
                 if str_lang_ == 'chs':
-                    file_name = root + ".chs." + ext_string
+                    file_name_new = root + ".chs." + ext_string
                 if str_lang_ == 'eng':
-                    file_name = root + ".eng." + ext_string
+                    file_name_new = root + ".eng." + ext_string
 
-                fp_output = codecs.open(file_name, "w")
+                fp_output = codecs.open(file_name_new, "w")
                 fp_output.write(buffer_.encode('utf-8'))
                 fp_output.close()
 
-                return file_name, str_lang
+                return file_name_new, str_lang
 
     return '', 'none'
 
@@ -195,17 +195,12 @@ def get_shooter_sub(file_path):
     return query_sub(hash_str, file_path)
 
 
-def get_open_subtitles_sub(file_path, lang='eng'):
-    argv = ['--existing=overwrite', '--lang=' + lang, file_path]
+def get_open_subtitles_sub(file_path, lang_='eng'):
+    argv = ['--existing=overwrite', '--lang=' + lang_, file_path]
     return subdl.main(argv)
 
 
 def process_file(file_path):
-    """
-
-    Returns:sub_openSubtitles
-        object:
-    """
     if not os.path.exists(f):
         print f + ' is not existed'
         return
@@ -217,43 +212,43 @@ def process_file(file_path):
         print 'lrc file existed,quit now!'
         return
 
-    sub_shooter, lang = get_shooter_sub(file_path)
-    if lang == 'chs_eng':
-        srtmerge([sub_shooter], root + ".combined.srt", 0, 1)
+    sub_shooter, lang_ = get_shooter_sub(file_path)
+    if lang_ == 'chs_eng':
+        srt_merge([sub_shooter], root + ".combined.srt", 0, 1)
         return
-    if lang == 'chs':
+    if lang_ == 'chs':
         sub_eng = get_open_subtitles_sub(file_path)
         if not sub_eng:
             console_color_yellow()
             print 'english sub file not found'
             console_without_color()
-            srtmerge([sub_shooter], root + ".combined.srt", 0, 2)
-            return srtmerge([sub_eng, sub_shooter], root + ".combined.srt", 0)
+            srt_merge([sub_shooter], root + ".combined.srt", 0, 2)
+            return srt_merge([sub_eng, sub_shooter], root + ".combined.srt", 0)
 
-    if lang == 'eng':
+    if lang_ == 'eng':
         open_subtitle = get_open_subtitles_sub(file_path, 'chs')
 
         if not open_subtitle:
             console_color_yellow()
             print 'chinese sub file not found'
             console_without_color()
-            srtmerge([sub_shooter], root + ".combined.srt", 0, 2)
-            return srtmerge([sub_shooter, open_subtitle], root + ".combined.srt", 0)
+            srt_merge([sub_shooter], root + ".combined.srt", 0, 2)
+            return srt_merge([sub_shooter, open_subtitle], root + ".combined.srt", 0)
 
-    if lang == 'none':
+    if lang_ == 'none':
         open_subtitle_chs = get_open_subtitles_sub(file_path, 'chs')
         open_subtitle_eng = get_open_subtitles_sub(file_path)
         if open_subtitle_eng and open_subtitle_chs:
-            srtmerge([open_subtitle_chs, open_subtitle_eng], root + ".combined.srt", 0)
+            srt_merge([open_subtitle_chs, open_subtitle_eng], root + ".combined.srt", 0)
             return
         if open_subtitle_eng:
-            srtmerge([open_subtitle_eng], root + ".combined.srt", 0, 2)
+            srt_merge([open_subtitle_eng], root + ".combined.srt", 0, 2)
             console_color_yellow()
             print 'chinese sub file not found'
             console_without_color()
             return
         if open_subtitle_chs:
-            srtmerge([open_subtitle_chs], root + ".combined.srt", 0, 2)
+            srt_merge([open_subtitle_chs], root + ".combined.srt", 0, 2)
             console_color_yellow()
             print 'english sub file not found'
             console_without_color()
@@ -286,8 +281,8 @@ if not os.path.exists('blacklist'):
     os.mknod('blacklist')
 unfound_file = []
 blacklist = open('blacklist', 'r').readlines()
-file_path = sys.argv[1:]
-for f in file_path:
+file_path_ = sys.argv[1:]
+for f in file_path_:
     console_color_yellow()
     print '*' * 80
     try:
@@ -307,4 +302,3 @@ if len(unfound_file) > 0:
             print ltime
             if ltime + 3600 * 24 * 10 < int(time.time()):
                 os.rename(f, f + '.bak')
-                # os.remove(f)
