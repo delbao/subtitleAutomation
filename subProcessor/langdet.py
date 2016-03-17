@@ -31,10 +31,13 @@
 Este módulo implementa el algoritmo fundamental
 """
 from __future__ import division
-
+import streams
+import sys
+import pprint
+import psyco
 import string
-import math
 from languages import english, spanish, french
+
 
 class LanguageDetector(object):
     """
@@ -43,7 +46,7 @@ class LanguageDetector(object):
     """
 
     @staticmethod
-    def __computeFrequencies__(itText):
+    def __computeFrequencies__(it_text):
         """
         Computes the vector of frequencies of the string given in parameter
         str.
@@ -51,55 +54,50 @@ class LanguageDetector(object):
         Returns a mapping from 1-grams and 2-grams to real numbers.
         """
         frequencies = {}
-        AmountOfLetters = 0
-        AmountOfTwograms = 0
+        amount_of_letters = 0
+        amount_of_two_grams = 0
 
-        LastLetter = None
-        for which in itText:
+        last_letter = None
+        for which in it_text:
             letter = which.lower()
-            if letter in string.letters+u'áéíóúñäëïöüàèìòùâêîôûãĩõũçßæ':
-                if not letter in frequencies:
+            if letter in string.letters + u'áéíóúñäëïöüàèìòùâêîôûãĩõũçßæ':
+                if letter not in frequencies:
                     frequencies[letter] = 0
                 frequencies[letter] += 1
-                AmountOfLetters += 1
-
-                if LastLetter != None:
-                    twogram = LastLetter + letter
-                    if not twogram in frequencies:
-                        frequencies[twogram] = 0
-
-                    frequencies[twogram] += 1
-                    AmountOfTwograms += 1
-
-                LastLetter = letter
+                amount_of_letters += 1
+                if last_letter is not None:
+                    two_gram = last_letter + letter
+                    if two_gram not in frequencies:
+                        frequencies[two_gram] = 0
+                    frequencies[two_gram] += 1
+                    amount_of_two_grams += 1
+                last_letter = letter
             else:
-                LastLetter = None
-
+                last_letter = None
         for which in frequencies:
             if len(which) == 1:
-                frequencies[which] = frequencies[which] / AmountOfLetters
+                frequencies[which] = frequencies[which] / amount_of_letters
             else:
                 assert len(which) == 2
-                frequencies[which] = frequencies[which] / AmountOfTwograms
-
+                frequencies[which] = frequencies[which] / amount_of_two_grams
         return frequencies
 
     @staticmethod
-    def __cosineSimilarity__(mVector1, mVector2):
+    def __cosineSimilarity__(vector1, vector2):
         """Computes the cosine similarity of two vectors.
         Actually, is not the cosine similarity. The c.s would be:
         \frac{v1 \cdot v2}{|v1||v2|}.
 
         Since we know |v1|=|v2|=\sqrt{2}, we avoid the extra calculation."""
-        if len(mVector1) < len(mVector2):
-            v1, v2 = mVector1, mVector2
+        if len(vector1) < len(vector2):
+            v1, v2 = vector1, vector2
         else:
-            v1, v2 = mVector2, mVector1
+            v1, v2 = vector2, vector1
 
-        result= 0
+        result = 0
         for which in v1:
             if which in v2:
-                result += v1[which]*v2[which]
+                result += v1[which] * v2[which]
 
         return result
 
@@ -120,22 +118,19 @@ class LanguageDetector(object):
                 return french
 
     @classmethod
-    def detect(self, itText):
+    def detect(self, it_text):
         """
         This method detects the language of the text given in parameter
-        itText.
+        it_text.
         """
-        vector = self.__computeFrequencies__(itText)
+        vector = self.__computeFrequencies__(it_text)
         return self.__compareByCosine__(vector)
 
-    detectLanguage = detect # Just for backwards compatibility
+    detectLanguage = detect
+
 
 def main():
-    import streams
-    import sys
-
     try:
-        import psyco
         psyco.bind(streams.Stream.generateUnicodeChars)
         psyco.bind(LanguageDetector.__computeFrequencies__)
     except:
@@ -144,18 +139,14 @@ def main():
     result = LanguageDetector.detect(stream(2048))
     print result.ISO_639_1_LANGUAGE_CODE
 
-def vector():
-    import streams
-    import sys
 
+def vector():
     try:
-        import psyco
         psyco.bind(streams.Stream.generateUnicodeChars)
         psyco.bind(LanguageDetector.__computeFrequencies__)
     except:
         pass
     try:
-        import pprint
         repr = pprint.pformat
     except:
         pass

@@ -19,7 +19,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 
-# Autores:
+# Authors:
 #    Manuel Vázquez Acosta
 #    Roberto Oscar Labrada
 #    Miguel Yuniesqui Godales
@@ -35,6 +35,7 @@ import chardet
 import codecs
 import sys
 
+
 class Stream(object):
     """
     Streams objects allow to read files in any encoding for which
@@ -47,39 +48,40 @@ class Stream(object):
     Usage:
         file = file('/path/to/text/file')
         stream = Stream(file)
-        for unicodechar in stream.generateUnicodeChars():
+        for unicodechar in stream.generate_unicode_chars():    import streams
+    import sys
             print unicodechar
     """
+
     def __init__(self, stream):
         buff = stream.read(2048)
         stream.seek(0)
-        
+
         charset = chardet.detect(buff)
-        
+
         if charset['confidence'] > 0.75:
             encoding = charset['encoding']
             self.__stream__ = stream
             self.__encoding__ = encoding
         else:
-            #TODO: Cambiar por una excepcion
             assert False
-            
-    def __call__(self, limit = None):
+
+    def __call__(self, limit=None):
         return self.__iter__(limit)
-            
-    def __iter__(self, limit = None):
-        return self.generateUnicodeChars(limit)
-    
-    def generateUnicodeChars(self, limit = None):
+
+    def __iter__(self, limit=None):
+        return self.generate_unicode_chars(limit)
+
+    def generate_unicode_chars(self, limit=None):
         """
         Generates each unicode character of the stream
         """
         decoder = codecs.getdecoder(self.__encoding__)
-               
+
         stream = self.__stream__.__iter__()
-        NotEOF = True
+        not_eof = True
         i = 0
-        while NotEOF and (not limit or i < limit):
+        while not_eof and (not limit or i < limit):
             try:
                 which = stream.next()
                 try:
@@ -87,14 +89,14 @@ class Stream(object):
                 except:
                     print "Can't decoded properly. Passing raw" > sys.stderr
                     line = which
-                    
+
                 if len(line) > 1:
                     for char in line:
-                        i = i + 1
+                        i += 1
                         yield char
                 elif len(line) == 1:
-                    i = i + 1
-                    yield line     
-           
+                    i += 1
+                    yield line
+
             except StopIteration:
-                NotEOF = False
+                not_eof = False

@@ -9,73 +9,62 @@
 #
 #    This library is distributed in the hope that it will be useful,
 #    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+#    MERCHANTABILITY orass2srt, det FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 #    Lesser General Public License for more details.
 #
-#    You should have received a copy of the GNU Lesser General Public
+#    You should have reass2srt, detceived a copy of the GNU Lesser General Public
 #    License along with this library; if not, write to the Free Software
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+from srt import sub_reader, sub_writer, SubRecord, lrc_writer
+import os
+import sys
 
 __author__ = 'wistful'
 __version__ = '0.6'
 __release_date__ = "04/06/2013"
 
-from srt import subreader, subwriter, SubRecord,lrcwriter
-import os
-import sys
-
 
 def print_version():
-    print("srtmerge: version %s (%s)" % (__version__, __release_date__))
+    print("srt_merge: version %s (%s)" % (__version__, __release_date__))
 
 
-def srtmerge(in_srt_files, out_srt, offset=0,mode=0):
-    reload(sys) 
+def srt_merge(in_srt_files, out_srt, offset=0, mode=0):
+    reload(sys)
     sys.setdefaultencoding('utf-8')
     subs, result = [], []
-
-    map(subreader, in_srt_files)
-
-    
+    map(sub_reader, in_srt_files)
     for index, in_srt in enumerate(in_srt_files):
         _diff = offset if index == 0 else 0
         subs.extend([(rec.start + _diff, rec.finish + _diff, index, rec.text)
-                     for rec in subreader(in_srt)])
+                     for rec in sub_reader(in_srt)])
     subs.sort()
     index = 0
     while index < len(subs) - 1:
         start, finish, flag, sub_text = subs[index]
-       
         text = [(flag, sub_text)]
-        bCombinedLine = False
+        combined_line = False
         for i in xrange(index + 1, len(subs)):
             sub_rec = subs[i]
             start2, finish2, flag2, sub_text2 = sub_rec
-#            print start2
             if start2 < finish:
                 finish = max(finish, start + (finish2 - start2) * 2 / 3)
-                if(bCombinedLine):  
-                    sub_text2 = sub_text2.replace('|','')
-                ###sub_text2 = sub_text2+'|'
+                if combined_line:
+                    sub_text2 = sub_text2.replace('|', '')
                 text.append((flag2, sub_text2))
-                bCombinedLine = True
+                combined_line = True
             else:
                 break
         index = i
-        # I hate this code
         x = sorted(enumerate(text), key=lambda (n, item): (item[0], n))
         y = [record[1][1] for record in x]
         result.append(SubRecord(start, finish, "".join(y)))
-
-    subwriter(out_srt, result)
-    root,ext = os.path.splitext(out_srt)
-    #if(out_ext == 'lrc'):
-
-    lrcwriter(root+".lrc",result,mode)
-    for file in in_srt_files:
-        os.remove(file)
-    os.rename(out_srt,out_srt.replace('.combined',''))
-    os.rename(root+".lrc",root.replace('.combined','')+'.lrc')
+    sub_writer(out_srt, result)
+    root, ext = os.path.splitext(out_srt)
+    lrc_writer(root + ".lrc", result, mode)
+    for file_ in in_srt_files:
+        os.remove(file_)
+    os.rename(out_srt, out_srt.replace('.combined', ''))
+    os.rename(root + ".lrc", root.replace('.combined', '') + '.lrc')
 
 
 def _check_argv(args):
@@ -84,7 +73,8 @@ def _check_argv(args):
     """
     for inSrt in args.get('inPaths', []):
         if not os.path.exists(inSrt):
-            print "file {srt_file} not exist".format(srt_file=inSrt)
+            print
+            "file {srt_file} not exist".format(srt_file=inSrt)
             return False
     return True
 
@@ -105,9 +95,7 @@ def main():
         sys.exit(0)
     args = vars(parser.parse_args())
     if _check_argv(args):
-        srtmerge(args.get('inPaths', []),
-                 args.get('outPath'),
-                 args.get('offset'))
+        srt_merge(args.get('inPaths', []), args.get('outPath'), args.get('offset'))
 
 
 if __name__ == '__main__':
