@@ -23,7 +23,8 @@ import os
 import sys
 import argparse
 from subtitles import sub_reader, sub_writer, SubRecord
-from subProcessor.new_structure.lrc_writer import lrc_writer
+from lrc_writer import lrc_writer
+
 __author__ = 'wistful'
 __version__ = '0.6'
 __release_date__ = "04/06/2013"

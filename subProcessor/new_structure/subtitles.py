@@ -6,9 +6,10 @@ import codecs
 import base64
 import StringIO
 import xmlrpclib
-import subProcessor.subdl
-
 import file_utils
+
+from query import query_yn
+from format import format_movie_name
 from hash import movie_hash
 from collections import namedtuple
 from langdet import LanguageDetector
@@ -133,7 +134,7 @@ def display_subtitle_search_results(search_results):
     for subtitle in search_results:
         id_subtitle = subtitle.IDSubtitleFile
         id_subtitle_max_len = max(id_subtitle_max_len, len(id_subtitle))
-        movie_name = subProcessor.subdl.format_movie_name(subtitle.MovieName)
+        movie_name = format_movie_name(subtitle.MovieName)
         movie_name_max_len = max(movie_name_max_len, len(movie_name))
         downloads = subtitle.SubDownloadsCnt
         downloads_max_len = max(downloads_max_len, len(downloads))
@@ -143,7 +144,7 @@ def display_subtitle_search_results(search_results):
         n += 1
         id_subtitle = subtitle.IDS
         lang = subtitle.ISO639
-        movie_name = subProcessor.subdl.format_movie_name(subtitle.MovieName)
+        movie_name = format_movie_name(subtitle.MovieName)
         file_name = subtitle.Subfile_name
         rating = subtitle.SubRating
         downloads = subtitle.SubDownloadsCnt
@@ -176,7 +177,7 @@ def download_and_save_subtitle(sub_id, destfile_name):
         elif options['existing'] == 'overwrite':
             print "Subtitle %s already exists; overwriting." % destfile_name
         elif options['existing'] == 'query':
-            if subProcessor.subdl.query_yn("Subtitle %s already exists.  Overwrite [y/n]?" % destfile_name):
+            if query_yn("Subtitle %s already exists.  Overwrite [y/n]?" % destfile_name):
                 pass
             else:
                 raise SystemExit("File not overwritten.")

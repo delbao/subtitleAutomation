@@ -1,6 +1,7 @@
 import os
+from query import query_num
 
-from subProcessor.subdl import parse_args, auto_download_and_save, query_num, is_number, select_search_result_by_id
+from subProcessor.subdl import parse_args, auto_download_and_save, is_number, select_search_result_by_id
 from subtitles import options, search_subtitles
 
 
