@@ -26,5 +26,7 @@
 
 # $Id: __init__.py 527 2008-02-26 22:31:09Z mygodales@UCI.CU $
 
-import spanish, english
+import english
+import spanish
+
 __all__ = [spanish, english]

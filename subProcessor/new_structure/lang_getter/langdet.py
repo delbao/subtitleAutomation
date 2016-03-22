@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from __future__ import division
-import sys
+
 import pprint
 import string
+import sys
+
+from new_structure.lang_getter.languages import spanish, english, french
 from stream import Stream
-from languages import english, french, spanish
 
 
 class LanguageDetector(object):
