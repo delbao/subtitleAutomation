@@ -1,17 +1,19 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+"""
+convert ass to srt
 
-import sys
+convert srt to lrc
+"""
 import re
 
 
-def convert(input_buffer):
+def convert_ass_to_srt(input_buffer):
     input_buffer_srt = []
     index = 0
 
     for line in input_buffer.split("\n"):
         if line[:9] == "Dialogue:":
-            # format: index \n start --> end \n text \n\n
             input_buffer_srt.append("%d\n" % index)
             index += 1
 
@@ -26,5 +28,8 @@ def convert(input_buffer):
     return ''.join(input_buffer_srt)
 
 
-if __name__ == "__main__":
-    sys.argv[1:]
+def byte2int(b_str, width):
+    val = sum(ord(b) << 8 * n for (n, b) in enumerate(reversed(b_str)))
+    if val >= (1 << (width - 1)):
+        val -= (1 << width)
+    return val
