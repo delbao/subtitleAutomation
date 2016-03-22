@@ -3,11 +3,11 @@ download raw subtitle files from opensubtitles.org and subhd
 """
 # !/usr/bin/python2
 # -*- coding: utf-8 -*-
-import logging
 import os
 import sys
+import logging
 
-import time_utils
+from time import time
 from merger import srt_merge
 from download_from_shooter import get_shooter_sub
 from download_from_opensubtitle import get_subtitle_from_opensubtitle
@@ -100,5 +100,5 @@ if len(unfound_file) > 0:
         for f in unfound_file:
             ltime = int(os.stat(f).st_mtime)
             logger.info(ltime)
-            if ltime + 3600 * 24 * 10 < int(time_utils.time()):
+            if ltime + 3600 * 24 * 10 < int(time.time()):
                 os.rename(f, f + '.bak')

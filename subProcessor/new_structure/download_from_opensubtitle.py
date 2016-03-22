@@ -1,8 +1,9 @@
 import os
 from query import query_num
 
-from subProcessor.subdl import parse_args, auto_download_and_save, is_number, select_search_result_by_id
-from subtitles import options, search_subtitles
+from subtitles import options, search_subtitles, download_and_save_subtitle
+from parser_utils import parse_args, is_number, select_search_result_by_id
+from format import format_subtitle_output_file_name
 
 
 def get_subtitle_from_opensubtitle(file_path, lang_='eng'):
@@ -38,3 +39,16 @@ def main(args):
         auto_download_and_save(file_, search_result)
     else:
         raise Exception("internal error: bad option['download']=%s" % options['download'])
+
+
+def auto_download_and_save(video_name, search_result, downloaded=None):
+    output_file_name = format_subtitle_output_file_name(video_name, search_result)
+    if downloaded is not None:
+        if output_file_name in downloaded:
+            raise SystemExit("Already wrote to %s!  Uniquely output file format." % output_file_name)
+        downloaded[output_file_name] = 1
+    res = download_and_save_subtitle(search_result.IDSubtitleFile, output_file_name)
+    if res == 'none':
+        return 'none'
+    else:
+        return output_file_name

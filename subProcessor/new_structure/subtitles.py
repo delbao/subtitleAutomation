@@ -9,7 +9,7 @@ import xmlrpclib
 import file_utils
 
 from query import query_yn
-from format import format_movie_name
+from format import format_movie_name, format_subtitle_output_file_name
 from hash import movie_hash
 from collections import namedtuple
 from langdet import LanguageDetector
@@ -200,3 +200,16 @@ def download_and_save_subtitle(sub_id, destfile_name):
 def is_english(s):
     lang = LanguageDetector.detect(s)
     return lang == english
+
+
+def auto_download_and_save(video_name, search_result, downloaded=None):
+    output_file_name = format_subtitle_output_file_name(video_name, search_result)
+    if downloaded is not None:
+        if output_file_name in downloaded:
+            raise SystemExit("Already wrote to %s!  Uniquely output file format." % output_file_name)
+        downloaded[output_file_name] = 1
+    res = download_and_save_subtitle(search_result.IDSubtitleFile, output_file_name)
+    if res == 'none':
+        return 'none'
+    else:
+        return output_file_name

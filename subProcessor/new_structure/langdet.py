@@ -34,7 +34,6 @@ import sys
 import pprint
 import string
 from stream import Stream
-from subProcessor.languages import english, spanish, french
 
 
 class LanguageDetector(object):
