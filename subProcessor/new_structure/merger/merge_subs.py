@@ -123,6 +123,7 @@ def sub_writer(file_path, subtitles):
     open(file_path, 'w').writelines(lines)
     print 'OTUPUT COMBINED SUB FILE:', file_path.replace('.combined', '')
 
+
 def lrc_writer(file_path, subtitles, mode=0):
     lines = []
     last_finish = 0
@@ -222,6 +223,7 @@ def parse_time(str_time):
 
 def get_ms(hours, minutes, seconds, milliseconds):
     return (int(seconds) + int(minutes) * 60 + int(hours) * 60 * 60) * 1000 + int(milliseconds)
+
 
 if __name__ == '__main__':
     main()

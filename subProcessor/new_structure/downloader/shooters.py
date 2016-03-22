@@ -119,7 +119,7 @@ def my_hash(path):
         block_size = 4096
         offset = [block_size, file_length / 3 * 2, file_length / 3, file_length - 8192]
         hash_result = ""
-        for i in range(0, 4):
+        for i in range(4):
 
             fp.seek(int(offset[i]))
             data_block = fp.read(block_size)
@@ -128,6 +128,7 @@ def my_hash(path):
                 hash_result += ";"
             hash_result += hash_str.hexdigest().lower()
         return hash_result
+
 
 def srt_lang(input_buffer):
     count_chs = 0
@@ -158,17 +159,17 @@ def lang(uchar):
 
 
 def convert_ass_to_srt(input_buffer):
-    input_buffer_srt = []
+    result_lines = []
     for index, line in enumerate(input_buffer.split("\n")):
         if line[:9] == "Dialogue:":
-            input_buffer_srt.append("%d\n" % index)
+            result_lines.append("%d\n" % index)
             clean_line = re.sub("{.*?}", "", line)
             entries = clean_line[10:].strip().split(",")
-            input_buffer_srt.append(
+            result_lines.append(
                 "%s --> %s\n" % (entries[1].replace(".", ",") + "0", entries[2].replace(".", ",") + "0"))
-            input_buffer_srt.append("".join(entries[9:]).replace("\N", "\n") + "\n")
-            input_buffer_srt.append("\n")
-    return ''.join(input_buffer_srt)
+            result_lines.append("".join(entries[9:]).replace("\N", "\n") + "\n")
+            result_lines.append("\n")
+    return ''.join(result_lines)
 
 
 def byte2int(b_str, width):

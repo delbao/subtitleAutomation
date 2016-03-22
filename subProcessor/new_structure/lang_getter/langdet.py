@@ -11,7 +11,6 @@ from stream import Stream
 
 
 class LanguageDetector(object):
-
     @staticmethod
     def __compute_vector_of_frequencies__(it_text):
         frequencies = {}
@@ -20,7 +19,7 @@ class LanguageDetector(object):
         last_letter = None
         for which in it_text:
             letter = which.lower()
-            if letter in string.letters+u'áéíóúñäëïöüàèìòùâêîôûãĩõũçßæ':
+            if letter in string.letters + u'áéíóúñäëïöüàèìòùâêîôûãĩõũçßæ':
                 if letter not in frequencies:
                     frequencies[letter] = 0
                 frequencies[letter] += 1
@@ -91,6 +90,7 @@ def vector():
     stream = Stream(file(sys.argv[1]))
     freq = LanguageDetector.__compute_vector_of_frequencies__(stream)
     print repr_(freq)
+
 
 if __name__ == "__main__":
     main()

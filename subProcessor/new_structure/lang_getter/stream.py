@@ -1,5 +1,6 @@
-import sys
 import codecs
+import sys
+
 import chardet
 
 

@@ -6,9 +6,11 @@ download raw subtitle files from opensubtitles.org and subhd
 import logging
 import sys
 from os.path import splitext, basename, exists
-from new_structure.merger import srt_merge
-from new_structure.downloader.opensubtitle_utils import get_opensubtitle_sub
-from new_structure.downloader.shooter_utils import get_shooter_sub
+
+from new_structure.downloader.opensubtitle import get_opensubtitle_sub
+from new_structure.downloader.shooters import get_shooter_sub
+
+from new_structure.merger.merge_subs import srt_merge
 
 logger = logging.getLogger()
 

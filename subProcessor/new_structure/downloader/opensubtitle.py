@@ -1,14 +1,13 @@
-from StringIO import StringIO
 import base64
 import codecs
 import getopt
 import gzip
 import os
+import struct
 import sys
 import xmlrpclib
+from StringIO import StringIO
 from logging import getLogger
-import struct
-
 from os.path import splitext
 
 from new_structure.lang_getter.langdet import LanguageDetector
