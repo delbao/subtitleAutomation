@@ -1,6 +1,6 @@
 import re
-from time_utils import ms_to_string
 from subtitles import subtitle_language
+from time_utils import ms_to_string
 
 
 def lrc_writer(file_path, subtitles, mode=0):

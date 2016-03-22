@@ -5,24 +5,15 @@ import codecs
 import urllib2
 import chardet
 import hashlib
-import logging
 
 from hash import my_hash
-from converter import byte2int, convert_ass_to_srt
+from logging import getLogger
 from lang_utils import srt_lang
+from converter import byte2int, convert_ass_to_srt
 
 blacklist = open('blacklist', 'r').readlines()
 
-LOGGING_FORMAT = '%(asctime)-15s %(levelname)s %(message)s'
-DATE_FORMAT = '[%Y-%m-%d %H:%M:%S]'
-logging.getLogger().level = logging.DEBUG
-logger = logging.getLogger('[LOGGER]')
-logger.setLevel(logging.DEBUG)
-ch = logging.StreamHandler()
-ch.setLevel(logging.DEBUG)
-formatter = logging.Formatter(datefmt=DATE_FORMAT, fmt=LOGGING_FORMAT)
-ch.setFormatter(formatter)
-logger.addHandler(ch)
+logger = getLogger()
 
 queryUrl = 'http://svplayer.shooter.cn/api/subapi.php'
 userAgent = 'SPlayer Build 580'

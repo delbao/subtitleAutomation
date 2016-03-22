@@ -1,6 +1,6 @@
 import os
-import hashlib
 import struct
+import hashlib
 
 
 def my_hash(path):

@@ -3,25 +3,7 @@ import codecs
 import chardet
 
 
-# Work without this
-
 class Stream(object):
-    """
-    Streams objects allow to read files in any encoding for which
-    there is a decoder in encodings (or codecs) module, and chardet may
-    detect.
-
-    It exists fundamentally to generate the characters of the file in
-    unicode.
-
-    Usage:
-        file = file('/path/to/text/file')
-        stream = Stream(file)
-        for unicodechar in stream.generate_unicode_chars():    import streams
-    import sys
-            print unicodechar
-    """
-
     def __init__(self, stream):
         buff = stream.read(2048)
         stream.seek(0)
@@ -42,11 +24,7 @@ class Stream(object):
         return self.generate_unicode_chars(limit)
 
     def generate_unicode_chars(self, limit=None):
-        """
-        Generates each unicode character of the stream
-        """
         decoder = codecs.getdecoder(self.__encoding__)
-
         stream = self.__stream__.__iter__()
         not_eof = True
         i = 0

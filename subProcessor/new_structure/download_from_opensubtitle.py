@@ -1,9 +1,9 @@
 import os
 from query import query_num
 
+from format import format_subtitle_output_file_name
 from subtitles import options, search_subtitles, download_and_save_subtitle
 from parser_utils import parse_args, is_number, select_search_result_by_id
-from format import format_subtitle_output_file_name
 
 
 def get_subtitle_from_opensubtitle(file_path, lang_='eng'):

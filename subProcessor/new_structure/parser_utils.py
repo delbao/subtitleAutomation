@@ -1,8 +1,8 @@
 #!/usr/bin/python2.7
 
 import getopt
-from subtitles import *
 from format import default_output_format
+from subtitles import *
 
 
 def is_number(value):

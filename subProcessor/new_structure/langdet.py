@@ -1,63 +1,24 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-input: a subtitle
-Keyword Args: a subtitle
-Returns: chn_eng or chn or eng or none
-"""
-#
-#    Copyright (C) 2007  Universidad de las Ciencias Informáticas
-#
-#    This program is free software; you can redistribute it and/or modify
-#    it under the terms of the GNU General Public License as published by
-#    the Free Software Foundation; either version 2 of the License, or
-#    (at your option) any later version.
-#
-#    This program is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU General Public License for more details.
-#
-#    You should have received a copy of the GNU General Public License
-#    along with this program; if not, write to the Free Software
-#    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307
-#    USA
-#
-
-# Autores:
-#    Manuel Vázquez Acosta
-#    Roberto Oscar Labrada
-#    Miguel Yuniesqui Godales
-
-
+from __future__ import division
 import sys
 import pprint
 import string
 from stream import Stream
+from subProcessor.languages import english, french, spanish
 
 
 class LanguageDetector(object):
-    """
-    LanguageDetector can detect the language of text.
-    Currently it can detect either english or spanish text.
-    """
 
     @staticmethod
     def __compute_vector_of_frequencies__(it_text):
-        """
-        Computes the vector of frequencies of the string given in parameter
-        str.
-
-        Returns a mapping from 1-grams and 2-grams to real numbers.
-        """
         frequencies = {}
         amount_of_letters = 0
         amount_of_two_grams = 0
-
         last_letter = None
         for which in it_text:
             letter = which.lower()
-            if letter in string.letters + u'áéíóúñäëïöüàèìòùâêîôûãĩõũçßæ':
+            if letter in string.letters+u'áéíóúñäëïöüàèìòùâêîôûãĩõũçßæ':
                 if letter not in frequencies:
                     frequencies[letter] = 0
                 frequencies[letter] += 1

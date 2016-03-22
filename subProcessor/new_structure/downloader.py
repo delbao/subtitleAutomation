@@ -36,7 +36,6 @@ def process_file(file_path):
     dir_name, basename = os.path.split(file_path)
     root, extension = os.path.splitext(file_path)
     logger.info('PROCESSING FILE:' + basename)
-
     if os.path.exists(root + ".lrc"):
         logger.info('lrc file existed,quit now!')
         return
@@ -50,15 +49,12 @@ def process_file(file_path):
             logger.info('english sub file not found')
             srt_merge([sub_shooter], root + ".combined.srt", 0, 2)
             return srt_merge([sub_eng, sub_shooter], root + ".combined.srt", 0)
-
     if lang_ == 'eng':
         open_subtitle = get_subtitle_from_opensubtitle(file_path, 'chs')
-
         if not open_subtitle:
             logger.info('chinese sub file not found')
             srt_merge([sub_shooter], root + ".combined.srt", 0, 2)
             return srt_merge([sub_shooter, open_subtitle], root + ".combined.srt", 0)
-
     if lang_ == 'none':
         open_subtitle_chs = get_subtitle_from_opensubtitle(file_path, 'chs')
         open_subtitle_eng = get_subtitle_from_opensubtitle(file_path)

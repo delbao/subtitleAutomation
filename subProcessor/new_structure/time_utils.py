@@ -1,12 +1,7 @@
 import re
 
 
-def parse_time(str_time, file_path=''):
-    """
-    convert string format of start-finish to integer(ms) format
-    >>> parse_time('00:14:33,460 --> 00:14:35,419')
-    (873460, 875419)
-    """
+def parse_time(str_time):
     pattern_time = r"(?P<h1>\d+):(?P<m1>\d+):(?P<s1>\d+),(?P<ms1>\d+)" \
                    r"\W*-->\W*(?P<h2>\d+):(?P<m2>\d+):(?P<s2>\d+),(?P<ms2>\d+)$"
     try:
@@ -21,13 +16,6 @@ def get_ms(h, m, s, ms):
 
 
 def ms_to_string(ms, style=1):
-    """
-    convert msc to string format
-    >>> ms_to_string(233243)
-    '00:03:53,243'
-    >>> ms_to_string(442)
-    '00:00:00,442'
-    """
     it = int(ms / 1000)
     ms_ = ms - it * 1000
     ss = it % 60
@@ -40,9 +28,4 @@ def ms_to_string(ms, style=1):
 
 
 def parse_ms(start, finish):
-    """
-    convert msc representation to string format
-    >>> parse_ms(442, 233243)
-    '00:00:00,442 --> 00:03:53,243'
-    """
     return "%s --> %s" % (ms_to_string(start), ms_to_string(finish))

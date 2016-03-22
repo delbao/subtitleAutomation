@@ -1,6 +1,3 @@
-import subtitles
-
-
 def file_ext(file_name):
     return file_name[file_name.rfind('.') + 1:]
 
