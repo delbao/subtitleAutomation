@@ -252,19 +252,19 @@ def format_subtitle_output_file_name(video_name, search_result):
 
 def replace_format(input_, replacements):
     output = ''
-    i = 0
-    while i < len(input_):
-        c = input_[i]
-        if c == '%':
-            i += 1
-            c = input_[i]
+    index = 0
+    while index < len(input_):
+        char = input_[index]
+        if char == '%':
+            index += 1
+            char = input_[index]
             try:
-                output += replacements[c]
+                output += replacements[char]
             except:
-                raise SystemExit("Bad '%s' in format specifier" % c)
+                raise SystemExit("Bad '%s' in format specifier" % char)
         else:
-            output += c
-        i += 1
+            output += char
+        index += 1
     return output
 
 
@@ -281,17 +281,16 @@ def movie_hash(name):
     longlong_format = '<Q'
     byte_size = struct.calcsize(longlong_format)
     assert byte_size == 8
-    f = open(name, "rb")
-    file_size = os.path.getsize(name)
-    hash_ = file_size
-    if file_size < 65536 * 2:
-        raise Exception("Error hashing %s: file too small" % name)
-    for x in range(65536 / byte_size):
-        hash_ += struct.unpack(longlong_format, f.read(byte_size))[0]
-        hash_ &= 0xFFFFFFFFFFFFFFFF
-    f.seek(file_size - 65536, 0)
-    for x in range(65536 / byte_size):
-        hash_ += struct.unpack(longlong_format, f.read(byte_size))[0]
-        hash_ &= 0xFFFFFFFFFFFFFFFF
-    f.close()
+    with open(name, "rb") as file_obj:
+        file_size = os.path.getsize(name)
+        hash_ = file_size
+        if file_size < 65536 * 2:
+            raise Exception("Error hashing %s: file too small" % name)
+        for x in range(65536 / byte_size):
+            hash_ += struct.unpack(longlong_format, file_obj.read(byte_size))[0]
+            hash_ &= 0xFFFFFFFFFFFFFFFF
+        file_obj.seek(file_size - 65536, 0)
+        for x in range(65536 / byte_size):
+            hash_ += struct.unpack(longlong_format, file_obj.read(byte_size))[0]
+            hash_ &= 0xFFFFFFFFFFFFFFFF
     return "%016x" % hash_
