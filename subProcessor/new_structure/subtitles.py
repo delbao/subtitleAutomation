@@ -14,7 +14,7 @@ from format import format_movie_name, format_subtitle_output_file_name
 from langdet import LanguageDetector
 from time_utils import parse_time, parse_ms
 from collections import namedtuple
-from subProcessor.languages import english
+from languages import english
 
 NAME = 'subdl'
 VERSION = '1.0.3'

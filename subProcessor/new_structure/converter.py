@@ -5,12 +5,9 @@ import re
 
 def convert_ass_to_srt(input_buffer):
     input_buffer_srt = []
-    index = 0
-
-    for line in input_buffer.split("\n"):
+    for index, line in enumerate(input_buffer.split("\n")):
         if line[:9] == "Dialogue:":
             input_buffer_srt.append("%d\n" % index)
-            index += 1
             clean_line = re.sub("{.*?}", "", line)
             entries = clean_line[10:].strip().split(",")
             input_buffer_srt.append(

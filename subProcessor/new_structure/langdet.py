@@ -5,7 +5,7 @@ import sys
 import pprint
 import string
 from stream import Stream
-from subProcessor.languages import english, french, spanish
+from languages import english, french, spanish
 
 
 class LanguageDetector(object):

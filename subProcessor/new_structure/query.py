@@ -1,26 +1,29 @@
-def query_num(s, min_, max_):
+from logging import getLogger
+
+logger = getLogger()
+
+
+def query_num(info_message, min_, max_):
     while True:
-        print s
         try:
-            n = raw_input()
+            print info_message
+            number_input = int(raw_input())
+            if min_ <= number_input <= max_:
+                return number_input
         except KeyboardInterrupt:
             raise SystemExit("Aborted")
-        try:
-            n = int(n)
-            if min_ <= n <= max_:
-                return n
         except ValueError:
-            pass
+            logger.warning('Failure on processing number')
 
 
-def query_yn(s):
+def query_yn(input_message):
     while True:
-        print s
+        print input_message
         try:
-            s = raw_input().lower()
+            input_message = raw_input().lower()
+            if input_message.startswith('y'):
+                return True
+            elif input_message.startswith('n'):
+                return False
         except KeyboardInterrupt:
             raise SystemExit("Aborted")
-        if s.startswith('y'):
-            return True
-        elif s.startswith('n'):
-            return False

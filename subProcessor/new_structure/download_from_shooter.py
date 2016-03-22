@@ -15,49 +15,33 @@ blacklist = open('blacklist', 'r').readlines()
 
 logger = getLogger()
 
-queryUrl = 'http://svplayer.shooter.cn/api/subapi.php'
-userAgent = 'SPlayer Build 580'
-contentType = 'multipart/form-data; boundary=----------------------------767a02e50d82'
-boundary = '----------------------------767a02e50d82'
+QUERY_URL = 'http://svplayer.shooter.cn/api/subapi.php'
+USER_AGENT = 'SPlayer Build 580'
+CONTENT_TYPE = 'multipart/form-data; boundary=----------------------------767a02e50d82'
+BOUNDARY = '----------------------------767a02e50d82'
 
 
 def get_shooter_sub(file_path):
     hash_str = my_hash(file_path)
-    return query_sub(hash_str, file_path)
+    return query_subtitles(hash_str, file_path)
 
 
-def query_sub(hash_string, file_path):
-    postdata = '------------------------------767a02e50d82'
-    postdata += "\r\n"
-    postdata += 'Content-Disposition: form-data; name="pathinfo"'
-    postdata += "\r\n\r\n"
-    postdata += file_path
-    postdata += "\r\n"
-    postdata += '------------------------------767a02e50d82'
-    postdata += "\r\n"
-    postdata += 'Content-Disposition: form-data; name="filehash"'
-    postdata += "\r\n\r\n"
-    postdata += hash_string
-    postdata += "\r\n"
-    postdata += '------------------------------767a02e50d82--'
-    postdata += "\r\n"
-    postdata = postdata.encode('utf-8')
-    req = urllib2.Request(queryUrl)
-    req.add_header('User-Agent', userAgent)
+def query_subtitles(hash_string, file_path):
+    req = urllib2.Request(QUERY_URL)
+    req.add_header('User-Agent', USER_AGENT)
     req.add_header('Connection', "Keep-Alive")
-    req.add_header('Content-Type', contentType)
+    req.add_header('Content-Type', CONTENT_TYPE)
+    postdata = get_post_data(file_path, hash_string)
     res = urllib2.urlopen(req, postdata)
     if res.getcode() == 200:
         stat_code = res.read(1)
         if len(stat_code) == 0:
             return 'none', 'none'
         stat_code = byte2int(stat_code, 8)
-        if stat_code == -1:
-            return 'none', 'none'
-        if stat_code < 0:
+        if stat_code == -1 or stat_code < 0:
             return 'none', 'none'
         logger.info("stat_code is:" + str(stat_code))
-        for i in range(0, stat_code):
+        for _ in range(stat_code):
             byte2int(res.read(4), 32)
             desc_len = byte2int(res.read(4), 32)
             if desc_len > 0:
@@ -65,10 +49,10 @@ def query_sub(hash_string, file_path):
             byte2int(res.read(4), 32)
             num_of_files = res.read(1)
             if len(num_of_files) == 0:
-                print("no file")
+                logger.info("no file")
                 continue
             num_of_files = byte2int(num_of_files, 8)
-            for j in range(0, num_of_files):
+            for __ in range(num_of_files):
                 byte2int(res.read(4), 32)
                 ext_len = byte2int(res.read(4), 32)
                 ext = res.read(ext_len)
@@ -105,8 +89,22 @@ def query_sub(hash_string, file_path):
                     file_name = root + ".chs." + ext_string
                 elif srt_lang_ == 'eng':
                     file_name = root + ".eng." + ext_string
-                fp_output = codecs.open(file_name, "w")
-                fp_output.write(buffer_.encode('utf-8'))
-                fp_output.close()
+
+                with codecs.open(file_name, "w") as fp_output:
+                    fp_output.write(buffer_.encode('utf-8'))
+
                 return file_name, srt_lang_
     return '', 'none'
+
+
+def get_post_data(file_path, hash_string):
+    strings = [
+        '------------------------------767a02e50d82\r\n'
+        'Content-Disposition: form-data; name="pathinfo"\r\n\r\n',
+        file_path, '\r\n'
+        '------------------------------767a02e50d82\r\n'
+        'Content-Disposition: form-data; name="filehash"\r\n\r\n',
+        hash_string, '\r\n'
+        '------------------------------767a02e50d82--\r\n'
+    ]
+    return ''.join(strings).encode('utf-8')

@@ -17,16 +17,11 @@ DATE_FORMAT = '[%Y-%m-%d %H:%M:%S]'
 logging.getLogger().level = logging.DEBUG
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
-ch = logging.StreamHandler()
-ch.setLevel(logging.DEBUG)
+stream_handler = logging.StreamHandler()
+stream_handler.setLevel(logging.DEBUG)
 formatter = logging.Formatter(datefmt=DATE_FORMAT, fmt=LOGGING_FORMAT)
-ch.setFormatter(formatter)
-logger.addHandler(ch)
-
-queryUrl = 'http://svplayer.shooter.cn/api/subapi.php'
-userAgent = 'SPlayer Build 580'
-contentType = 'multipart/form-data; boundary=----------------------------767a02e50d82'
-boundary = '----------------------------767a02e50d82'
+stream_handler.setFormatter(formatter)
+logger.addHandler(stream_handler)
 
 
 def process_file(file_path):
