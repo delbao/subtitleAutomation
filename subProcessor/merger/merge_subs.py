@@ -134,8 +134,9 @@ def lrc_writer(file_path, subtitles, mode=0):
         last_finish = rec.finish
         duration = rec.finish - rec.start
         time = ms_to_string(rec.start, 2)
+        text = rec.text
         if mode == 1:
-            parts = rec.text.splitlines()
+            parts = text.splitlines()
             lang = ''
             for i in range(len(parts)):
                 p = parts[i]

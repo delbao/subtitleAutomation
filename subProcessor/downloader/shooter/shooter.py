@@ -1,12 +1,13 @@
 import codecs
 import hashlib
-import os
 import re
 import urllib2
 import zlib
 from logging import getLogger
 
 import chardet
+
+from os.path import exists, splitext, getsize
 
 logger = getLogger()
 
@@ -15,8 +16,8 @@ USER_AGENT = 'SPlayer Build 580'
 CONTENT_TYPE = 'multipart/form-data; boundary=----------------------------767a02e50d82'
 BOUNDARY = '----------------------------767a02e50d82'
 
-if not os.path.exists('blacklist'):
-    os.mknod('blacklist')
+if not exists('blacklist'):
+    open('blacklist', 'w').close()
 blacklist = open('blacklist', 'r').readlines()
 
 
@@ -73,7 +74,7 @@ def query_subtitles(hash_string, file_path):
                     logger.info('converting ass file to srt file')
                     buffer_ = convert_ass_to_srt(buffer_)
                     ext_string = 'srt'
-                root, extension = os.path.splitext(file_path)
+                root, extension = splitext(file_path)
                 md5 = hashlib.md5(buffer_).hexdigest() + "\n"
                 if blacklist.count(md5) > 0:
                     logger.info('this file is marked in blacklist')
@@ -111,7 +112,7 @@ def get_post_data(file_path, hash_string):
 
 def my_hash(path):
     fp = open(path, "rb")
-    file_length = os.path.getsize(path)
+    file_length = getsize(path)
 
     if file_length < 8192:
         return ""
