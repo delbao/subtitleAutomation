@@ -43,7 +43,7 @@ def print_version():
 def _check_cmd_args(args):
     for inSrt in args.get('inPaths', []):
         if not os.path.exists(inSrt):
-            print "file {srt_file} not exist".format(srt_file=inSrt)
+            logger.info("file {srt_file} not exist".format(srt_file=inSrt))
             return False
     return True
 
@@ -124,7 +124,7 @@ def sub_writer(file_path, subtitles):
              for index, rec in enumerate(subtitles, 1)]
 
     open(file_path, 'w').writelines(lines)
-    logger.info('OTUPUT COMBINED SUB FILE:', file_path.replace('.combined', ''))
+    logger.info('OTUPUT COMBINED SUB FILE: %s', file_path.replace('.combined', ''))
 
 
 if __name__ == '__main__':

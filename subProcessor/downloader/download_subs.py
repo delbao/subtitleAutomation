@@ -7,6 +7,8 @@ import logging
 import sys
 from os.path import splitext, basename, exists
 
+from datachar_armory.os_utils.logging_utils import configure_stream_logger
+
 from downloader.opensubtitle.opensubtitle import get_opensubtitle_sub
 from downloader.shooter.shooter import get_shooter_sub
 from merger.merge_subs import srt_merge
@@ -17,19 +19,10 @@ LOGGING_FORMAT = '%(asctime)-15s %(levelname)s %(message)s'
 DATE_FORMAT = '[%Y-%m-%d %H:%M:%S]'
 
 
-def configure_logging():
-    logging.root.setLevel(logging.DEBUG)
-    stream_handler = logging.StreamHandler()
-    stream_handler.setLevel(logging.DEBUG)
-    formatter = logging.Formatter(datefmt=DATE_FORMAT, fmt=LOGGING_FORMAT)
-    stream_handler.setFormatter(formatter)
-    logging.root.addHandler(stream_handler)
-
-
 def download_subtitles():
     reload(sys)
     sys.setdefaultencoding('utf-8')
-    configure_logging()
+    configure_stream_logger()
     files_paths = sys.argv[1:]
 
     for file_path in files_paths:
@@ -89,10 +82,10 @@ def get_both_subtitles_from_open_subtitle(file_path, result_subtitle_file):
         srt_merge([open_subtitle_chs, open_subtitle_eng], result_subtitle_file, 0)
     elif open_subtitle_eng:
         srt_merge([open_subtitle_eng], result_subtitle_file, 0, 2)
-        print 'chinese sub file not found'
+        logger.info('chinese sub file not found')
     elif open_subtitle_chs:
         srt_merge([open_subtitle_chs], result_subtitle_file, 0, 2)
-        print 'english sub file not found'
+        logger.info('english sub file not found')
     else:
         logger.warning('NO SUB FILE FOUND for file: %s', file_path)
 

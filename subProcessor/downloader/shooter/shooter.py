@@ -4,21 +4,14 @@ import re
 import urllib2
 import zlib
 from logging import getLogger
+from os.path import splitext
 
 import chardet
 
-from os.path import exists, splitext, getsize
+from downloader.shooter.constants import QUERY_URL, USER_AGENT, CONTENT_TYPE, blacklist
+from downloader.shooter.shooter_utils import my_hash, srt_lang, convert_ass_to_srt, byte2int
 
 logger = getLogger()
-
-QUERY_URL = 'http://svplayer.shooter.cn/api/subapi.php'
-USER_AGENT = 'SPlayer Build 580'
-CONTENT_TYPE = 'multipart/form-data; boundary=----------------------------767a02e50d82'
-BOUNDARY = '----------------------------767a02e50d82'
-
-if not exists('blacklist'):
-    open('blacklist', 'w').close()
-blacklist = open('blacklist', 'r').readlines()
 
 
 def get_shooter_sub(file_path):
@@ -62,13 +55,13 @@ def query_subtitles(hash_string, file_path):
                 logger.info(str(ext_string) + ' file found')
                 zipped = (buffer_[0] == '\x1f') & (buffer_[1] == '\x8b') & (buffer_[2] == '\x08')
                 if zipped:
-                    d = zlib.decompressobj(16 + zlib.MAX_WBITS)
-                    buffer_ = d.decompress(buffer_)
+                    decompressobj = zlib.decompressobj(16 + zlib.MAX_WBITS)
+                    buffer_ = decompressobj.decompress(buffer_)
                 result = chardet.detect(buffer_)
                 encoding = result["encoding"]
                 buffer_ = buffer_.decode(encoding, 'ignore').encode('utf-8')
-                p = re.compile('{.*}|<.*>')
-                buffer_ = p.sub('', buffer_)
+                pattern = re.compile('{.*}|<.*>')
+                buffer_ = pattern.sub('', buffer_)
                 buffer_ = buffer_.decode('utf-8', 'ignore')
                 if ext_string == 'ass':
                     logger.info('converting ass file to srt file')
@@ -108,73 +101,3 @@ def get_post_data(file_path, hash_string):
                      '------------------------------767a02e50d82--\r\n'
     ]
     return ''.join(strings).encode('utf-8')
-
-
-def my_hash(path):
-    fp = open(path, "rb")
-    file_length = getsize(path)
-
-    if file_length < 8192:
-        return ""
-    else:
-        block_size = 4096
-        offset = [block_size, file_length / 3 * 2, file_length / 3, file_length - 8192]
-        hash_result = ""
-        for i in range(4):
-
-            fp.seek(int(offset[i]))
-            data_block = fp.read(block_size)
-            hash_str = hashlib.md5(data_block)
-            if len(hash_result) > 0:
-                hash_result += ";"
-            hash_result += hash_str.hexdigest().lower()
-        return hash_result
-
-
-def srt_lang(input_buffer):
-    count_chs = 0
-    count_eng = 0
-    for b in input_buffer:
-        if lang(b) == 'chs':
-            count_chs += 1
-        elif lang(b) == 'eng':
-            count_eng += 1
-    if count_chs > 1000 and count_eng > len(input_buffer) / 5:
-        logger.info("chs_eng srt is confirmed")
-        return 'chs_eng'
-    elif count_chs > 1000:
-        logger.info("chs srt is confirmed")
-        return 'chs'
-    elif count_eng > len(input_buffer) / 5:
-        logger.info('eng srt is confirmed')
-        return 'eng'
-    else:
-        return 'none'
-
-
-def lang(uchar):
-    if u'\u4e00' <= uchar <= u'\u9fa5':
-        return 'chs'
-    if u'a' <= uchar <= u'z':
-        return 'eng'
-
-
-def convert_ass_to_srt(input_buffer):
-    result_lines = []
-    for index, line in enumerate(input_buffer.split("\n")):
-        if line[:9] == "Dialogue:":
-            result_lines.append("%d\n" % index)
-            clean_line = re.sub("{.*?}", "", line)
-            entries = clean_line[10:].strip().split(",")
-            result_lines.append(
-                "%s --> %s\n" % (entries[1].replace(".", ",") + "0", entries[2].replace(".", ",") + "0"))
-            result_lines.append("".join(entries[9:]).replace("\N", "\n") + "\n")
-            result_lines.append("\n")
-    return ''.join(result_lines)
-
-
-def byte2int(b_str, width):
-    val = sum(ord(b) << 8 * n for (n, b) in enumerate(reversed(b_str)))
-    if val >= (1 << (width - 1)):
-        val -= (1 << width)
-    return val

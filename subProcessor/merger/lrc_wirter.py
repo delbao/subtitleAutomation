@@ -1,7 +1,9 @@
 import re
+from logging import getLogger
 
-from merger.merge_subs import logger
 from merger.time_utils import ms_to_string
+
+logger = getLogger()
 
 
 def lrc_writer(file_path, subtitles, mode=0):
