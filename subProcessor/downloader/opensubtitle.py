@@ -10,8 +10,9 @@ from StringIO import StringIO
 from logging import getLogger
 from os.path import splitext
 
-from new_structure.lang_getter.langdet import LanguageDetector
 from new_structure.lang_getter.languages import english
+
+from lang_getter.langdet import LanguageDetector
 
 logger = getLogger()
 

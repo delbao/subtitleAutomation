@@ -8,9 +8,9 @@ import sys
 from os.path import splitext, basename, exists
 
 from new_structure.downloader.opensubtitle import get_opensubtitle_sub
-from new_structure.downloader.shooters import get_shooter_sub
-
 from new_structure.merger.merge_subs import srt_merge
+
+from downloader.shooters import get_shooter_sub
 
 logger = logging.getLogger()
 
