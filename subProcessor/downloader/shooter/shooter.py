@@ -72,21 +72,14 @@ def query_subtitles(hash_string, file_path):
                 if blacklist.count(md5) > 0:
                     logger.info('this file is marked in blacklist')
                     continue
+
                 srt_lang_ = srt_lang(buffer_)
-                file_name = None
-                if srt_lang_ == 'none':
-                    return 'none', 'none'
-                elif srt_lang_ == 'chs_eng':
-                    file_name = root + ".chs_eng." + ext_string
-                elif srt_lang_ == 'chs':
-                    file_name = root + ".chs." + ext_string
-                elif srt_lang_ == 'eng':
-                    file_name = root + ".eng." + ext_string
+                if srt_lang_ in ['chs_eng', 'chs', 'eng']:
+                    file_name = '%s.%s.%s' % (root, srt_lang_, ext_string)
+                    with codecs.open(file_name, "w") as output_file:
+                        output_file.write(buffer_.encode('utf-8'))
 
-                with codecs.open(file_name, "w") as fp_output:
-                    fp_output.write(buffer_.encode('utf-8'))
-
-                return file_name, srt_lang_
+                    return file_name, srt_lang_
     return '', 'none'
 
 
