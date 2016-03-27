@@ -8,82 +8,104 @@ from os.path import splitext
 
 import chardet
 
-from downloader.shooter.constants import QUERY_URL, USER_AGENT, CONTENT_TYPE, blacklist
-from downloader.shooter.shooter_utils import my_hash, srt_lang, convert_ass_to_srt, byte2int
+from downloader.shooter.constants import QUERY_URL, blacklist, request_headers
+from downloader.shooter.shooter_utils import hash_for_shooter, srt_lang, convert_ass_to_srt, byte2int
 
 logger = getLogger()
 
 
 def get_shooter_sub(file_path):
-    hash_str = my_hash(file_path)
+    hash_str = hash_for_shooter(file_path)
     return query_subtitles(hash_str, file_path)
 
 
 def query_subtitles(hash_string, file_path):
-    req = urllib2.Request(QUERY_URL)
-    req.add_header('User-Agent', USER_AGENT)
-    req.add_header('Connection', "Keep-Alive")
-    req.add_header('Content-Type', CONTENT_TYPE)
-    postdata = get_post_data(file_path, hash_string)
-    res = urllib2.urlopen(req, postdata)
+    req = urllib2.Request(QUERY_URL, headers=request_headers)
+    res = urllib2.urlopen(req, data=generate_post_data(file_path, hash_string))
     if res.getcode() == 200:
-        stat_code = res.read(1)
-        if len(stat_code) == 0:
+        stat_code_str = res.read(1)
+        if not stat_code_check_pass(stat_code_str):
             return 'none', 'none'
+        stat_code_int = byte2int(stat_code_str, 8)
+        logger.info("stat_code is:" + str(stat_code_int))
+        return process_url_result(res, stat_code_int, file_path)
+
+
+def stat_code_check_pass(stat_code):
+    if len(stat_code) != 0:
         stat_code = byte2int(stat_code, 8)
-        if stat_code == -1 or stat_code < 0:
-            return 'none', 'none'
-        logger.info("stat_code is:" + str(stat_code))
-        for _ in range(stat_code):
-            byte2int(res.read(4), 32)
-            desc_len = byte2int(res.read(4), 32)
-            if desc_len > 0:
-                res.read(desc_len)
-            byte2int(res.read(4), 32)
-            num_of_files = res.read(1)
-            if len(num_of_files) == 0:
-                logger.info("no file")
-                continue
-            num_of_files = byte2int(num_of_files, 8)
-            for __ in range(num_of_files):
-                byte2int(res.read(4), 32)
-                ext_len = byte2int(res.read(4), 32)
-                ext = res.read(ext_len)
-                ext_string = ext.decode('utf-8', 'ignore')
-                file_len = byte2int(res.read(4), 32)
-                buffer_ = res.read(file_len)
-                logger.info(str(ext_string) + ' file found')
-                zipped = (buffer_[0] == '\x1f') & (buffer_[1] == '\x8b') & (buffer_[2] == '\x08')
-                if zipped:
-                    decompressobj = zlib.decompressobj(16 + zlib.MAX_WBITS)
-                    buffer_ = decompressobj.decompress(buffer_)
-                result = chardet.detect(buffer_)
-                encoding = result["encoding"]
-                buffer_ = buffer_.decode(encoding, 'ignore').encode('utf-8')
-                pattern = re.compile('{.*}|<.*>')
-                buffer_ = pattern.sub('', buffer_)
-                buffer_ = buffer_.decode('utf-8', 'ignore')
-                if ext_string == 'ass':
-                    logger.info('converting ass file to srt file')
-                    buffer_ = convert_ass_to_srt(buffer_)
-                    ext_string = 'srt'
-                root, extension = splitext(file_path)
-                md5 = hashlib.md5(buffer_).hexdigest() + "\n"
-                if blacklist.count(md5) > 0:
-                    logger.info('this file is marked in blacklist')
-                    continue
+        if stat_code >= 0:
+            return True
+    return False
 
-                srt_lang_ = srt_lang(buffer_)
+
+def process_url_result(url_res, stat_code, file_path):
+    for _ in range(stat_code):
+        read_header(url_res)
+        for __ in range(get_number_of_files(url_res)):
+            ext_string = read_file_ext(url_res)
+            logger.info(str(ext_string) + ' file found')
+            sub_file_content, ext_string = process_sub_file_buffer(get_sub_file_buffer(url_res), ext_string)
+            if hashlib.md5(sub_file_content).hexdigest() not in blacklist:
+                srt_lang_ = srt_lang(sub_file_content)
                 if srt_lang_ in ['chs_eng', 'chs', 'eng']:
-                    file_name = '%s.%s.%s' % (root, srt_lang_, ext_string)
-                    with codecs.open(file_name, "w") as output_file:
-                        output_file.write(buffer_.encode('utf-8'))
+                    output_file_path = '%s.%s.%s' % ((splitext(file_path)[0]), srt_lang_, ext_string)
+                    with codecs.open(output_file_path, "w") as output_file:
+                        output_file.write(sub_file_content.encode('utf-8'))
 
-                    return file_name, srt_lang_
+                    return output_file_path, srt_lang_
+            else:
+                logger.info('this file is marked in blacklist')
     return '', 'none'
 
 
-def get_post_data(file_path, hash_string):
+def get_sub_file_buffer(url_res):
+    file_len = byte2int(url_res.read(4), 32)
+    return url_res.read(file_len)
+
+
+def process_sub_file_buffer(buffer_, ext_string):
+    if buffer_[:3] == '\x1f\x8b\x08':
+        decompressobj = zlib.decompressobj(16 + zlib.MAX_WBITS)
+        buffer_ = decompressobj.decompress(buffer_)
+    char_info = chardet.detect(buffer_)
+    buffer_ = buffer_.decode(char_info["encoding"], 'ignore').encode('utf-8')
+    pattern = re.compile('{.*}|<.*>')
+    buffer_ = pattern.sub('', buffer_)
+    buffer_ = buffer_.decode('utf-8', 'ignore')
+    if ext_string == 'ass':
+        logger.info('converting ass file to srt file')
+        buffer_ = convert_ass_to_srt(buffer_)
+        ext_string = 'srt'
+    return buffer_, ext_string
+
+
+def read_header(res):
+    byte2int(res.read(4), 32)
+    desc_len = byte2int(res.read(4), 32)
+    if desc_len > 0:
+        res.read(desc_len)
+    byte2int(res.read(4), 32)
+
+
+def get_number_of_files(url_res):
+    num_of_files = url_res.read(1)
+    if num_of_files:
+        return byte2int(num_of_files, 8)
+    else:
+        logger.info("no files")
+        return 0
+
+
+def read_file_ext(url_res):
+    url_res.read(4), 32
+    ext_len = byte2int(url_res.read(4), 32)
+    ext = url_res.read(ext_len)
+    ext_string = ext.decode('utf-8', 'ignore')
+    return ext_string
+
+
+def generate_post_data(file_path, hash_string):
     strings = [
         '------------------------------767a02e50d82\r\n'
         'Content-Disposition: form-data; name="pathinfo"\r\n\r\n',

@@ -8,6 +8,7 @@ from logging import getLogger
 from downloader.opensubtitle.constants import options, xmlrpc_server, osdb_token
 from downloader.opensubtitle.out_file_format_utils import format_subtitle_output_file_name
 from downloader.opensubtitle.query_utils import query_yn
+from lang_getter.langdet import get_language
 
 logger = getLogger()
 
@@ -43,21 +44,21 @@ def download_and_save_subtitle(sub_id, destfile_name):
         else:
             raise Exception("internal error: bad option.existing=%s" % options['existing'])
     logger.info("Downloading #%s to %s..." % (sub_id, destfile_name))
-    s = download_subtitle(sub_id)
-    if s[:3] == codecs.BOM_UTF8:
-        s = s[3:]
-    s = s.decode('utf-8', 'replace')
-    if is_english(s):
-        with open(destfile_name, 'wb') as file_:
-            file_.write(s)
-        logger.info("done, wrote %d bytes." % (len(s)))
+    sub_content = download_subtitle(sub_id)
+    if sub_content[:3] == codecs.BOM_UTF8:
+        sub_content = sub_content[3:]
+    sub_content = sub_content.decode('utf-8', 'replace')
+    if is_english(sub_content):
+        with open(destfile_name, 'wb') as out_file:
+            out_file.write(sub_content)
+        logger.info("done, wrote %d bytes." % (len(sub_content)))
         return 'ok'
     else:
         return 'none'
 
 
 def is_english(string):
-    return LanguageDetector.detect(string) == english
+    return get_language(string) == 'en'
 
 
 def download_subtitle(sub_id):

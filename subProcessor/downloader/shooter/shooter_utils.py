@@ -6,7 +6,7 @@ from logging import getLogger
 logger = getLogger()
 
 
-def my_hash(path):
+def hash_for_shooter(path):
     with open(path, "rb") as file_obj:
         file_length = getsize(path)
 
@@ -14,15 +14,14 @@ def my_hash(path):
             return ""
         else:
             block_size = 4096
-            offset = [block_size, file_length / 3 * 2, file_length / 3, file_length - 8192]
+            offset_collection = [block_size, file_length / 3 * 2, file_length / 3, file_length - 8192]
             hash_result = ""
-            for i in range(4):
-                file_obj.seek(int(offset[i]))
+            for offset_el in offset_collection:
+                file_obj.seek(int(offset_el))
                 data_block = file_obj.read(block_size)
-                hash_str = hashlib.md5(data_block)
                 if len(hash_result) > 0:
                     hash_result += ";"
-                hash_result += hash_str.hexdigest().lower()
+                hash_result += hashlib.md5(data_block).hexdigest().lower()
             return hash_result
 
 

@@ -1,18 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import sys
-
 from langdetect import detect
 
 
-def get_language():
+def get_language(string):
     try:
-        with open(sys.argv[1]) as file_:
-            text = file_.read()
-            text = text.decode('utf-8')
-        return detect(text)
+        return detect(string.decode('utf-8'))
     except UnicodeDecodeError:
-        return chine_or_none(text)
+        return chine_or_none(string)
     except IndexError:
         return 'ERROR: File not open. Please input file'
 
@@ -25,8 +20,3 @@ def chine_or_none(text):
         return None
     except UnicodeDecodeError:
         return None
-
-
-if __name__ == "__main__":
-    language = get_language()
-    print(language)
