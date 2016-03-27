@@ -23,9 +23,7 @@ def get_opensubtitle_sub(file_path, lang_='eng'):
         downloaded = {}
         for search_result in search_results:
             res = auto_download_and_save(video_file_name, search_result, downloaded)
-            if res == 'none':
-                continue
-            else:
+            if res != 'none':
                 return res
     elif options['download'] == 'query':
         number_input = query_num("Enter result to download [1..%d]:" % (len(search_results)),
