@@ -11,9 +11,9 @@ def ms_to_string(ms, style=1):
     ss = it % 60
     mm = ((it - ss) / 60) % 60
     hh = ((it - (mm * 60) - ss) / 3600) % 60
-    if style is 1:
+    if style == 1:
         return "%02d:%02d:%02d,%03d" % (hh, mm, ss, ms_)
-    if style is 2:
+    if style == 2:
         return "%d:%d.%03d" % (mm + 60 * hh, ss, ms_)
 
 

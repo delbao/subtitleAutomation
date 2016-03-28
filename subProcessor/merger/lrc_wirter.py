@@ -9,7 +9,7 @@ logger = getLogger()
 def lrc_writer(file_path, subtitles, mode=0):
     lines = []
     last_finish = 0
-    for index, rec in enumerate(subtitles, 1):
+    for idx, rec in enumerate(subtitles, 1):
         if last_finish != 0 and rec.start - last_finish > 1000:
             time = ms_to_string(last_finish, 2)
             lines.append("[{_time}]{_mark}{_text}\n".format(_time=time, _mark='<R0>', _text='').encode('gb18030'))
@@ -20,24 +20,14 @@ def lrc_writer(file_path, subtitles, mode=0):
         if mode == 1:
             parts = text.splitlines()
             lang = ''
-            for i in range(len(parts)):
-                p = parts[i]
-                subtitle_language_ = subtitle_language(p.decode('utf-8'))
+            for idx, line in enumerate(parts):
+                subtitle_language_ = subtitle_language(line.decode('utf-8'))
                 if lang == '':
                     lang = subtitle_language_
                     continue
                 if lang != subtitle_language_:
-                    if subtitle_language == 'chs':
-                        s = ''.join(parts[:i])
-                        s += '|'
-                        s += ''.join(parts[i:])
-                        text = s
-                    elif subtitle_language == 'eng':
-                        s = ''.join(parts[i:])
-                        s += '|'
-                        s += ''.join(parts[:i])
-                        text = s
-                        break
+                    text = '%s|%s' % (''.join(parts[:idx]), ''.join(parts[idx:]))
+                    break
         text = text.replace('\r\n', '')
         text = text.replace('\n', '')
         word_count = len(re.findall(r"[A-Za-z]+", text))
